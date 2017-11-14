@@ -8,4 +8,20 @@ output: html_document
 ```{r setup}
 library(tidyverse)
 library(plotly)
+library(readr)
+library(stringr)
+```
+
+#Problem 1
+
+```{r problem1_import}
+nyc_inspections = read_csv("./DOHMH_New_York_City_Restaurant_Inspection_Results.csv.gz", 
+                           col_types = cols(building = col_character()),
+                           na = c("NA", "N/A"))
+nyc_inspections =
+  nyc_inspections %>%
+  filter(grade %in% c("A", "B", "C"), boro != "Missing") %>% 
+  mutate(boro = str_to_title(boro)) %>% 
+  select(-action, -phone)
+
 ```
