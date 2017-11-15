@@ -10,6 +10,8 @@ library(tidyverse)
 library(plotly)
 library(readr)
 library(stringr)
+library(ggplot2)
+library(flexdashboard)
 ```
 
 #Problem 1
@@ -23,5 +25,13 @@ nyc_inspections =
   filter(grade %in% c("A", "B", "C"), boro != "Missing") %>% 
   mutate(boro = str_to_title(boro)) %>% 
   select(-action, -phone)
+
+inspections_bar = nyc_inspections %>%
+  ggplot(aes(x = grade, fill = critical_flag)) +
+  geom_bar() +
+  facet_grid(. ~ boro)
+
+ggplotly(inspections_bar)
+
 
 ```
