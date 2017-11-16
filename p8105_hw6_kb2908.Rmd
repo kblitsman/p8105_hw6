@@ -7,8 +7,9 @@ output:
     orientation: columns
     vertical_layout: fill
 ---
+#Problem 1
 
-```{r setup, include=FALSE}
+```{r problem1_setup, include=FALSE}
 library(tidyverse)
 library(plotly)
 library(readr)
@@ -29,10 +30,10 @@ nyc_inspections =
 
 ```
 
-Column {data-width=450}
+Column {data-width=400}
 -----------------------------------------------------------------------
 
-### Chart A
+### Boxplots of Inspection Score by Cuisine
 
 ```{r}
 cuisine_list = nyc_inspections %>% 
@@ -47,7 +48,7 @@ inner_join(nyc_inspections, cuisine_list,
           colors = "Set2")
 ```
 
-Column {data-width=450}
+Column {data-width=500}
 -----------------------------------------------------------------------
 
 ### Chart B
@@ -56,13 +57,14 @@ Column {data-width=450}
 
 ```
 
-### Chart C
+### Bar Graph of Inspection Grades by Borough
 
 ```{r}
 grade_bar = nyc_inspections %>%
   ggplot(aes(x = grade, fill = critical_flag)) +
   geom_bar() +
-  facet_grid(. ~ boro)
+  facet_grid(. ~ boro) +
+  xlab("Grade") + ylab("Number of Restaurants")
 
 ggplotly(grade_bar)
 ```
