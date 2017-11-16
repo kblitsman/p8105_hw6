@@ -2,10 +2,13 @@
 title: "Homework 6"
 author: "Katie Blitsman (kb2908)"
 date: "November 17, 2017"
-output: html_document
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
 ---
 
-```{r setup}
+```{r setup, include=FALSE}
 library(tidyverse)
 library(plotly)
 library(readr)
@@ -13,11 +16,7 @@ library(stringr)
 library(ggplot2)
 library(flexdashboard)
 library(forcats)
-```
 
-#Problem 1
-
-```{r problem1_import}
 nyc_inspections = read_csv("./DOHMH_New_York_City_Restaurant_Inspection_Results.csv.gz", 
                            col_types = cols(building = col_character()),
                            na = c("NA", "N/A"))
@@ -28,13 +27,14 @@ nyc_inspections =
          cuisine_description) %>% 
   select(-action, -phone)
 
-grade_bar = nyc_inspections %>%
-  ggplot(aes(x = grade, fill = critical_flag)) +
-  geom_bar() +
-  facet_grid(. ~ boro)
+```
 
-ggplotly(grade_bar)
+Column {data-width=450}
+-----------------------------------------------------------------------
 
+### Chart A
+
+```{r}
 cuisine_list = nyc_inspections %>% 
   count(cuisine_description, sort = TRUE) %>% 
   top_n(10) %>% 
@@ -45,6 +45,24 @@ inner_join(nyc_inspections, cuisine_list,
   mutate(cuisine_description = fct_reorder(cuisine_description, score)) %>% 
   plot_ly(y = ~score, color = ~cuisine_description, type = "box",
           colors = "Set2")
+```
 
+Column {data-width=450}
+-----------------------------------------------------------------------
 
+### Chart B
+
+```{r}
+
+```
+
+### Chart C
+
+```{r}
+grade_bar = nyc_inspections %>%
+  ggplot(aes(x = grade, fill = critical_flag)) +
+  geom_bar() +
+  facet_grid(. ~ boro)
+
+ggplotly(grade_bar)
 ```
