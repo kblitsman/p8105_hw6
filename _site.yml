@@ -9,11 +9,15 @@ navbar:
       href: https://kblitsman.github.io/
     - text: "About Corey"
       href: https://corey-brennan.github.io/
+    - text: "About Aaron"
+      href: https://cheng-aaron.github.io/
     - icon: fa-envelope fa-lg
-      href: mailto:<corey.brennan@columbia.edu;kb2908@cumc.columbia.edu>
+      href: mailto:<corey.brennan@columbia.edu;kb2908@cumc.columbia.edu;ac4114@cumc.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/kblitsman/
     - icon: fa-github fa-lg
       href: http://github.com/corey-brennan/
+    - icon: fa-github fa-lg
+      href: https://github.com/cheng-aaron 
 output:
   html_document

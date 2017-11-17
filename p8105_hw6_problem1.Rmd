@@ -22,7 +22,7 @@ nyc_inspections = read_csv("./DOHMH_New_York_City_Restaurant_Inspection_Results.
 nyc_inspections =
   nyc_inspections %>%
   clean_names() %>%
-  mutate(cuisine_description = ifelse(cuisine_description == "CafÃ©/Coffee/Tea", "Cafe/coffee/Tea", cuisine_description)) %>%
+  mutate(cuisine_description = ifelse(cuisine_description == "CafÃ©/Coffee/Tea", "Cafe/Coffee/Tea", cuisine_description)) %>%
   filter(grade %in% c("A", "B", "C"), boro != "Missing") %>% 
   mutate(boro = str_to_title(boro)) %>%
   filter(inspection_date > "2000-01-01 UTC") %>%
