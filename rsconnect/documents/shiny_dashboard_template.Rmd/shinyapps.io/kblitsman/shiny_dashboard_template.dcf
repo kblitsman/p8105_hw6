@@ -1,0 +1,10 @@
+name: shiny_dashboard_template
+title:
+username:
+account: kblitsman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 236590
+bundleId: 1080403
+url: https://kblitsman.shinyapps.io/shiny_dashboard_template/
+when: 1510892775.11713
