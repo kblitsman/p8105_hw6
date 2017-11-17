@@ -18,6 +18,7 @@ library(forcats)
 library(janitor)
 library(shiny)
 
+# Reading CSVs in for lighter load on shiny
 nyc_inspections = read_csv("./nyc_inspections.csv")
 
 cuisine_list = read_csv("./cuisine_list.csv")
@@ -27,15 +28,17 @@ Column {.sidebar}
 -----------------------------------------------------------------------
 
 ```{r input_widget, echo=FALSE}
+
+# Creating grade and date ranges for selector widgets
 grade = nyc_inspections %>% distinct(grade) %>% pull()
 first_date = min(nyc_inspections$inspection_date)
 last_date = max(nyc_inspections$inspection_date)
 
-#selectInput widget
+# selectInput widget for grade
 selectInput("grade_choice", label = h3("Select grade"),
             choices = grade, selected = "A")
 
-# sliderInput widget
+# sliderInput widget for inspection date range
 sliderInput("inspection_range", label = h3("Choose inspection date range"), min = first_date, max = last_date, value = c(as.POSIXct("2012-05-01"), as.POSIXct("2017-10-17")))
 
 ```
@@ -47,6 +50,8 @@ Row
 ### Boxplots
 
 ```{r boxplot}
+
+# Rendering plotly boxplot 
 renderPlotly({
 
 inner_join(nyc_inspections, cuisine_list,
@@ -65,6 +70,8 @@ Row {.tabset .tabset-fade}
 ### Donut Chart
 
 ```{r donut_chart}
+
+# Rendering donut chart
 renderPlotly({
 
   inner_join(nyc_inspections, cuisine_list,
@@ -80,6 +87,8 @@ renderPlotly({
 ### Bar Graph
 
 ```{r bar_chart}
+
+# Rendering bar chart
 renderPlotly({
   
   grade_bar = nyc_inspections %>%
