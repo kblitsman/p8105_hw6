@@ -6,7 +6,7 @@ output:
 runtime: shiny
 ---
 
-```{r setup, include=FALSE}
+```{r prob2_setup, include=FALSE}
 library(flexdashboard)
 library(tidyverse)
 library(plotly)
@@ -26,7 +26,7 @@ cuisine_list = read_csv("./cuisine_list.csv")
 Column {.sidebar}
 -----------------------------------------------------------------------
 
-```{r, echo=FALSE}
+```{r input_widget, echo=FALSE}
 grade = nyc_inspections %>% distinct(grade) %>% pull()
 first_date = min(nyc_inspections$inspection_date)
 last_date = max(nyc_inspections$inspection_date)
@@ -44,9 +44,9 @@ sliderInput("inspection_range", label = h3("Choose inspection date range"), min 
 Row
 -----------------------------------------------------------------------
 
-### Chart A
+### Boxplots
 
-```{r}
+```{r boxplot}
 renderPlotly({
 
 inner_join(nyc_inspections, cuisine_list,
@@ -62,9 +62,9 @@ inner_join(nyc_inspections, cuisine_list,
 Row {.tabset .tabset-fade}
 -----------------------------------------------------------------------
 
-### Chart B
+### Donut Chart
 
-```{r}
+```{r donut_chart}
 renderPlotly({
 
   inner_join(nyc_inspections, cuisine_list,
@@ -77,9 +77,9 @@ renderPlotly({
 })
 ```
 
-### Chart C
+### Bar Graph
 
-```{r}
+```{r bar_chart}
 renderPlotly({
   
   grade_bar = nyc_inspections %>%
