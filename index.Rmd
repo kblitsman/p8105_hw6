@@ -1,0 +1,9 @@
+---
+title: Analyzing Sanitation Grades in New York City
+---
+
+### Analysis
+We initially examined various sanitation aspects of restaurants in New York City using [plotly](p8105_hw6_kb2908.html)
+
+###Shiny Dashboard
+We then constructed an interative Shiny dashboard to allow the user to control certain aspects of the [data analysis](https://kblitsman.shinyapps.io/p8105_hw6_problem2/).
