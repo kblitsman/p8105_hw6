@@ -1,7 +1,5 @@
 ---
 title: "Problem 1"
-author: "Katie Blitsman (kb2908) & Corey Brennan (cb3262)"
-date: "November 17, 2017"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
