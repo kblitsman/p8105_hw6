@@ -1,0 +1,2371 @@
+camis,boro,critical_flag,cuisine_description,inspection_date,score,grade
+41242148,Manhattan,Critical,Irish,2016-10-13T00:00:00Z,9,A
+50011024,Manhattan,Not Critical,Indian,2015-07-21T00:00:00Z,7,B
+40573964,Manhattan,Not Critical,American,2016-06-10T00:00:00Z,10,A
+50053384,Manhattan,Critical,Soups & Sandwiches,2016-12-12T00:00:00Z,14,B
+40854950,Manhattan,Not Critical,Italian,2016-05-17T00:00:00Z,12,A
+41544565,Bronx,Critical,American,2015-04-02T00:00:00Z,13,A
+41445505,Brooklyn,Critical,American,2015-02-12T00:00:00Z,12,A
+41144145,Queens,Not Critical,American,2016-09-07T00:00:00Z,13,A
+50000203,Queens,Critical,Spanish,2017-01-31T00:00:00Z,21,B
+41606952,Queens,Not Critical,Mexican,2016-05-19T00:00:00Z,12,A
+41476697,Manhattan,Critical,American,2017-07-21T00:00:00Z,11,A
+41722445,Brooklyn,Critical,American,2017-08-08T00:00:00Z,10,A
+40363744,Brooklyn,Not Critical,American,2016-03-14T00:00:00Z,2,A
+41331720,Bronx,Not Critical,Bakery,2015-01-12T00:00:00Z,12,A
+41245488,Brooklyn,Not Critical,Chinese,2016-04-13T00:00:00Z,12,A
+40376735,Manhattan,Critical,Irish,2016-10-17T00:00:00Z,13,A
+41373384,Manhattan,Critical,Pizza,2014-12-16T00:00:00Z,9,A
+40384441,Brooklyn,Not Critical,Spanish,2016-04-21T00:00:00Z,11,A
+50000638,Queens,Critical,Mexican,2016-10-15T00:00:00Z,12,A
+41271464,Staten Island,Critical,Hotdogs/Pretzels,2017-08-24T00:00:00Z,5,A
+41684056,Manhattan,Not Critical,French,2015-03-16T00:00:00Z,2,A
+50048625,Queens,Not Critical,Bakery,2017-09-29T00:00:00Z,11,A
+41687909,Manhattan,Not Critical,Cafe/coffee/Tea,2017-06-01T00:00:00Z,4,A
+40756352,Manhattan,Not Critical,American,2015-06-04T00:00:00Z,2,A
+50010956,Queens,Not Critical,Chinese,2016-12-21T00:00:00Z,13,A
+41421846,Brooklyn,Not Applicable,Donuts,2014-11-13T00:00:00Z,0,A
+50016753,Queens,Critical,Chinese,2017-09-21T00:00:00Z,13,A
+41691644,Brooklyn,Critical,Mexican,2017-01-23T00:00:00Z,12,A
+50004149,Manhattan,Not Critical,Mexican,2015-07-06T00:00:00Z,4,A
+40665065,Manhattan,Critical,French,2014-11-26T00:00:00Z,13,A
+50068112,Manhattan,Critical,Mexican,2017-10-02T00:00:00Z,12,A
+41660608,Brooklyn,Critical,Chinese,2016-09-16T00:00:00Z,27,B
+41423288,Queens,Critical,Chinese,2015-09-23T00:00:00Z,12,A
+50004905,Queens,Critical,Spanish,2015-11-05T00:00:00Z,8,A
+40960423,Manhattan,Critical,Mexican,2015-09-03T00:00:00Z,7,A
+40994739,Manhattan,Critical,Sandwiches,2016-04-23T00:00:00Z,12,A
+41534408,Bronx,Critical,American,2014-04-11T00:00:00Z,27,B
+50000634,Brooklyn,Not Critical,Indian,2013-10-03T00:00:00Z,7,A
+41367178,Manhattan,Not Critical,Vietnamese/Cambodian/Malaysia,2015-12-07T00:00:00Z,3,A
+41237293,Queens,Not Critical,Mexican,2016-04-02T00:00:00Z,12,A
+40369724,Queens,Not Critical,Hamburgers,2015-01-28T00:00:00Z,4,A
+41245538,Manhattan,Critical,Italian,2015-02-18T00:00:00Z,12,A
+41691159,Bronx,Not Critical,American,2017-09-15T00:00:00Z,12,A
+50009617,Queens,Not Critical,Italian,2017-01-05T00:00:00Z,24,B
+41105271,Brooklyn,Critical,Donuts,2017-05-09T00:00:00Z,7,A
+41686601,Staten Island,Not Critical,American,2016-09-07T00:00:00Z,12,A
+41118203,Bronx,Critical,Bakery,2015-12-10T00:00:00Z,18,B
+50003614,Brooklyn,Not Critical,Hamburgers,2017-02-14T00:00:00Z,8,A
+41582081,Manhattan,Critical,Italian,2015-02-03T00:00:00Z,10,A
+41144024,Manhattan,Not Critical,American,2014-02-27T00:00:00Z,20,B
+50056595,Bronx,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-05-31T00:00:00Z,12,A
+41659111,Queens,Critical,Brazilian,2014-04-10T00:00:00Z,13,A
+50018778,Manhattan,Critical,Korean,2015-06-30T00:00:00Z,27,B
+41314296,Brooklyn,Not Critical,American,2017-06-06T00:00:00Z,7,A
+41415808,Brooklyn,Not Critical,Japanese,2016-08-04T00:00:00Z,10,A
+41545062,Queens,Critical,Japanese,2016-03-03T00:00:00Z,27,B
+41630839,Manhattan,Critical,American,2014-10-02T00:00:00Z,9,A
+41257592,Bronx,Critical,Caribbean,2017-05-10T00:00:00Z,34,C
+50036123,Manhattan,Critical,Hamburgers,2016-12-01T00:00:00Z,35,C
+50033097,Manhattan,Not Critical,American,2016-11-02T00:00:00Z,10,A
+50017760,Brooklyn,Critical,Bakery,2017-07-25T00:00:00Z,12,A
+50002487,Brooklyn,Critical,Caribbean,2015-02-20T00:00:00Z,16,B
+40396548,Bronx,Not Critical,Pizza,2014-10-15T00:00:00Z,12,A
+50001313,Brooklyn,Critical,Chinese,2015-03-09T00:00:00Z,13,A
+41289647,Manhattan,Critical,French,2016-12-22T00:00:00Z,13,A
+41660557,Brooklyn,Not Critical,Cafe/coffee/Tea,2015-11-02T00:00:00Z,13,A
+40404074,Manhattan,Not Critical,American,2015-10-09T00:00:00Z,2,A
+50058617,Manhattan,Critical,Hawaiian,2017-03-20T00:00:00Z,12,A
+40993590,Manhattan,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-06-03T00:00:00Z,9,A
+41626009,Manhattan,Not Critical,Cafe/coffee/Tea,2015-03-30T00:00:00Z,12,A
+40367278,Queens,Critical,Pizza/Italian,2016-03-29T00:00:00Z,12,A
+50003300,Queens,Not Critical,Asian,2014-12-22T00:00:00Z,9,A
+50063576,Bronx,Not Critical,Caribbean,2017-06-01T00:00:00Z,12,A
+50038123,Bronx,Critical,Hotdogs/Pretzels,2015-10-14T00:00:00Z,43,C
+41225436,Brooklyn,Critical,Japanese,2016-01-27T00:00:00Z,11,A
+50037434,Brooklyn,Critical,American,2017-02-17T00:00:00Z,11,A
+50061569,Manhattan,Not Critical,American,2017-04-24T00:00:00Z,7,A
+50011229,Manhattan,Critical,Cafe/coffee/Tea,2017-10-10T00:00:00Z,12,A
+40367278,Queens,Not Critical,Pizza/Italian,2016-03-29T00:00:00Z,12,A
+50054213,Queens,Critical,Cafe/coffee/Tea,2017-06-22T00:00:00Z,13,A
+41622588,Manhattan,Not Critical,Bakery,2014-05-08T00:00:00Z,6,A
+41626109,Brooklyn,Not Critical,American,2015-07-09T00:00:00Z,7,A
+50042876,Queens,Not Critical,Pizza,2016-02-22T00:00:00Z,11,A
+41704908,Brooklyn,Not Critical,Chinese,2017-03-07T00:00:00Z,3,A
+50044840,Brooklyn,Critical,Asian,2016-09-27T00:00:00Z,14,B
+41630104,Queens,Critical,Chinese,2015-04-03T00:00:00Z,26,B
+40389881,Queens,Critical,American,2015-05-18T00:00:00Z,11,A
+41092640,Brooklyn,Critical,Russian,2016-08-24T00:00:00Z,15,B
+41503082,Manhattan,Not Critical,American,2015-07-22T00:00:00Z,10,A
+41688632,Bronx,Critical,"Bottled beverages, including water, sodas, juices, etc.",2014-02-20T00:00:00Z,12,A
+41582081,Manhattan,Not Critical,Italian,2017-04-03T00:00:00Z,4,A
+50001069,Queens,Not Critical,Russian,2017-06-14T00:00:00Z,4,A
+50039094,Manhattan,Not Critical,French,2016-11-22T00:00:00Z,7,A
+41504651,Brooklyn,Not Critical,Chinese,2016-12-05T00:00:00Z,13,A
+41536979,Queens,Critical,American,2014-04-12T00:00:00Z,10,A
+41711191,Brooklyn,Critical,Chinese,2015-06-29T00:00:00Z,-1,B
+50012545,Manhattan,Not Critical,Hamburgers,2015-05-12T00:00:00Z,12,A
+41596557,Bronx,Critical,Pizza,2016-01-19T00:00:00Z,6,A
+41523554,Queens,Critical,Chicken,2015-07-20T00:00:00Z,11,A
+41217779,Manhattan,Critical,Cafe/coffee/Tea,2016-06-17T00:00:00Z,22,B
+41445748,Manhattan,Critical,American,2016-09-01T00:00:00Z,11,A
+50032652,Queens,Not Critical,Spanish,2015-08-11T00:00:00Z,27,B
+50011968,Brooklyn,Critical,Pizza,2014-10-15T00:00:00Z,11,A
+50002593,Manhattan,Not Critical,Cafe/coffee/Tea,2016-02-17T00:00:00Z,11,A
+41222434,Manhattan,Critical,Chinese,2016-08-25T00:00:00Z,24,B
+41703808,Brooklyn,Not Critical,Italian,2015-07-08T00:00:00Z,10,A
+41548763,Queens,Not Critical,Mexican,2014-09-11T00:00:00Z,9,A
+41534162,Manhattan,Critical,Irish,2014-06-23T00:00:00Z,11,A
+50041686,Brooklyn,Not Critical,Italian,2016-12-03T00:00:00Z,5,A
+50046158,Manhattan,Critical,Chinese,2016-07-19T00:00:00Z,31,C
+41583046,Brooklyn,Not Critical,Italian,2016-05-17T00:00:00Z,13,A
+41167453,Bronx,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-02-27T00:00:00Z,29,C
+40370781,Queens,Not Critical,Hamburgers,2014-10-30T00:00:00Z,37,C
+40931239,Manhattan,Not Critical,Peruvian,2015-07-09T00:00:00Z,13,A
+50036613,Queens,Not Critical,American,2016-03-02T00:00:00Z,13,A
+40576044,Manhattan,Critical,Italian,2014-09-13T00:00:00Z,12,A
+40957025,Manhattan,Not Critical,Asian,2016-06-28T00:00:00Z,36,C
+41436074,Bronx,Critical,Pizza/Italian,2014-10-15T00:00:00Z,7,A
+40383003,Queens,Critical,American,2015-02-23T00:00:00Z,11,A
+50006552,Manhattan,Critical,Indian,2016-12-15T00:00:00Z,11,A
+41320401,Manhattan,Not Critical,Bakery,2017-03-10T00:00:00Z,13,A
+40746893,Brooklyn,Not Critical,Pizza,2015-02-21T00:00:00Z,4,A
+41495778,Queens,Critical,Spanish,2014-05-01T00:00:00Z,15,B
+41552183,Manhattan,Not Critical,Bakery,2014-06-18T00:00:00Z,12,A
+50041252,Queens,Critical,Mexican,2017-10-17T00:00:00Z,12,A
+41492592,Brooklyn,Critical,American,2016-11-16T00:00:00Z,12,A
+50038565,Brooklyn,Critical,Delicatessen,2016-10-25T00:00:00Z,13,A
+50016481,Bronx,Not Critical,African,2016-05-18T00:00:00Z,12,A
+50040677,Brooklyn,Critical,Mexican,2017-09-20T00:00:00Z,7,A
+50014705,Brooklyn,Not Critical,"Juice, Smoothies, Fruit Salads",2015-05-18T00:00:00Z,13,A
+50002121,Manhattan,Critical,Delicatessen,2014-06-23T00:00:00Z,25,B
+41699551,Manhattan,Not Critical,American,2016-09-08T00:00:00Z,12,A
+50004620,Brooklyn,Not Critical,Asian,2017-10-12T00:00:00Z,5,A
+50037612,Queens,Critical,"Juice, Smoothies, Fruit Salads",2017-02-23T00:00:00Z,7,A
+40892252,Manhattan,Not Critical,American,2017-09-29T00:00:00Z,12,A
+50003966,Brooklyn,Critical,Middle Eastern,2015-02-09T00:00:00Z,8,A
+41642833,Staten Island,Critical,American,2014-07-31T00:00:00Z,10,A
+50037446,Queens,Critical,"Ice Cream, Gelato, Yogurt, Ices",2016-08-10T00:00:00Z,10,A
+41641642,Manhattan,Not Critical,Chinese,2015-01-14T00:00:00Z,20,B
+41163097,Queens,Not Critical,American,2016-11-16T00:00:00Z,13,A
+40390266,Bronx,Not Critical,American,2014-10-01T00:00:00Z,13,A
+41608874,Staten Island,Critical,American,2015-09-02T00:00:00Z,20,B
+41612393,Manhattan,Critical,Irish,2015-11-25T00:00:00Z,19,B
+41254301,Staten Island,Not Critical,"Ice Cream, Gelato, Yogurt, Ices",2017-07-17T00:00:00Z,12,A
+41486961,Brooklyn,Critical,Vietnamese/Cambodian/Malaysia,2015-10-06T00:00:00Z,12,A
+41547472,Manhattan,Critical,American,2014-09-22T00:00:00Z,7,A
+40855909,Manhattan,Critical,Italian,2015-09-08T00:00:00Z,13,A
+41639463,Manhattan,Critical,American,2014-09-19T00:00:00Z,10,A
+41313429,Manhattan,Not Critical,Donuts,2015-11-06T00:00:00Z,9,A
+41582873,Manhattan,Not Critical,Japanese,2014-08-28T00:00:00Z,10,A
+41221268,Queens,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-01-06T00:00:00Z,7,A
+41420811,Manhattan,Critical,Cafe/coffee/Tea,2015-07-24T00:00:00Z,9,A
+50033233,Manhattan,Not Critical,Asian,2017-05-16T00:00:00Z,13,A
+41047251,Queens,Not Critical,Bakery,2014-07-31T00:00:00Z,11,A
+50051703,Bronx,Critical,Chinese,2017-05-04T00:00:00Z,7,A
+41142578,Manhattan,Not Critical,Cafe/coffee/Tea,2015-04-09T00:00:00Z,11,A
+50068055,Manhattan,Critical,"Juice, Smoothies, Fruit Salads",2017-09-08T00:00:00Z,5,A
+41567090,Manhattan,Critical,Chinese,2014-11-13T00:00:00Z,9,A
+41639964,Manhattan,Critical,American,2017-04-05T00:00:00Z,10,A
+41072927,Brooklyn,Not Critical,American,2017-03-11T00:00:00Z,9,A
+40395036,Queens,Critical,American,2015-01-15T00:00:00Z,11,A
+41562420,Queens,Not Critical,Bakery,2016-09-20T00:00:00Z,13,A
+50011080,Queens,Not Critical,Spanish,2014-07-07T00:00:00Z,9,A
+40945691,Bronx,Critical,Mexican,2015-02-25T00:00:00Z,13,A
+50008546,Queens,Not Critical,American,2016-09-07T00:00:00Z,12,A
+50046224,Manhattan,Critical,Pizza,2016-08-03T00:00:00Z,24,B
+41702558,Bronx,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-03-02T00:00:00Z,18,B
+40888264,Queens,Critical,Sandwiches,2016-03-10T00:00:00Z,19,B
+50036694,Bronx,Critical,"Juice, Smoothies, Fruit Salads",2017-02-10T00:00:00Z,9,A
+50048963,Manhattan,Critical,Asian,2016-10-17T00:00:00Z,25,B
+50001255,Manhattan,Not Critical,Italian,2013-11-13T00:00:00Z,9,A
+50036964,Manhattan,Not Critical,Sandwiches/Salads/Mixed Buffet,2016-07-13T00:00:00Z,10,A
+50009321,Manhattan,Not Critical,Spanish,2016-01-26T00:00:00Z,10,A
+40994221,Manhattan,Not Applicable,Italian,2017-06-23T00:00:00Z,11,A
+50058348,Queens,Critical,Chinese,2017-10-16T00:00:00Z,10,A
+40365844,Queens,Not Critical,American,2017-03-08T00:00:00Z,10,A
+41532133,Brooklyn,Not Critical,American,2015-02-04T00:00:00Z,7,A
+50014333,Manhattan,Not Critical,American,2015-01-05T00:00:00Z,10,A
+41508109,Manhattan,Critical,Thai,2016-02-10T00:00:00Z,23,B
+50051357,Queens,Not Critical,Cafe/coffee/Tea,2016-10-14T00:00:00Z,12,A
+41300301,Bronx,Not Critical,Bakery,2015-08-13T00:00:00Z,10,A
+40369869,Manhattan,Not Critical,Irish,2015-11-30T00:00:00Z,7,A
+50009372,Queens,Not Critical,Mexican,2016-10-20T00:00:00Z,12,A
+40614573,Brooklyn,Critical,Caribbean,2016-05-12T00:00:00Z,18,B
+41011581,Manhattan,Critical,American,2016-01-06T00:00:00Z,12,A
+40928698,Manhattan,Critical,Greek,2014-06-21T00:00:00Z,12,A
+41504873,Bronx,Critical,Spanish,2015-01-06T00:00:00Z,19,B
+50042900,Brooklyn,Not Critical,Mexican,2016-08-08T00:00:00Z,12,A
+41063300,Queens,Critical,Italian,2014-01-09T00:00:00Z,12,A
+50002749,Brooklyn,Not Critical,Mexican,2016-06-29T00:00:00Z,34,C
+41331535,Brooklyn,Not Critical,"Bottled beverages, including water, sodas, juices, etc.",2015-03-04T00:00:00Z,13,A
+41627201,Manhattan,Critical,Armenian,2014-05-02T00:00:00Z,13,A
+50014052,Brooklyn,Critical,Seafood,2014-09-16T00:00:00Z,12,A
+50001637,Brooklyn,Critical,Spanish,2015-07-31T00:00:00Z,73,C
+50007382,Brooklyn,Not Critical,Eastern European,2015-02-02T00:00:00Z,9,A
+41215997,Bronx,Not Critical,Hamburgers,2015-02-18T00:00:00Z,7,A
+41463147,Brooklyn,Not Critical,Chinese/Japanese,2014-03-27T00:00:00Z,16,B
+41582117,Queens,Critical,American,2016-04-11T00:00:00Z,9,A
+50009148,Manhattan,Critical,American,2017-05-12T00:00:00Z,13,A
+50034040,Manhattan,Not Critical,Japanese,2015-07-28T00:00:00Z,26,B
+40754984,Manhattan,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2014-12-11T00:00:00Z,16,B
+41660744,Manhattan,Critical,American,2014-12-23T00:00:00Z,9,A
+41040376,Bronx,Critical,Middle Eastern,2014-08-08T00:00:00Z,11,A
+41544857,Brooklyn,Critical,Chinese,2015-01-12T00:00:00Z,11,A
+41396554,Queens,Not Critical,Chinese,2016-08-17T00:00:00Z,13,A
+50040728,Manhattan,Not Critical,Mexican,2016-10-17T00:00:00Z,12,A
+41465611,Brooklyn,Critical,Chinese,2014-10-07T00:00:00Z,25,B
+50040554,Brooklyn,Not Critical,Chinese,2016-12-29T00:00:00Z,9,A
+40364389,Manhattan,Not Critical,American,2016-10-11T00:00:00Z,10,A
+50044957,Brooklyn,Critical,Chinese,2017-04-19T00:00:00Z,7,A
+40510605,Manhattan,Critical,Delicatessen,2017-04-12T00:00:00Z,13,A
+41208272,Manhattan,Critical,Japanese,2017-04-12T00:00:00Z,12,A
+50033690,Queens,Critical,Chinese,2016-09-28T00:00:00Z,20,B
+50049331,Brooklyn,Critical,Cafe/coffee/Tea,2016-09-14T00:00:00Z,5,A
+50013099,Bronx,Critical,Pizza/Italian,2016-05-26T00:00:00Z,15,B
+50009170,Queens,Not Critical,Hamburgers,2015-02-02T00:00:00Z,11,A
+40794463,Brooklyn,Not Critical,American,2015-10-28T00:00:00Z,5,A
+41250435,Brooklyn,Critical,Pizza/Italian,2015-05-29T00:00:00Z,9,A
+50012125,Manhattan,Not Critical,Sandwiches,2015-09-11T00:00:00Z,9,A
+41142355,Brooklyn,Critical,Bakery,2016-09-19T00:00:00Z,25,B
+41225880,Queens,Critical,American,2015-09-17T00:00:00Z,9,A
+50005201,Brooklyn,Not Critical,Chinese,2017-04-20T00:00:00Z,13,A
+41611858,Brooklyn,Not Critical,Jewish/Kosher,2016-06-02T00:00:00Z,12,A
+41374456,Queens,Not Critical,Chinese,2015-04-10T00:00:00Z,12,A
+50038545,Queens,Critical,Mexican,2015-10-09T00:00:00Z,13,A
+41605848,Bronx,Not Critical,Chinese,2016-01-14T00:00:00Z,9,A
+41412916,Manhattan,Not Critical,"Ice Cream, Gelato, Yogurt, Ices",2017-06-09T00:00:00Z,13,A
+50008801,Bronx,Not Critical,Chinese,2015-04-23T00:00:00Z,11,A
+40577393,Queens,Critical,Spanish,2014-06-28T00:00:00Z,12,A
+41707474,Brooklyn,Not Critical,"Juice, Smoothies, Fruit Salads",2017-09-21T00:00:00Z,9,A
+50001102,Manhattan,Not Critical,American,2017-09-26T00:00:00Z,9,A
+41394975,Staten Island,Not Critical,Italian,2016-04-26T00:00:00Z,11,A
+41232711,Manhattan,Not Critical,Chinese,2015-02-05T00:00:00Z,11,A
+41717852,Manhattan,Critical,Irish,2016-04-25T00:00:00Z,10,A
+50011542,Manhattan,Not Critical,Chinese,2015-10-05T00:00:00Z,4,A
+50016289,Brooklyn,Not Critical,Chinese,2015-07-09T00:00:00Z,7,A
+40925478,Queens,Not Critical,Italian,2015-02-02T00:00:00Z,25,B
+41552659,Queens,Critical,Chinese,2014-12-22T00:00:00Z,11,A
+40387825,Brooklyn,Critical,American,2015-01-03T00:00:00Z,12,A
+41583191,Brooklyn,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2014-12-15T00:00:00Z,21,B
+41666100,Brooklyn,Critical,Mediterranean,2014-03-12T00:00:00Z,8,A
+41290269,Queens,Critical,American,2014-05-16T00:00:00Z,7,A
+50008942,Brooklyn,Not Critical,Cafe/coffee/Tea,2016-08-19T00:00:00Z,7,A
+41111038,Brooklyn,Critical,Bakery,2015-10-27T00:00:00Z,10,A
+50052824,Brooklyn,Critical,Cafe/coffee/Tea,2017-04-04T00:00:00Z,12,A
+40827157,Queens,Critical,Indian,2016-08-29T00:00:00Z,23,B
+41224985,Manhattan,Not Critical,Steak,2015-11-27T00:00:00Z,11,A
+50001029,Bronx,Critical,Spanish,2016-02-25T00:00:00Z,25,B
+40389907,Queens,Critical,Caribbean,2017-07-18T00:00:00Z,12,A
+40576150,Manhattan,Not Critical,Italian,2015-11-17T00:00:00Z,7,A
+50035920,Queens,Not Critical,Caribbean,2016-12-23T00:00:00Z,11,A
+41006744,Manhattan,Not Critical,Cafe/coffee/Tea,2017-06-09T00:00:00Z,12,A
+40386303,Brooklyn,Critical,Pizza,2014-07-22T00:00:00Z,13,A
+50004071,Brooklyn,Not Critical,Caribbean,2014-04-13T00:00:00Z,11,A
+41575026,Manhattan,Critical,American,2017-05-02T00:00:00Z,10,A
+50014452,Brooklyn,Not Critical,Japanese,2015-04-07T00:00:00Z,7,A
+41646313,Queens,Critical,American,2014-04-24T00:00:00Z,7,A
+40364889,Brooklyn,Critical,American,2014-11-28T00:00:00Z,12,A
+50056945,Manhattan,Critical,American,2017-01-17T00:00:00Z,13,A
+40403586,Manhattan,Not Critical,American,2014-09-22T00:00:00Z,13,A
+50010628,Brooklyn,Critical,Seafood,2015-11-23T00:00:00Z,12,A
+41082395,Manhattan,Not Critical,Pizza,2015-02-13T00:00:00Z,14,B
+40542427,Manhattan,Not Critical,Japanese,2016-08-03T00:00:00Z,24,B
+40960698,Queens,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2014-12-12T00:00:00Z,9,A
+41286996,Queens,Not Critical,American,2014-01-29T00:00:00Z,14,B
+41262775,Manhattan,Not Critical,Irish,2016-01-08T00:00:00Z,16,B
+40855899,Manhattan,Critical,American,2015-08-26T00:00:00Z,7,A
+50045542,Brooklyn,Not Critical,Chinese,2016-03-10T00:00:00Z,12,A
+40856208,Brooklyn,Critical,Pizza,2015-11-10T00:00:00Z,11,A
+41311390,Queens,Not Critical,Cafe/coffee/Tea,2016-04-06T00:00:00Z,13,A
+50008725,Brooklyn,Not Critical,Chinese,2016-11-15T00:00:00Z,28,C
+50004216,Queens,Critical,Chicken,2016-01-13T00:00:00Z,12,A
+41524890,Manhattan,Not Critical,Bakery,2015-03-20T00:00:00Z,12,A
+41477202,Manhattan,Not Critical,American,2015-11-02T00:00:00Z,10,A
+50019274,Staten Island,Not Critical,Pizza/Italian,2015-04-16T00:00:00Z,4,A
+41455605,Manhattan,Not Critical,Sandwiches,2014-08-18T00:00:00Z,11,A
+50002628,Bronx,Not Critical,American,2014-12-02T00:00:00Z,12,A
+41709744,Manhattan,Critical,Soups & Sandwiches,2016-03-16T00:00:00Z,11,A
+50045473,Queens,Not Critical,Asian,2017-03-15T00:00:00Z,11,A
+50001751,Queens,Critical,Chinese,2017-09-19T00:00:00Z,12,A
+41466918,Brooklyn,Critical,Mexican,2014-12-11T00:00:00Z,12,A
+50013414,Queens,Not Critical,Chinese,2015-05-18T00:00:00Z,10,A
+41670026,Brooklyn,Not Critical,American,2015-03-24T00:00:00Z,10,A
+41481717,Brooklyn,Critical,Caribbean,2015-10-28T00:00:00Z,12,A
+50044163,Bronx,Critical,American,2016-09-28T00:00:00Z,12,A
+40367420,Manhattan,Critical,American,2016-12-13T00:00:00Z,24,B
+41468939,Brooklyn,Not Critical,Vegetarian,2017-03-20T00:00:00Z,9,A
+50033431,Brooklyn,Not Critical,Spanish,2017-02-03T00:00:00Z,19,B
+41136620,Queens,Not Critical,Mexican,2016-12-12T00:00:00Z,12,A
+41705634,Bronx,Critical,Spanish,2015-12-21T00:00:00Z,63,C
+40402333,Queens,Critical,American,2015-08-05T00:00:00Z,10,A
+41678734,Bronx,Not Critical,American,2015-02-09T00:00:00Z,9,A
+41299392,Manhattan,Not Critical,Cafe/coffee/Tea,2014-12-31T00:00:00Z,13,A
+50012165,Queens,Critical,Chinese,2014-10-10T00:00:00Z,24,B
+41624957,Queens,Critical,Chicken,2016-11-25T00:00:00Z,12,A
+41692971,Brooklyn,Critical,Bakery,2017-04-11T00:00:00Z,32,C
+50045207,Manhattan,Not Critical,Asian,2016-08-03T00:00:00Z,10,A
+41662349,Brooklyn,Not Critical,American,2014-12-11T00:00:00Z,12,A
+41401447,Brooklyn,Critical,American,2014-09-09T00:00:00Z,22,B
+50002494,Brooklyn,Critical,American,2015-04-15T00:00:00Z,10,A
+41717113,Queens,Not Critical,Chinese,2016-05-03T00:00:00Z,13,A
+40646372,Manhattan,Not Critical,American,2016-01-27T00:00:00Z,9,A
+50040832,Bronx,Critical,Chinese,2016-06-01T00:00:00Z,7,A
+50033104,Manhattan,Not Critical,American,2017-01-20T00:00:00Z,12,A
+40823884,Bronx,Not Critical,Italian,2016-11-01T00:00:00Z,6,A
+50043259,Brooklyn,Not Critical,"Juice, Smoothies, Fruit Salads",2016-01-14T00:00:00Z,12,A
+40700181,Brooklyn,Not Critical,Sandwiches,2016-04-15T00:00:00Z,13,A
+41708185,Manhattan,Not Critical,Chinese,2016-06-15T00:00:00Z,19,B
+40392063,Manhattan,Critical,Other,2015-02-18T00:00:00Z,7,A
+50033978,Brooklyn,Not Critical,"Ice Cream, Gelato, Yogurt, Ices",2017-08-30T00:00:00Z,12,A
+40784405,Queens,Not Critical,Bakery,2015-04-08T00:00:00Z,10,A
+41710558,Queens,Critical,Chinese,2015-07-30T00:00:00Z,25,B
+41209994,Staten Island,Not Critical,Pizza,2014-04-24T00:00:00Z,20,B
+50000800,Bronx,Critical,American,2016-07-11T00:00:00Z,11,A
+41387458,Manhattan,Not Critical,American,2015-01-20T00:00:00Z,9,A
+50017990,Brooklyn,Critical,American,2017-10-04T00:00:00Z,13,A
+50014419,Brooklyn,Not Critical,American,2015-02-17T00:00:00Z,2,A
+50056677,Manhattan,Not Critical,Cafe/coffee/Tea,2017-01-06T00:00:00Z,3,A
+50052407,Manhattan,Critical,Pizza,2017-01-20T00:00:00Z,11,A
+40577928,Manhattan,Critical,Japanese,2015-04-22T00:00:00Z,11,A
+50044856,Brooklyn,Not Critical,American,2017-08-07T00:00:00Z,23,B
+50007767,Queens,Not Critical,Japanese,2016-12-14T00:00:00Z,18,B
+40523753,Queens,Not Critical,Delicatessen,2015-10-05T00:00:00Z,9,A
+41012907,Manhattan,Critical,Mexican,2016-01-28T00:00:00Z,12,A
+50053139,Queens,Critical,Italian,2016-10-18T00:00:00Z,11,A
+50004862,Manhattan,Critical,Thai,2017-07-10T00:00:00Z,12,A
+50009004,Queens,Not Critical,Delicatessen,2017-06-22T00:00:00Z,7,A
+50008453,Queens,Not Critical,"Ice Cream, Gelato, Yogurt, Ices",2017-05-22T00:00:00Z,2,A
+40402333,Queens,Not Critical,American,2015-08-05T00:00:00Z,10,A
+41699269,Manhattan,Not Critical,American,2016-04-14T00:00:00Z,4,A
+41631052,Brooklyn,Critical,American,2016-08-15T00:00:00Z,15,B
+40378190,Queens,Critical,Japanese,2014-01-09T00:00:00Z,10,A
+41519688,Manhattan,Not Critical,American,2016-05-13T00:00:00Z,13,A
+40394916,Brooklyn,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-03-01T00:00:00Z,6,A
+40391121,Manhattan,Critical,Pizza,2015-07-09T00:00:00Z,16,B
+41309763,Manhattan,Not Critical,American,2013-10-29T00:00:00Z,10,A
+41531073,Brooklyn,Critical,Spanish,2017-01-27T00:00:00Z,37,C
+41358451,Bronx,Not Critical,Delicatessen,2016-07-01T00:00:00Z,12,A
+41243506,Brooklyn,Critical,Cafe/coffee/Tea,2017-04-26T00:00:00Z,11,A
+41566063,Manhattan,Not Critical,German,2015-06-02T00:00:00Z,12,A
+40803550,Manhattan,Critical,American,2016-10-24T00:00:00Z,9,A
+50033364,Manhattan,Critical,Tex-Mex,2015-05-06T00:00:00Z,22,B
+50015968,Brooklyn,Critical,American,2016-02-06T00:00:00Z,11,A
+41645581,Manhattan,Critical,Japanese,2017-07-05T00:00:00Z,12,A
+50064590,Manhattan,Not Critical,American,2017-08-28T00:00:00Z,30,C
+41598066,Manhattan,Critical,Korean,2014-05-13T00:00:00Z,45,C
+41086368,Queens,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-03-07T00:00:00Z,11,A
+41231342,Bronx,Not Critical,Pizza,2015-07-01T00:00:00Z,8,A
+50002139,Brooklyn,Not Critical,Mexican,2015-01-29T00:00:00Z,10,A
+41480756,Bronx,Critical,American,2016-05-25T00:00:00Z,13,A
+50001583,Brooklyn,Not Critical,Greek,2017-01-13T00:00:00Z,13,A
+40511852,Manhattan,Critical,Pizza,2016-11-09T00:00:00Z,13,A
+50046158,Manhattan,Critical,Chinese,2016-07-19T00:00:00Z,31,C
+40725911,Manhattan,Critical,French,2017-10-10T00:00:00Z,12,A
+50015593,Queens,Critical,Japanese,2017-03-04T00:00:00Z,10,A
+50016872,Bronx,Critical,American,2015-02-14T00:00:00Z,13,A
+40799021,Queens,Critical,Spanish,2015-05-26T00:00:00Z,12,A
+50001212,Queens,Not Critical,Spanish,2016-03-04T00:00:00Z,23,B
+41614210,Manhattan,Not Critical,Italian,2017-03-29T00:00:00Z,12,A
+50006981,Queens,Not Critical,Chinese,2015-09-23T00:00:00Z,12,A
+41662349,Brooklyn,Not Critical,American,2016-03-23T00:00:00Z,9,A
+50053514,Queens,Not Critical,Pizza/Italian,2016-11-16T00:00:00Z,13,A
+41494274,Brooklyn,Not Critical,Chinese,2017-03-13T00:00:00Z,12,A
+41049159,Manhattan,Not Critical,Pancakes/Waffles,2016-05-18T00:00:00Z,4,A
+41710752,Brooklyn,Critical,Jewish/Kosher,2015-06-25T00:00:00Z,12,A
+41494299,Queens,Critical,American,2015-11-24T00:00:00Z,5,A
+50017690,Brooklyn,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-10-28T00:00:00Z,9,A
+41635498,Brooklyn,Not Critical,Italian,2016-03-01T00:00:00Z,3,A
+40516149,Manhattan,Not Critical,Japanese,2015-05-27T00:00:00Z,16,B
+41662634,Manhattan,Not Critical,"Ice Cream, Gelato, Yogurt, Ices",2014-06-24T00:00:00Z,8,A
+50039695,Queens,Critical,Thai,2017-02-21T00:00:00Z,12,A
+41698319,Manhattan,Not Critical,Pizza,2016-12-13T00:00:00Z,21,B
+50002416,Brooklyn,Critical,Cafe/coffee/Tea,2016-10-24T00:00:00Z,10,A
+50002512,Bronx,Not Critical,Chinese,2014-05-01T00:00:00Z,11,A
+50036654,Manhattan,Critical,American,2016-01-14T00:00:00Z,9,A
+40388419,Manhattan,Not Critical,Pizza,2017-08-15T00:00:00Z,8,A
+41088838,Manhattan,Not Critical,Sandwiches,2015-07-28T00:00:00Z,9,A
+50034500,Queens,Critical,Hamburgers,2017-02-28T00:00:00Z,7,A
+50058976,Manhattan,Critical,Chinese,2017-02-22T00:00:00Z,12,A
+50017934,Manhattan,Not Critical,American,2015-08-11T00:00:00Z,9,A
+41438394,Queens,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-04-15T00:00:00Z,23,B
+41656924,Manhattan,Not Critical,Japanese,2015-01-05T00:00:00Z,8,A
+50001430,Bronx,Critical,Chinese,2014-02-19T00:00:00Z,21,B
+41300864,Manhattan,Not Critical,Hamburgers,2015-07-13T00:00:00Z,12,A
+41281730,Manhattan,Not Critical,Italian,2015-08-04T00:00:00Z,12,A
+41092403,Manhattan,Critical,American,2017-08-02T00:00:00Z,11,A
+50000762,Manhattan,Critical,French,2013-09-06T00:00:00Z,14,B
+40888633,Manhattan,Not Critical,Mexican,2014-11-10T00:00:00Z,11,A
+41676498,Brooklyn,Critical,Chinese,2014-12-30T00:00:00Z,11,A
+50013984,Manhattan,Not Critical,Bakery,2014-12-15T00:00:00Z,3,A
+40401247,Brooklyn,Critical,American,2017-06-17T00:00:00Z,10,A
+41705788,Brooklyn,Critical,Caribbean,2015-02-27T00:00:00Z,14,B
+41267880,Manhattan,Critical,Sandwiches,2014-07-03T00:00:00Z,7,A
+50046479,Manhattan,Not Critical,Donuts,2016-04-13T00:00:00Z,3,A
+50004737,Brooklyn,Critical,Cafe/coffee/Tea,2017-09-13T00:00:00Z,12,A
+41721396,Brooklyn,Not Critical,American,2014-09-24T00:00:00Z,11,A
+50057491,Manhattan,Critical,American,2017-07-07T00:00:00Z,30,C
+41659433,Manhattan,Critical,Sandwiches,2015-01-16T00:00:00Z,13,A
+41660507,Manhattan,Critical,Italian,2016-08-12T00:00:00Z,23,B
+40525767,Bronx,Critical,Pizza,2015-04-04T00:00:00Z,17,B
+40697681,Manhattan,Not Critical,Italian,2014-03-19T00:00:00Z,12,A
+50004931,Queens,Not Critical,Japanese,2015-10-21T00:00:00Z,11,A
+41222832,Manhattan,Critical,American,2016-02-26T00:00:00Z,13,A
+50014266,Manhattan,Not Critical,American,2014-10-09T00:00:00Z,11,A
+50008807,Manhattan,Not Critical,Bakery,2017-06-20T00:00:00Z,10,A
+50037985,Manhattan,Not Critical,American,2015-11-19T00:00:00Z,7,A
+50012829,Brooklyn,Critical,Cafe/coffee/Tea,2014-10-29T00:00:00Z,13,A
+41583191,Brooklyn,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2014-07-10T00:00:00Z,9,A
+41623580,Queens,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-07-13T00:00:00Z,9,A
+40376204,Queens,Not Critical,Italian,2015-03-03T00:00:00Z,8,A
+50000501,Manhattan,Critical,American,2016-03-08T00:00:00Z,9,A
+40730678,Queens,Critical,American,2015-12-01T00:00:00Z,9,A
+41145163,Queens,Not Critical,Vietnamese/Cambodian/Malaysia,2017-02-15T00:00:00Z,13,A
+41599169,Brooklyn,Critical,Pizza/Italian,2016-06-14T00:00:00Z,17,B
+40398440,Queens,Critical,Pizza,2017-07-19T00:00:00Z,12,A
+40674684,Queens,Not Critical,Hamburgers,2015-11-27T00:00:00Z,10,A
+41419773,Manhattan,Not Critical,American,2016-09-22T00:00:00Z,13,A
+41629335,Manhattan,Not Critical,Mexican,2014-10-03T00:00:00Z,11,A
+40375899,Queens,Critical,Pizza,2016-01-16T00:00:00Z,12,A
+40795070,Queens,Not Critical,American,2015-06-04T00:00:00Z,12,A
+41409441,Manhattan,Critical,Bakery,2015-01-23T00:00:00Z,13,A
+41138026,Brooklyn,Critical,Sandwiches,2016-10-07T00:00:00Z,9,A
+50009442,Manhattan,Critical,Cafe/coffee/Tea,2015-05-13T00:00:00Z,13,A
+50014339,Bronx,Not Critical,American,2016-10-07T00:00:00Z,10,A
+50001015,Bronx,Not Critical,Italian,2016-10-26T00:00:00Z,13,A
+41693226,Brooklyn,Critical,American,2017-07-05T00:00:00Z,12,A
+50002424,Bronx,Not Critical,Cafe/coffee/Tea,2017-07-26T00:00:00Z,7,A
+50032894,Brooklyn,Critical,American,2016-05-18T00:00:00Z,13,A
+41125769,Brooklyn,Not Critical,French,2016-11-02T00:00:00Z,11,A
+41351706,Queens,Critical,Italian,2015-12-30T00:00:00Z,10,A
+41376760,Manhattan,Not Critical,Bakery,2017-03-24T00:00:00Z,10,A
+41486500,Manhattan,Critical,Cafe/coffee/Tea,2017-03-06T00:00:00Z,12,A
+41333361,Staten Island,Critical,Italian,2015-07-01T00:00:00Z,12,A
+41281518,Manhattan,Critical,American,2015-03-11T00:00:00Z,10,A
+50016671,Queens,Not Critical,French,2016-08-10T00:00:00Z,12,A
+50050253,Manhattan,Critical,American,2017-09-28T00:00:00Z,10,A
+41376958,Brooklyn,Not Critical,Chinese,2015-07-08T00:00:00Z,28,C
+50055342,Queens,Critical,Spanish,2017-02-21T00:00:00Z,22,B
+40661017,Queens,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-02-12T00:00:00Z,22,B
+40815605,Manhattan,Critical,Salads,2017-04-12T00:00:00Z,10,A
+41678996,Bronx,Not Critical,Caribbean,2016-03-29T00:00:00Z,3,A
+50016843,Manhattan,Critical,Spanish,2017-04-21T00:00:00Z,46,C
+41377840,Staten Island,Not Critical,American,2016-11-22T00:00:00Z,25,B
+40395826,Brooklyn,Critical,Indonesian,2017-08-11T00:00:00Z,12,A
+41705732,Manhattan,Critical,Japanese,2015-03-06T00:00:00Z,35,C
+41538914,Bronx,Not Critical,American,2015-04-17T00:00:00Z,2,A
+41316536,Brooklyn,Critical,Chinese,2015-03-18T00:00:00Z,17,B
+40373912,Manhattan,Not Critical,American,2014-12-11T00:00:00Z,10,A
+50004496,Brooklyn,Critical,Tex-Mex,2015-05-27T00:00:00Z,13,A
+41696147,Brooklyn,Not Critical,American,2015-10-28T00:00:00Z,22,B
+41385488,Manhattan,Critical,Japanese,2016-08-15T00:00:00Z,13,A
+40388419,Manhattan,Critical,Pizza,2017-03-02T00:00:00Z,10,A
+50050381,Manhattan,Not Critical,Chinese,2017-01-10T00:00:00Z,9,A
+41653501,Queens,Not Critical,Asian,2015-12-07T00:00:00Z,13,A
+50018459,Brooklyn,Not Critical,Chinese,2017-06-27T00:00:00Z,4,A
+41666300,Brooklyn,Critical,Jewish/Kosher,2016-02-16T00:00:00Z,6,A
+40402376,Manhattan,Not Critical,American,2014-02-03T00:00:00Z,5,A
+41444651,Manhattan,Critical,Irish,2014-05-13T00:00:00Z,11,A
+41536647,Bronx,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-02-13T00:00:00Z,7,A
+40860020,Manhattan,Critical,Hamburgers,2015-08-24T00:00:00Z,13,A
+41708279,Manhattan,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-09-16T00:00:00Z,20,B
+40364220,Brooklyn,Not Critical,Jewish/Kosher,2016-10-20T00:00:00Z,9,A
+41497410,Manhattan,Not Critical,Indian,2015-12-28T00:00:00Z,13,A
+41366873,Manhattan,Not Critical,Scandinavian,2015-08-13T00:00:00Z,10,A
+40618714,Bronx,Not Critical,American,2016-08-23T00:00:00Z,19,B
+40376290,Staten Island,Not Critical,American,2016-03-17T00:00:00Z,6,A
+41213441,Manhattan,Not Critical,American,2014-09-19T00:00:00Z,4,A
+41278212,Manhattan,Not Critical,Russian,2017-08-28T00:00:00Z,7,A
+40716625,Manhattan,Critical,American,2016-09-20T00:00:00Z,12,A
+41479993,Queens,Critical,Caribbean,2017-02-11T00:00:00Z,7,A
+50010143,Brooklyn,Critical,American,2017-07-20T00:00:00Z,12,A
+40392766,Brooklyn,Critical,American,2014-02-19T00:00:00Z,10,A
+50005665,Brooklyn,Not Critical,Chinese,2014-10-28T00:00:00Z,12,A
+41303553,Brooklyn,Critical,Caribbean,2015-12-04T00:00:00Z,19,B
+50011009,Bronx,Critical,Bakery,2016-06-15T00:00:00Z,19,B
+41406303,Brooklyn,Not Critical,American,2014-08-15T00:00:00Z,21,B
+41327743,Manhattan,Critical,Indian,2013-11-21T00:00:00Z,16,B
+41227024,Queens,Critical,Eastern European,2017-03-20T00:00:00Z,22,B
+41394169,Queens,Critical,Pizza,2015-10-07T00:00:00Z,13,A
+40397520,Manhattan,Not Critical,Japanese,2014-05-30T00:00:00Z,25,B
+40929938,Queens,Critical,American,2016-04-09T00:00:00Z,12,A
+41614161,Manhattan,Not Critical,Soul Food,2015-05-26T00:00:00Z,13,A
+50015019,Manhattan,Not Critical,American,2014-10-03T00:00:00Z,4,A
+41644006,Brooklyn,Critical,American,2014-09-12T00:00:00Z,7,A
+40560302,Manhattan,Critical,Italian,2015-05-05T00:00:00Z,17,B
+41653860,Bronx,Critical,American,2016-04-20T00:00:00Z,13,A
+40857526,Brooklyn,Not Critical,American,2014-11-06T00:00:00Z,12,A
+40403822,Queens,Critical,American,2016-03-03T00:00:00Z,12,A
+40786218,Queens,Not Critical,Hamburgers,2015-02-12T00:00:00Z,10,A
+50053519,Brooklyn,Not Critical,Chinese,2016-12-01T00:00:00Z,7,A
+50015805,Brooklyn,Critical,American,2015-04-03T00:00:00Z,5,A
+40836801,Manhattan,Critical,Irish,2016-02-29T00:00:00Z,9,A
+40993510,Brooklyn,Critical,Spanish,2015-07-29T00:00:00Z,12,A
+41605298,Brooklyn,Critical,Spanish,2016-08-05T00:00:00Z,13,A
+41084540,Manhattan,Critical,American,2015-05-09T00:00:00Z,18,B
+41382650,Queens,Not Critical,Chinese,2014-11-12T00:00:00Z,21,B
+41578284,Queens,Not Critical,Creole,2014-06-30T00:00:00Z,10,A
+41656934,Manhattan,Critical,American,2016-12-07T00:00:00Z,38,C
+50051294,Queens,Critical,American,2016-09-20T00:00:00Z,23,B
+40951864,Bronx,Not Critical,American,2015-10-08T00:00:00Z,13,A
+41706342,Queens,Critical,American,2015-02-26T00:00:00Z,31,C
+50018514,Brooklyn,Critical,Indian,2015-04-21T00:00:00Z,28,C
+50053905,Brooklyn,Not Critical,Japanese,2016-12-07T00:00:00Z,7,A
+50038633,Manhattan,Critical,Japanese,2015-10-13T00:00:00Z,12,A
+41703753,Manhattan,Not Critical,Chicken,2016-08-02T00:00:00Z,13,A
+41071980,Manhattan,Not Critical,Italian,2014-01-09T00:00:00Z,13,A
+41299050,Queens,Not Critical,Delicatessen,2016-06-06T00:00:00Z,9,A
+40743368,Queens,Not Critical,Pizza,2014-01-24T00:00:00Z,30,C
+50003253,Manhattan,Not Critical,Bakery,2014-10-08T00:00:00Z,11,A
+50006972,Queens,Not Critical,Spanish,2015-07-15T00:00:00Z,11,A
+50007306,Brooklyn,Critical,American,2017-05-18T00:00:00Z,5,A
+50010777,Brooklyn,Not Critical,Chinese,2017-07-26T00:00:00Z,13,A
+50008548,Manhattan,Not Critical,Cafe/coffee/Tea,2014-06-24T00:00:00Z,7,A
+41565686,Brooklyn,Not Critical,Delicatessen,2017-08-25T00:00:00Z,13,A
+41236382,Brooklyn,Critical,Donuts,2017-04-26T00:00:00Z,10,A
+50007670,Brooklyn,Critical,American,2015-01-03T00:00:00Z,13,A
+41619055,Manhattan,Critical,American,2016-09-27T00:00:00Z,12,A
+41591834,Manhattan,Not Critical,Thai,2015-01-26T00:00:00Z,9,A
+41462894,Queens,Not Critical,Pizza,2016-08-02T00:00:00Z,9,A
+50051903,Queens,Critical,Caribbean,2016-09-19T00:00:00Z,10,A
+40563526,Manhattan,Critical,Thai,2015-06-02T00:00:00Z,12,A
+41641590,Manhattan,Not Critical,American,2017-03-16T00:00:00Z,9,A
+41024174,Manhattan,Not Critical,Polynesian,2015-05-27T00:00:00Z,11,A
+50001070,Manhattan,Critical,French,2015-05-28T00:00:00Z,29,C
+50049047,Queens,Critical,Cafe/coffee/Tea,2017-05-23T00:00:00Z,10,A
+50002024,Brooklyn,Not Critical,Middle Eastern,2017-07-19T00:00:00Z,12,A
+41067699,Queens,Critical,Asian,2016-10-05T00:00:00Z,10,A
+40567158,Manhattan,Not Critical,Italian,2016-07-21T00:00:00Z,10,A
+40731196,Brooklyn,Critical,Jewish/Kosher,2016-06-29T00:00:00Z,17,B
+40401155,Queens,Not Critical,Bakery,2016-11-25T00:00:00Z,12,A
+40369299,Bronx,Critical,Seafood,2014-06-07T00:00:00Z,12,A
+40996465,Queens,Not Critical,Bakery,2015-03-12T00:00:00Z,11,A
+50002364,Manhattan,Not Critical,Italian,2017-08-28T00:00:00Z,7,A
+50041097,Manhattan,Not Critical,Indian,2017-07-05T00:00:00Z,7,A
+40921141,Queens,Critical,Italian,2015-12-02T00:00:00Z,13,A
+41276823,Manhattan,Critical,Chinese,2015-04-02T00:00:00Z,10,A
+50052511,Bronx,Not Critical,Chinese,2017-04-20T00:00:00Z,9,A
+41498521,Manhattan,Not Critical,American,2017-01-25T00:00:00Z,9,A
+40425131,Queens,Not Critical,Bagels/Pretzels,2016-04-17T00:00:00Z,25,B
+50016249,Brooklyn,Not Critical,Italian,2015-01-08T00:00:00Z,13,A
+41591211,Manhattan,Critical,French,2017-02-02T00:00:00Z,12,A
+40390850,Staten Island,Critical,Italian,2016-03-30T00:00:00Z,10,A
+41113037,Manhattan,Critical,Mediterranean,2016-02-10T00:00:00Z,17,B
+50036272,Brooklyn,Critical,Chinese,2015-09-02T00:00:00Z,29,C
+50034380,Queens,Not Critical,Pizza,2016-11-16T00:00:00Z,11,A
+50058439,Manhattan,Critical,Italian,2017-01-19T00:00:00Z,7,A
+50038811,Brooklyn,Critical,Bakery,2016-06-08T00:00:00Z,8,A
+41683490,Brooklyn,Critical,American,2016-03-02T00:00:00Z,12,A
+41632738,Manhattan,Not Critical,American,2015-04-02T00:00:00Z,19,B
+50034203,Brooklyn,Not Critical,Sandwiches,2017-05-30T00:00:00Z,2,A
+41533270,Manhattan,Critical,Italian,2016-07-21T00:00:00Z,7,A
+40866029,Manhattan,Critical,Chicken,2016-09-29T00:00:00Z,7,A
+41403336,Brooklyn,Critical,Pizza,2016-08-16T00:00:00Z,11,A
+41676577,Manhattan,Not Critical,American,2017-01-20T00:00:00Z,12,A
+41598963,Bronx,Not Critical,American,2017-05-09T00:00:00Z,7,A
+41664038,Manhattan,Critical,Bakery,2017-09-15T00:00:00Z,24,B
+50011610,Brooklyn,Not Critical,Pizza,2015-02-09T00:00:00Z,9,A
+41643104,Queens,Critical,Other,2014-03-06T00:00:00Z,7,A
+50002350,Manhattan,Not Critical,Japanese,2013-11-13T00:00:00Z,13,A
+41590649,Manhattan,Critical,Thai,2016-02-17T00:00:00Z,19,B
+41706342,Queens,Critical,American,2015-07-01T00:00:00Z,13,A
+40370342,Brooklyn,Critical,American,2017-10-02T00:00:00Z,11,A
+41416092,Manhattan,Not Critical,Mexican,2017-10-05T00:00:00Z,13,A
+50046164,Brooklyn,Critical,Cafe/coffee/Tea,2016-12-13T00:00:00Z,10,A
+41642324,Brooklyn,Not Critical,American,2015-01-10T00:00:00Z,9,A
+41542713,Manhattan,Critical,American,2014-05-22T00:00:00Z,8,A
+41656254,Queens,Not Critical,Mexican,2016-03-20T00:00:00Z,11,A
+50016824,Manhattan,Not Critical,Cafe/coffee/Tea,2017-10-13T00:00:00Z,12,A
+41706329,Manhattan,Critical,Indian,2016-08-25T00:00:00Z,13,A
+41166868,Queens,Not Critical,Spanish,2014-11-17T00:00:00Z,13,A
+50044949,Manhattan,Not Critical,American,2016-02-10T00:00:00Z,11,A
+50056283,Brooklyn,Not Critical,Cafe/coffee/Tea,2016-11-02T00:00:00Z,8,A
+50003326,Brooklyn,Not Critical,"Bottled beverages, including water, sodas, juices, etc.",2017-08-09T00:00:00Z,10,A
+40647953,Queens,Not Critical,Indian,2016-08-17T00:00:00Z,10,A
+41357172,Bronx,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-02-23T00:00:00Z,31,C
+50018919,Manhattan,Not Critical,Chinese,2015-10-29T00:00:00Z,12,A
+41714810,Manhattan,Critical,Mexican,2014-10-02T00:00:00Z,43,C
+50046009,Bronx,Critical,Chinese,2016-08-30T00:00:00Z,6,A
+50000306,Brooklyn,Critical,Chinese,2016-03-21T00:00:00Z,11,A
+41108068,Queens,Critical,Mexican,2017-02-23T00:00:00Z,10,A
+50036750,Manhattan,Critical,American,2017-02-08T00:00:00Z,12,A
+40364389,Manhattan,Critical,American,2016-10-11T00:00:00Z,10,A
+50042521,Queens,Not Critical,Indian,2017-02-14T00:00:00Z,11,A
+50010010,Brooklyn,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-06-17T00:00:00Z,30,C
+41694170,Brooklyn,Not Critical,Italian,2015-07-24T00:00:00Z,7,A
+41175260,Queens,Not Critical,Donuts,2016-02-02T00:00:00Z,5,A
+40885315,Manhattan,Critical,Italian,2015-10-29T00:00:00Z,10,A
+41288664,Brooklyn,Critical,Bakery,2015-09-02T00:00:00Z,7,A
+41591687,Manhattan,Critical,Italian,2015-09-23T00:00:00Z,12,A
+50000990,Bronx,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-05-11T00:00:00Z,9,A
+50017778,Bronx,Critical,"Juice, Smoothies, Fruit Salads",2016-03-15T00:00:00Z,9,A
+41653101,Brooklyn,Critical,Mexican,2016-03-03T00:00:00Z,13,A
+41210181,Queens,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-12-22T00:00:00Z,12,A
+41460700,Manhattan,Critical,American,2017-04-25T00:00:00Z,12,A
+41289273,Manhattan,Critical,American,2014-10-16T00:00:00Z,19,B
+41696929,Manhattan,Critical,Irish,2017-04-03T00:00:00Z,12,A
+50044956,Manhattan,Critical,"Juice, Smoothies, Fruit Salads",2016-05-09T00:00:00Z,7,A
+41689833,Queens,Critical,Mexican,2015-11-10T00:00:00Z,11,A
+40732501,Brooklyn,Not Critical,Mexican,2015-06-23T00:00:00Z,9,A
+50006577,Manhattan,Not Critical,Cafe/coffee/Tea,2016-12-20T00:00:00Z,13,A
+50034022,Manhattan,Critical,Cafe/coffee/Tea,2015-05-15T00:00:00Z,12,A
+41714688,Queens,Not Critical,American,2014-03-13T00:00:00Z,9,A
+40656594,Bronx,Critical,Steak,2015-05-05T00:00:00Z,13,A
+41712067,Brooklyn,Critical,Chinese,2015-11-25T00:00:00Z,12,A
+41123001,Brooklyn,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-03-17T00:00:00Z,9,A
+50009752,Queens,Not Critical,Sandwiches,2015-05-28T00:00:00Z,2,A
+41657755,Brooklyn,Critical,American,2015-07-01T00:00:00Z,9,A
+41624219,Queens,Not Critical,Mexican,2014-11-21T00:00:00Z,12,A
+41610229,Bronx,Critical,African,2016-03-08T00:00:00Z,52,C
+41614707,Manhattan,Critical,American,2016-10-25T00:00:00Z,13,A
+50035042,Manhattan,Not Critical,Tex-Mex,2015-05-12T00:00:00Z,10,A
+50015040,Brooklyn,Critical,American,2014-10-28T00:00:00Z,7,A
+41630686,Brooklyn,Critical,Chinese,2017-03-13T00:00:00Z,9,A
+50044597,Bronx,Not Critical,Pizza/Italian,2017-02-07T00:00:00Z,22,B
+50035745,Bronx,Critical,Chinese,2015-08-24T00:00:00Z,18,B
+40919024,Manhattan,Not Critical,Cafe/coffee/Tea,2014-04-29T00:00:00Z,8,A
+40515675,Bronx,Not Critical,American,2014-06-23T00:00:00Z,9,A
+50000102,Bronx,Not Critical,African,2014-10-23T00:00:00Z,30,C
+50039082,Manhattan,Critical,Spanish,2015-10-16T00:00:00Z,9,A
+41300940,Staten Island,Critical,American,2014-12-23T00:00:00Z,13,A
+41463046,Bronx,Not Critical,Donuts,2017-06-20T00:00:00Z,4,A
+41529391,Brooklyn,Critical,Chinese,2015-03-19T00:00:00Z,11,A
+41436121,Bronx,Not Critical,Caribbean,2014-09-23T00:00:00Z,12,A
+41644000,Manhattan,Critical,American,2015-04-20T00:00:00Z,18,B
+41386642,Manhattan,Not Critical,American,2015-08-31T00:00:00Z,13,A
+50038473,Manhattan,Critical,Asian,2016-06-02T00:00:00Z,10,A
+50046846,Bronx,Not Critical,Seafood,2016-08-08T00:00:00Z,13,A
+40526147,Queens,Critical,Mexican,2014-12-23T00:00:00Z,5,A
+40929097,Manhattan,Not Critical,American,2017-01-26T00:00:00Z,12,A
+41403890,Brooklyn,Critical,American,2015-07-22T00:00:00Z,10,A
+41223165,Brooklyn,Not Critical,Hamburgers,2015-06-05T00:00:00Z,8,A
+41602657,Manhattan,Critical,Caribbean,2015-05-16T00:00:00Z,24,B
+41098956,Manhattan,Critical,Tex-Mex,2015-01-14T00:00:00Z,12,A
+50060116,Queens,Not Critical,Chicken,2017-03-13T00:00:00Z,10,A
+50002345,Brooklyn,Not Critical,American,2014-07-02T00:00:00Z,11,A
+50049330,Queens,Not Critical,American,2016-08-22T00:00:00Z,7,A
+50009467,Bronx,Critical,Sandwiches/Salads/Mixed Buffet,2014-05-21T00:00:00Z,8,A
+41252528,Queens,Not Critical,Seafood,2016-09-26T00:00:00Z,12,A
+40719325,Staten Island,Not Critical,Bakery,2016-05-03T00:00:00Z,9,A
+41347936,Staten Island,Critical,"Ice Cream, Gelato, Yogurt, Ices",2015-05-26T00:00:00Z,5,A
+50033848,Manhattan,Not Critical,Pizza,2016-10-04T00:00:00Z,10,A
+41435352,Queens,Not Critical,Peruvian,2016-04-13T00:00:00Z,11,A
+41158071,Brooklyn,Not Critical,American,2014-12-23T00:00:00Z,12,A
+41684638,Manhattan,Not Critical,Chicken,2014-10-31T00:00:00Z,12,A
+40730140,Brooklyn,Critical,American,2017-02-23T00:00:00Z,10,A
+41334829,Bronx,Critical,Irish,2016-05-05T00:00:00Z,19,B
+41514447,Bronx,Critical,Pizza,2015-07-24T00:00:00Z,12,A
+41147901,Bronx,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-06-20T00:00:00Z,12,A
+40390655,Staten Island,Critical,American,2016-06-30T00:00:00Z,11,A
+41454213,Queens,Not Critical,Chinese,2017-05-24T00:00:00Z,13,A
+41407189,Manhattan,Critical,American,2014-12-15T00:00:00Z,10,A
+40397775,Queens,Not Critical,Caribbean,2015-07-01T00:00:00Z,10,A
+50015846,Queens,Not Critical,Spanish,2014-11-17T00:00:00Z,25,B
+50001322,Queens,Not Critical,German,2014-07-31T00:00:00Z,12,A
+41086217,Staten Island,Not Critical,American,2017-09-01T00:00:00Z,11,A
+41377220,Manhattan,Not Applicable,Bakery,2016-04-19T00:00:00Z,7,A
+41271730,Manhattan,Critical,American,2016-06-14T00:00:00Z,13,A
+50000710,Brooklyn,Critical,American,2016-04-04T00:00:00Z,12,A
+41165623,Manhattan,Critical,Pizza,2015-05-29T00:00:00Z,12,A
+41436344,Staten Island,Not Critical,Chinese,2015-02-25T00:00:00Z,12,A
+41568894,Brooklyn,Critical,Cafe/coffee/Tea,2015-05-04T00:00:00Z,5,A
+41292582,Bronx,Critical,Mexican,2017-08-28T00:00:00Z,13,A
+50010479,Manhattan,Not Critical,American,2015-07-28T00:00:00Z,13,A
+40394650,Brooklyn,Not Critical,Pizza,2014-09-08T00:00:00Z,13,A
+50058069,Brooklyn,Critical,American,2017-06-22T00:00:00Z,39,C
+50042038,Manhattan,Critical,Bakery,2017-02-10T00:00:00Z,9,A
+41642333,Manhattan,Critical,Chinese,2017-06-23T00:00:00Z,18,B
+41491272,Bronx,Not Critical,Mexican,2017-03-23T00:00:00Z,8,A
+50002367,Manhattan,Critical,American,2015-12-24T00:00:00Z,7,A
+41299050,Queens,Not Critical,Delicatessen,2014-07-25T00:00:00Z,7,C
+40367339,Manhattan,Not Critical,American,2015-12-04T00:00:00Z,9,A
+40980062,Staten Island,Critical,Japanese,2016-06-28T00:00:00Z,26,B
+40528180,Manhattan,Critical,Steak,2017-06-06T00:00:00Z,12,A
+50034670,Brooklyn,Not Critical,American,2015-04-27T00:00:00Z,8,A
+50000944,Brooklyn,Critical,Chinese,2014-12-29T00:00:00Z,8,A
+40927908,Bronx,Not Critical,American,2014-12-24T00:00:00Z,11,A
+50065815,Manhattan,Not Critical,Sandwiches,2017-09-06T00:00:00Z,10,A
+50034762,Queens,Critical,Cafe/coffee/Tea,2017-04-06T00:00:00Z,13,A
+41111393,Manhattan,Not Critical,Moroccan,2016-08-03T00:00:00Z,27,B
+50012606,Brooklyn,Not Critical,Chinese,2014-11-17T00:00:00Z,9,A
+50056821,Manhattan,Critical,American,2017-04-12T00:00:00Z,8,A
+41576543,Manhattan,Not Critical,Mexican,2016-12-13T00:00:00Z,13,A
+41621317,Queens,Not Critical,Chinese,2015-09-18T00:00:00Z,12,A
+41405526,Brooklyn,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-04-19T00:00:00Z,8,A
+41541114,Staten Island,Not Critical,Pizza,2017-01-12T00:00:00Z,11,A
+40544576,Manhattan,Not Critical,Eastern European,2015-10-30T00:00:00Z,9,A
+40402337,Queens,Critical,Bakery,2016-07-20T00:00:00Z,10,A
+50011097,Manhattan,Critical,English,2015-09-28T00:00:00Z,9,A
+41560746,Brooklyn,Not Critical,Caribbean,2015-03-12T00:00:00Z,10,A
+41388576,Manhattan,Critical,Pizza,2014-11-21T00:00:00Z,10,A
+41479962,Manhattan,Critical,American,2014-12-05T00:00:00Z,13,A
+41685305,Queens,Not Critical,Spanish,2015-02-11T00:00:00Z,13,A
+50006488,Manhattan,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-12-02T00:00:00Z,24,B
+40821227,Manhattan,Critical,Mexican,2014-03-06T00:00:00Z,8,A
+40516511,Staten Island,Critical,Cafe/coffee/Tea,2017-04-20T00:00:00Z,10,A
+41574209,Manhattan,Not Critical,"Ice Cream, Gelato, Yogurt, Ices",2015-05-13T00:00:00Z,2,A
+40398658,Queens,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-11-19T00:00:00Z,12,A
+50003229,Manhattan,Critical,American,2016-06-20T00:00:00Z,9,A
+50044393,Brooklyn,Not Critical,Japanese,2017-09-13T00:00:00Z,22,B
+41598755,Brooklyn,Critical,Cafe/coffee/Tea,2014-11-12T00:00:00Z,10,A
+50039301,Bronx,Not Critical,Jewish/Kosher,2016-08-02T00:00:00Z,17,B
+41321758,Queens,Not Critical,Cafe/coffee/Tea,2016-03-23T00:00:00Z,12,A
+50044945,Manhattan,Critical,American,2016-07-29T00:00:00Z,12,A
+41698701,Manhattan,Critical,Pakistani,2015-05-18T00:00:00Z,20,B
+40860410,Staten Island,Critical,Pizza,2015-10-21T00:00:00Z,9,A
+41137942,Bronx,Critical,Bakery,2017-08-16T00:00:00Z,7,A
+41497493,Manhattan,Critical,American,2015-04-03T00:00:00Z,12,A
+50002192,Queens,Not Critical,Chinese,2013-10-23T00:00:00Z,10,A
+50064676,Queens,Not Critical,Caribbean,2017-09-01T00:00:00Z,26,B
+50011620,Queens,Not Critical,Pizza/Italian,2017-09-07T00:00:00Z,9,A
+50009752,Queens,Not Critical,Sandwiches,2015-10-20T00:00:00Z,8,A
+40402333,Queens,Critical,American,2015-04-24T00:00:00Z,22,B
+40869272,Manhattan,Not Critical,Italian,2016-01-05T00:00:00Z,11,A
+40424410,Brooklyn,Not Critical,Bagels/Pretzels,2014-10-01T00:00:00Z,10,A
+41374923,Queens,Not Critical,American,2016-09-28T00:00:00Z,10,A
+41542863,Bronx,Critical,Chinese,2016-02-20T00:00:00Z,12,A
+40398532,Brooklyn,Critical,Jewish/Kosher,2015-06-16T00:00:00Z,15,B
+41678695,Manhattan,Not Critical,Sandwiches,2017-03-08T00:00:00Z,12,A
+40947038,Queens,Critical,Chicken,2015-11-17T00:00:00Z,5,A
+50035297,Brooklyn,Not Critical,Mexican,2015-08-03T00:00:00Z,12,A
+50005390,Manhattan,Critical,Italian,2014-04-25T00:00:00Z,11,A
+40576978,Queens,Critical,Pizza,2017-05-12T00:00:00Z,12,A
+50008646,Queens,Critical,Armenian,2015-09-09T00:00:00Z,20,B
+41356273,Manhattan,Not Critical,Vegetarian,2014-04-11T00:00:00Z,4,A
+50040406,Manhattan,Critical,Donuts,2017-03-06T00:00:00Z,10,A
+50011632,Manhattan,Critical,Sandwiches/Salads/Mixed Buffet,2015-01-20T00:00:00Z,7,A
+50017101,Manhattan,Not Critical,French,2016-04-19T00:00:00Z,9,A
+50002435,Queens,Critical,Sandwiches/Salads/Mixed Buffet,2015-01-21T00:00:00Z,10,A
+41163213,Queens,Not Critical,Sandwiches,2015-04-01T00:00:00Z,10,A
+50007230,Brooklyn,Critical,Cafe/coffee/Tea,2014-05-05T00:00:00Z,7,A
+41634881,Brooklyn,Critical,Pizza/Italian,2015-01-15T00:00:00Z,7,A
+41692661,Queens,Not Critical,Chinese,2017-05-01T00:00:00Z,12,A
+50033659,Queens,Not Critical,Chinese,2016-06-14T00:00:00Z,7,A
+50055667,Brooklyn,Critical,Pakistani,2017-02-08T00:00:00Z,12,A
+41647183,Queens,Not Critical,Chinese,2015-11-21T00:00:00Z,11,A
+41492028,Brooklyn,Critical,Chicken,2017-02-22T00:00:00Z,9,A
+41372518,Brooklyn,Critical,Chinese,2016-02-29T00:00:00Z,13,A
+50002692,Manhattan,Not Critical,Asian,2016-10-05T00:00:00Z,12,A
+40571128,Manhattan,Not Critical,Tex-Mex,2016-04-25T00:00:00Z,19,B
+50059875,Bronx,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-04-18T00:00:00Z,13,A
+40367365,Manhattan,Critical,American,2016-12-20T00:00:00Z,10,A
+50011049,Manhattan,Critical,American,2015-11-06T00:00:00Z,15,B
+41628361,Manhattan,Not Critical,American,2014-09-03T00:00:00Z,33,C
+50017455,Queens,Critical,Caribbean,2014-12-31T00:00:00Z,13,A
+50011521,Bronx,Critical,American,2017-05-04T00:00:00Z,13,A
+41218954,Brooklyn,Critical,Mexican,2014-10-16T00:00:00Z,14,B
+41682958,Queens,Not Critical,Peruvian,2015-07-09T00:00:00Z,12,A
+50034494,Manhattan,Critical,American,2016-09-29T00:00:00Z,5,A
+50007247,Manhattan,Not Critical,Chinese,2017-05-05T00:00:00Z,16,B
+41297095,Brooklyn,Critical,Japanese,2014-04-30T00:00:00Z,9,A
+50005071,Bronx,Not Critical,Jewish/Kosher,2015-09-11T00:00:00Z,9,A
+40800325,Manhattan,Critical,Brazilian,2016-01-06T00:00:00Z,8,A
+41308759,Queens,Critical,Chinese,2017-03-22T00:00:00Z,18,B
+40384323,Queens,Not Critical,Cafe/coffee/Tea,2014-07-11T00:00:00Z,11,A
+50042787,Manhattan,Not Critical,Italian,2017-10-05T00:00:00Z,12,A
+50033351,Bronx,Not Critical,Chinese,2015-09-30T00:00:00Z,12,A
+41703202,Queens,Not Critical,Chinese,2016-07-05T00:00:00Z,10,A
+50046451,Bronx,Critical,Spanish,2016-08-29T00:00:00Z,12,A
+40589546,Queens,Critical,Spanish,2016-12-01T00:00:00Z,10,A
+41701180,Manhattan,Critical,Pizza/Italian,2014-10-15T00:00:00Z,27,B
+41693594,Staten Island,Critical,American,2014-02-28T00:00:00Z,9,A
+50051608,Brooklyn,Not Applicable,Donuts,2016-09-28T00:00:00Z,0,A
+40537290,Brooklyn,Critical,American,2014-07-24T00:00:00Z,11,A
+41630613,Manhattan,Not Critical,American,2017-07-12T00:00:00Z,7,A
+41219569,Manhattan,Not Critical,Japanese,2017-01-10T00:00:00Z,4,A
+41691085,Queens,Not Critical,Cafe/coffee/Tea,2016-06-03T00:00:00Z,23,B
+41719106,Manhattan,Not Critical,American,2016-05-17T00:00:00Z,6,A
+50016943,Bronx,Critical,Spanish,2015-10-28T00:00:00Z,11,A
+40675892,Brooklyn,Not Critical,American,2015-11-18T00:00:00Z,10,A
+50015503,Queens,Critical,Chinese,2016-10-26T00:00:00Z,31,C
+50055662,Brooklyn,Not Critical,Vegetarian,2017-05-26T00:00:00Z,13,A
+41278212,Manhattan,Critical,Russian,2015-04-23T00:00:00Z,9,A
+41241627,Bronx,Critical,American,2016-09-27T00:00:00Z,11,A
+40786921,Queens,Critical,American,2017-08-01T00:00:00Z,12,A
+41016441,Queens,Not Critical,Caribbean,2014-07-01T00:00:00Z,11,A
+50001624,Bronx,Not Critical,Irish,2016-05-19T00:00:00Z,12,A
+50040446,Bronx,Critical,Chinese,2016-06-16T00:00:00Z,12,A
+40871006,Manhattan,Critical,Indian,2015-11-24T00:00:00Z,13,A
+40794103,Bronx,Not Critical,Hamburgers,2016-03-24T00:00:00Z,9,A
+50002613,Queens,Critical,Asian,2017-05-09T00:00:00Z,12,A
+41313271,Queens,Critical,Indian,2014-06-26T00:00:00Z,12,A
+40401216,Manhattan,Critical,Spanish,2014-10-01T00:00:00Z,10,A
+41146119,Manhattan,Not Critical,Sandwiches/Salads/Mixed Buffet,2016-08-22T00:00:00Z,8,A
+50000781,Queens,Critical,Cafe/coffee/Tea,2016-09-06T00:00:00Z,11,A
+41637061,Manhattan,Not Critical,Italian,2015-11-23T00:00:00Z,6,A
+41221266,Queens,Critical,Vietnamese/Cambodian/Malaysia,2015-08-04T00:00:00Z,7,A
+40400453,Manhattan,Not Critical,American,2016-02-16T00:00:00Z,7,A
+41100350,Manhattan,Not Critical,American,2017-01-17T00:00:00Z,12,A
+41418714,Queens,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-10-13T00:00:00Z,13,A
+50036927,Bronx,Not Critical,American,2016-09-26T00:00:00Z,7,A
+40933594,Queens,Critical,Caribbean,2015-04-24T00:00:00Z,7,A
+41653491,Brooklyn,Not Critical,American,2016-12-28T00:00:00Z,12,A
+40400811,Brooklyn,Critical,Russian,2015-06-13T00:00:00Z,14,B
+50007859,Brooklyn,Not Critical,American,2014-08-21T00:00:00Z,9,A
+40838693,Manhattan,Not Critical,American,2015-04-29T00:00:00Z,13,A
+41274838,Queens,Not Critical,Tex-Mex,2015-05-13T00:00:00Z,11,A
+40529979,Queens,Not Critical,Pizza/Italian,2015-02-26T00:00:00Z,10,A
+50006398,Brooklyn,Not Critical,American,2015-06-04T00:00:00Z,13,A
+41570461,Brooklyn,Critical,Mexican,2014-10-02T00:00:00Z,12,A
+41690704,Brooklyn,Not Critical,Caribbean,2015-04-01T00:00:00Z,2,A
+40934037,Queens,Critical,Japanese,2015-04-22T00:00:00Z,7,A
+40546256,Manhattan,Not Critical,Cafe/coffee/Tea,2015-10-15T00:00:00Z,4,A
+41060552,Brooklyn,Critical,Indian,2016-10-04T00:00:00Z,15,B
+40715785,Queens,Not Critical,Pizza,2014-05-06T00:00:00Z,5,A
+50018504,Bronx,Critical,Chinese,2015-02-24T00:00:00Z,9,A
+50003570,Queens,Critical,American,2016-01-20T00:00:00Z,12,A
+41076171,Queens,Critical,"Ice Cream, Gelato, Yogurt, Ices",2015-08-13T00:00:00Z,13,A
+41176390,Manhattan,Not Critical,Middle Eastern,2016-03-08T00:00:00Z,13,A
+40367946,Bronx,Critical,Irish,2017-08-02T00:00:00Z,10,A
+41432865,Manhattan,Not Critical,Japanese,2015-04-06T00:00:00Z,9,A
+41686215,Queens,Critical,Chinese,2017-05-25T00:00:00Z,9,A
+41610835,Bronx,Critical,Chinese,2017-06-08T00:00:00Z,11,A
+50017242,Brooklyn,Not Critical,Cafe/coffee/Tea,2016-12-22T00:00:00Z,11,A
+50000725,Queens,Critical,Asian,2015-10-02T00:00:00Z,12,A
+50038865,Brooklyn,Not Critical,Mexican,2017-03-09T00:00:00Z,13,A
+41030972,Brooklyn,Critical,American,2014-05-01T00:00:00Z,10,A
+41719061,Manhattan,Not Critical,Pizza/Italian,2016-05-11T00:00:00Z,21,B
+50009230,Brooklyn,Critical,American,2016-09-14T00:00:00Z,11,A
+41450639,Brooklyn,Not Critical,Chinese,2014-02-27T00:00:00Z,13,A
+41697551,Brooklyn,Critical,Chinese,2014-09-18T00:00:00Z,10,A
+50007874,Bronx,Not Critical,American,2016-05-12T00:00:00Z,15,B
+50033875,Staten Island,Critical,Italian,2016-05-21T00:00:00Z,10,A
+41711478,Manhattan,Not Critical,Bakery,2015-07-07T00:00:00Z,4,A
+50036890,Queens,Critical,Chinese,2017-02-21T00:00:00Z,22,B
+40395723,Manhattan,Critical,American,2017-08-17T00:00:00Z,12,A
+50003763,Queens,Critical,Pizza,2014-03-19T00:00:00Z,11,A
+41402333,Brooklyn,Not Critical,American,2016-05-01T00:00:00Z,7,A
+40692411,Manhattan,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2014-03-25T00:00:00Z,12,A
+41389296,Brooklyn,Not Critical,Pakistani,2014-05-15T00:00:00Z,6,A
+50008585,Queens,Not Critical,Vietnamese/Cambodian/Malaysia,2014-10-22T00:00:00Z,12,A
+41424537,Brooklyn,Not Critical,Mexican,2015-01-21T00:00:00Z,13,A
+40661232,Manhattan,Not Critical,Pizza,2016-06-23T00:00:00Z,10,A
+41630917,Staten Island,Critical,Chinese,2017-01-10T00:00:00Z,12,A
+41152216,Manhattan,Not Critical,Hotdogs,2015-12-08T00:00:00Z,9,A
+40995117,Bronx,Critical,Caribbean,2015-03-24T00:00:00Z,7,A
+50010981,Manhattan,Not Critical,Mexican,2015-03-23T00:00:00Z,9,A
+50051357,Queens,Not Critical,Cafe/coffee/Tea,2017-05-10T00:00:00Z,9,A
+41347936,Staten Island,Critical,"Ice Cream, Gelato, Yogurt, Ices",2016-03-17T00:00:00Z,7,A
+50041958,Queens,Critical,Chinese,2016-06-29T00:00:00Z,10,A
+41417857,Staten Island,Critical,Sandwiches,2015-11-10T00:00:00Z,11,A
+50012822,Queens,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-03-17T00:00:00Z,13,A
+41627949,Manhattan,Critical,American,2014-02-07T00:00:00Z,12,A
+40991835,Manhattan,Critical,Steak,2016-02-02T00:00:00Z,10,A
+50001039,Brooklyn,Not Critical,Sandwiches,2015-02-18T00:00:00Z,12,A
+50015012,Staten Island,Not Critical,Pizza/Italian,2014-10-29T00:00:00Z,12,A
+40891881,Queens,Not Critical,American,2015-11-09T00:00:00Z,11,A
+41351576,Brooklyn,Not Critical,Pizza,2017-09-07T00:00:00Z,19,B
+41600677,Manhattan,Not Critical,Chinese,2014-12-18T00:00:00Z,2,A
+41644360,Brooklyn,Not Critical,Middle Eastern,2016-04-22T00:00:00Z,9,A
+50001480,Brooklyn,Not Critical,Bakery,2016-05-23T00:00:00Z,12,A
+41400630,Queens,Critical,Spanish,2014-10-09T00:00:00Z,12,A
+50033304,Queens,Not Critical,Pizza,2016-01-14T00:00:00Z,12,A
+41645764,Manhattan,Critical,Hamburgers,2016-01-28T00:00:00Z,6,A
+50035779,Queens,Not Critical,German,2015-06-04T00:00:00Z,10,A
+50013991,Brooklyn,Critical,Cafe/coffee/Tea,2016-04-06T00:00:00Z,10,A
+40998515,Manhattan,Critical,American,2014-03-04T00:00:00Z,25,B
+50043436,Manhattan,Not Critical,Sandwiches,2017-01-25T00:00:00Z,9,A
+41186059,Queens,Critical,Bagels/Pretzels,2017-06-20T00:00:00Z,7,A
+41126771,Brooklyn,Not Critical,American,2014-11-10T00:00:00Z,7,A
+50000312,Manhattan,Not Critical,American,2016-06-28T00:00:00Z,20,B
+50051294,Queens,Critical,American,2017-05-25T00:00:00Z,13,A
+41711299,Queens,Not Critical,Caribbean,2017-05-20T00:00:00Z,8,A
+50017064,Brooklyn,Not Critical,Chinese,2014-12-23T00:00:00Z,8,A
+40746574,Manhattan,Not Critical,American,2015-09-15T00:00:00Z,10,A
+50009808,Brooklyn,Critical,Spanish,2017-03-28T00:00:00Z,12,A
+41312223,Manhattan,Not Critical,American,2014-10-03T00:00:00Z,9,A
+50004619,Manhattan,Critical,Chinese,2016-01-29T00:00:00Z,9,A
+41007823,Manhattan,Not Critical,Japanese,2015-11-30T00:00:00Z,9,A
+41651044,Queens,Critical,American,2014-07-24T00:00:00Z,13,A
+50004483,Brooklyn,Critical,Russian,2014-08-04T00:00:00Z,24,B
+50001877,Manhattan,Not Critical,Pizza,2017-03-30T00:00:00Z,6,A
+41617662,Brooklyn,Critical,Caribbean,2015-07-17T00:00:00Z,13,A
+50018385,Manhattan,Critical,American,2015-04-01T00:00:00Z,10,A
+41666887,Manhattan,Not Critical,Thai,2014-11-06T00:00:00Z,12,A
+50001852,Manhattan,Critical,Donuts,2014-10-31T00:00:00Z,10,A
+41661062,Manhattan,Not Critical,Pizza,2016-05-19T00:00:00Z,4,A
+50011252,Queens,Critical,Pizza,2015-07-10T00:00:00Z,14,B
+50035681,Manhattan,Not Critical,Jewish/Kosher,2016-08-05T00:00:00Z,18,B
+50042535,Queens,Not Critical,Bakery,2016-02-02T00:00:00Z,12,A
+41646979,Manhattan,Critical,Delicatessen,2015-11-30T00:00:00Z,12,A
+41657018,Manhattan,Not Critical,Bakery,2016-04-11T00:00:00Z,19,B
+41104212,Queens,Not Critical,American,2015-05-01T00:00:00Z,3,A
+40381720,Manhattan,Not Critical,Caribbean,2014-08-01T00:00:00Z,13,A
+41352188,Manhattan,Not Critical,American,2015-10-30T00:00:00Z,6,A
+41692061,Manhattan,Critical,French,2015-12-03T00:00:00Z,10,A
+40936059,Queens,Not Critical,Caribbean,2014-10-08T00:00:00Z,8,A
+41620893,Bronx,Not Critical,Pizza,2015-03-30T00:00:00Z,13,A
+41350965,Staten Island,Not Critical,American,2014-07-22T00:00:00Z,11,A
+50018186,Brooklyn,Critical,American,2016-02-16T00:00:00Z,13,A
+41399993,Queens,Not Critical,Bakery,2015-11-12T00:00:00Z,9,A
+40825908,Manhattan,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2014-05-22T00:00:00Z,28,C
+50013605,Manhattan,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-08-25T00:00:00Z,22,B
+50034516,Brooklyn,Critical,Cafe/coffee/Tea,2015-06-03T00:00:00Z,12,A
+40567158,Manhattan,Not Critical,Italian,2015-12-28T00:00:00Z,21,B
+50037764,Queens,Critical,Korean,2015-08-19T00:00:00Z,17,B
+50010135,Queens,Critical,Chinese,2015-07-22T00:00:00Z,17,B
+50013447,Manhattan,Critical,Pizza,2014-09-16T00:00:00Z,12,A
+41719106,Manhattan,Not Critical,American,2014-09-17T00:00:00Z,13,A
+50051720,Queens,Not Critical,Chinese,2016-09-21T00:00:00Z,9,A
+41626151,Manhattan,Critical,Chinese,2015-02-25T00:00:00Z,11,A
+41503428,Queens,Not Critical,Italian,2016-11-07T00:00:00Z,7,A
+41273759,Brooklyn,Critical,Sandwiches,2016-08-11T00:00:00Z,5,A
+40981913,Queens,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-06-07T00:00:00Z,9,A
+50043407,Brooklyn,Not Critical,Mexican,2017-09-21T00:00:00Z,7,A
+41297769,Manhattan,Critical,Seafood,2016-05-24T00:00:00Z,31,C
+50050187,Manhattan,Not Critical,American,2017-10-04T00:00:00Z,12,A
+50012215,Queens,Critical,Indonesian,2017-08-31T00:00:00Z,17,B
+50009836,Staten Island,Not Critical,Chinese,2015-02-04T00:00:00Z,7,A
+41651044,Queens,Critical,American,2016-02-18T00:00:00Z,7,A
+41712797,Manhattan,Critical,Chinese,2017-01-09T00:00:00Z,10,A
+41465581,Manhattan,Critical,Mexican,2015-03-04T00:00:00Z,7,A
+41129994,Brooklyn,Not Critical,American,2016-04-26T00:00:00Z,7,A
+50002380,Manhattan,Critical,Armenian,2016-08-18T00:00:00Z,13,A
+50010707,Brooklyn,Not Critical,American,2015-02-27T00:00:00Z,11,A
+41695036,Queens,Not Critical,Spanish,2015-01-09T00:00:00Z,2,A
+40645260,Queens,Not Critical,Donuts,2017-07-12T00:00:00Z,11,A
+50002202,Manhattan,Not Critical,American,2017-02-03T00:00:00Z,25,B
+41288811,Queens,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-09-22T00:00:00Z,8,A
+41646498,Manhattan,Critical,Japanese,2014-12-22T00:00:00Z,7,A
+40787990,Manhattan,Not Critical,Cafe/coffee/Tea,2017-06-16T00:00:00Z,11,A
+50007321,Bronx,Critical,Chinese,2014-04-08T00:00:00Z,27,B
+41387239,Queens,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2014-03-26T00:00:00Z,17,B
+41468415,Manhattan,Not Critical,Mediterranean,2016-10-13T00:00:00Z,9,A
+41222128,Bronx,Critical,American,2015-05-27T00:00:00Z,9,A
+50011925,Bronx,Not Critical,Spanish,2015-11-04T00:00:00Z,2,A
+41011463,Queens,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-02-12T00:00:00Z,13,A
+40882356,Manhattan,Critical,Japanese,2015-04-02T00:00:00Z,7,A
+41392209,Queens,Critical,Spanish,2015-12-23T00:00:00Z,12,A
+41481099,Manhattan,Not Critical,American,2015-11-16T00:00:00Z,2,A
+50011154,Manhattan,Critical,American,2015-10-20T00:00:00Z,11,A
+50002843,Manhattan,Critical,French,2016-01-29T00:00:00Z,9,A
+40396906,Manhattan,Not Critical,American,2016-09-14T00:00:00Z,9,A
+40395093,Manhattan,Critical,American,2015-06-16T00:00:00Z,25,B
+50002191,Queens,Not Critical,Middle Eastern,2015-10-05T00:00:00Z,5,A
+41367337,Bronx,Critical,Sandwiches,2017-05-15T00:00:00Z,10,A
+50068112,Manhattan,Not Critical,Mexican,2017-10-02T00:00:00Z,12,A
+41701096,Queens,Critical,Chinese,2015-11-10T00:00:00Z,8,A
+50061235,Brooklyn,Critical,Delicatessen,2017-05-12T00:00:00Z,13,A
+50015881,Bronx,Critical,Pizza/Italian,2017-06-14T00:00:00Z,10,A
+50018238,Staten Island,Critical,Sandwiches,2016-06-21T00:00:00Z,11,A
+41327349,Manhattan,Not Critical,Vegetarian,2015-03-05T00:00:00Z,2,A
+40423399,Brooklyn,Not Critical,Bakery,2015-04-23T00:00:00Z,3,A
+50047325,Queens,Not Critical,Cafe/coffee/Tea,2016-05-04T00:00:00Z,4,A
+40392685,Manhattan,Critical,Japanese,2015-05-19T00:00:00Z,29,C
+41276395,Bronx,Not Critical,Pizza,2017-02-08T00:00:00Z,11,A
+41399678,Manhattan,Not Critical,Tex-Mex,2014-08-13T00:00:00Z,9,A
+40510605,Manhattan,Critical,Delicatessen,2016-01-26T00:00:00Z,13,A
+40621072,Manhattan,Not Critical,American,2016-01-21T00:00:00Z,12,A
+50000068,Manhattan,Not Critical,Bakery,2017-07-18T00:00:00Z,13,A
+50016021,Staten Island,Critical,Japanese,2015-08-05T00:00:00Z,17,B
+50000865,Staten Island,Not Critical,American,2015-06-11T00:00:00Z,11,A
+40564842,Queens,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-02-09T00:00:00Z,13,A
+50013828,Manhattan,Critical,American,2015-06-17T00:00:00Z,10,A
+40573141,Manhattan,Critical,Italian,2016-01-11T00:00:00Z,12,A
+41514631,Brooklyn,Not Critical,Pizza/Italian,2015-06-05T00:00:00Z,10,A
+50044665,Queens,Not Critical,Bakery,2017-05-04T00:00:00Z,9,A
+40538563,Manhattan,Not Critical,American,2015-01-05T00:00:00Z,13,A
+41395226,Bronx,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-02-10T00:00:00Z,9,A
+41677059,Brooklyn,Not Critical,Pizza,2017-01-23T00:00:00Z,2,A
+50047771,Manhattan,Not Critical,Chinese,2016-08-26T00:00:00Z,11,A
+41269792,Queens,Not Critical,Bagels/Pretzels,2017-02-06T00:00:00Z,2,A
+50000059,Queens,Critical,Pizza,2016-07-08T00:00:00Z,12,A
+50017443,Manhattan,Critical,American,2017-08-23T00:00:00Z,13,A
+50002768,Manhattan,Not Critical,Tapas,2016-10-25T00:00:00Z,13,A
+50002871,Manhattan,Critical,American,2014-12-08T00:00:00Z,12,A
+41630365,Brooklyn,Critical,Pizza,2016-01-13T00:00:00Z,12,A
+41527847,Manhattan,Critical,Chinese,2014-11-05T00:00:00Z,22,B
+40399729,Queens,Critical,Delicatessen,2017-09-12T00:00:00Z,12,A
+41109419,Manhattan,Critical,American,2016-09-14T00:00:00Z,20,B
+41395411,Queens,Not Critical,American,2017-06-13T00:00:00Z,2,A
+50037409,Manhattan,Not Critical,Cafe/coffee/Tea,2017-03-06T00:00:00Z,10,A
+50051591,Bronx,Critical,Caribbean,2016-10-20T00:00:00Z,9,A
+50004633,Queens,Critical,Chinese,2015-06-17T00:00:00Z,12,A
+41567009,Queens,Not Critical,Cafe/coffee/Tea,2015-06-11T00:00:00Z,10,A
+50045323,Queens,Critical,Chinese,2016-04-22T00:00:00Z,12,A
+50032907,Staten Island,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-06-21T00:00:00Z,15,B
+40370150,Bronx,Critical,American,2015-09-03T00:00:00Z,11,A
+50058906,Brooklyn,Critical,American,2017-05-11T00:00:00Z,13,A
+41502955,Brooklyn,Critical,Mexican,2015-05-05T00:00:00Z,8,A
+41465002,Manhattan,Not Critical,Italian,2015-02-20T00:00:00Z,7,A
+50058524,Staten Island,Critical,Chinese,2017-03-22T00:00:00Z,10,A
+50000071,Queens,Not Critical,American,2017-02-10T00:00:00Z,9,A
+50037375,Queens,Not Critical,Indian,2016-10-19T00:00:00Z,7,A
+50003223,Manhattan,Critical,Sandwiches/Salads/Mixed Buffet,2017-07-24T00:00:00Z,12,A
+41587826,Manhattan,Critical,Mexican,2015-10-08T00:00:00Z,16,B
+50033839,Manhattan,Critical,Sandwiches,2017-05-19T00:00:00Z,5,A
+40388235,Queens,Not Critical,Pizza,2014-11-19T00:00:00Z,6,A
+41097286,Manhattan,Not Critical,American,2014-09-02T00:00:00Z,57,C
+50000542,Manhattan,Not Critical,Chinese,2015-04-13T00:00:00Z,30,C
+50002421,Manhattan,Critical,Asian,2014-06-18T00:00:00Z,16,B
+41489207,Brooklyn,Critical,Cafe/coffee/Tea,2017-03-27T00:00:00Z,15,B
+50068305,Queens,Critical,"Juice, Smoothies, Fruit Salads",2017-08-24T00:00:00Z,13,A
+50017665,Manhattan,Critical,Japanese,2015-03-24T00:00:00Z,26,B
+50011009,Bronx,Not Critical,Bakery,2015-05-12T00:00:00Z,11,A
+41214446,Manhattan,Critical,Hamburgers,2014-08-15T00:00:00Z,12,A
+41618756,Manhattan,Critical,American,2016-05-04T00:00:00Z,10,A
+41189848,Manhattan,Not Critical,Pizza,2016-06-16T00:00:00Z,10,A
+41721459,Brooklyn,Not Critical,Chinese,2015-11-05T00:00:00Z,21,B
+50017148,Bronx,Critical,Pizza,2015-01-03T00:00:00Z,35,C
+41567044,Manhattan,Not Critical,American,2016-02-18T00:00:00Z,10,A
+41383548,Manhattan,Critical,Spanish,2015-08-12T00:00:00Z,10,A
+41015947,Bronx,Not Critical,American,2016-06-29T00:00:00Z,27,B
+41382973,Manhattan,Critical,Donuts,2016-10-13T00:00:00Z,10,A
+50002100,Bronx,Critical,Chicken,2015-02-25T00:00:00Z,14,B
+50006705,Brooklyn,Not Critical,American,2014-12-24T00:00:00Z,14,B
+41621139,Manhattan,Critical,Italian,2014-10-02T00:00:00Z,10,A
+41646976,Manhattan,Not Critical,Caribbean,2016-08-09T00:00:00Z,37,C
+40938384,Manhattan,Critical,American,2014-09-24T00:00:00Z,24,B
+41660744,Manhattan,Critical,American,2017-07-26T00:00:00Z,10,A
+41247570,Queens,Not Critical,Sandwiches/Salads/Mixed Buffet,2015-04-16T00:00:00Z,5,A
+41273072,Queens,Not Critical,Pizza,2014-04-17T00:00:00Z,18,B
+40847025,Brooklyn,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-12-15T00:00:00Z,11,A
+41478517,Manhattan,Critical,Chinese,2014-03-26T00:00:00Z,16,B
+50017545,Queens,Not Critical,Asian,2016-07-28T00:00:00Z,5,A
+41376798,Bronx,Not Critical,Mexican,2014-12-03T00:00:00Z,13,A
+40597618,Staten Island,Critical,Pizza/Italian,2017-04-13T00:00:00Z,12,A
+41714830,Manhattan,Not Critical,Cafe/coffee/Tea,2014-08-08T00:00:00Z,2,A
+40382302,Brooklyn,Critical,Tex-Mex,2015-05-01T00:00:00Z,9,A
+40995330,Queens,Not Critical,Mexican,2017-02-25T00:00:00Z,7,A
+41627431,Manhattan,Critical,Vietnamese/Cambodian/Malaysia,2015-01-20T00:00:00Z,18,B
+40563526,Manhattan,Critical,Thai,2014-10-27T00:00:00Z,12,A
+41592830,Manhattan,Not Critical,Sandwiches/Salads/Mixed Buffet,2016-01-11T00:00:00Z,6,A
+41164643,Queens,Not Critical,Caribbean,2015-03-23T00:00:00Z,10,A
+41643160,Manhattan,Critical,"Ice Cream, Gelato, Yogurt, Ices",2015-06-03T00:00:00Z,6,A
+41267759,Bronx,Critical,Pancakes/Waffles,2014-12-16T00:00:00Z,16,B
+41447329,Queens,Not Critical,Chinese,2016-04-20T00:00:00Z,10,A
+40366879,Queens,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2014-09-03T00:00:00Z,12,A
+40387787,Brooklyn,Not Critical,Italian,2015-01-14T00:00:00Z,11,A
+41614161,Manhattan,Critical,Soul Food,2014-04-08T00:00:00Z,23,B
+41722468,Queens,Critical,American,2016-11-09T00:00:00Z,8,A
+40594879,Bronx,Critical,Pizza/Italian,2015-10-27T00:00:00Z,12,A
+50015423,Manhattan,Critical,American,2017-02-21T00:00:00Z,13,A
+41702574,Manhattan,Not Critical,American,2015-07-31T00:00:00Z,9,A
+41091113,Bronx,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-08-26T00:00:00Z,10,A
+41539265,Manhattan,Critical,Italian,2015-08-05T00:00:00Z,12,A
+50006260,Manhattan,Not Critical,American,2015-08-24T00:00:00Z,12,A
+41717640,Brooklyn,Critical,Caribbean,2015-05-06T00:00:00Z,52,C
+50001973,Queens,Not Critical,Sandwiches/Salads/Mixed Buffet,2015-07-14T00:00:00Z,7,A
+50034094,Manhattan,Not Critical,American,2016-01-13T00:00:00Z,9,A
+50044976,Manhattan,Critical,"Juice, Smoothies, Fruit Salads",2016-07-11T00:00:00Z,5,A
+50047769,Manhattan,Critical,Pizza,2017-08-07T00:00:00Z,12,A
+50002381,Brooklyn,Not Critical,Japanese,2015-11-04T00:00:00Z,26,B
+41443815,Manhattan,Critical,Irish,2016-06-08T00:00:00Z,12,A
+41328141,Staten Island,Not Critical,Turkish,2016-05-10T00:00:00Z,10,A
+40530159,Manhattan,Critical,American,2017-08-24T00:00:00Z,12,A
+41058276,Bronx,Critical,Mexican,2015-06-16T00:00:00Z,12,A
+50001829,Queens,Critical,American,2015-10-01T00:00:00Z,27,B
+41583613,Manhattan,Not Critical,Delicatessen,2017-09-13T00:00:00Z,13,A
+41478388,Manhattan,Critical,Jewish/Kosher,2014-02-25T00:00:00Z,22,B
+50018147,Manhattan,Not Critical,American,2015-04-03T00:00:00Z,13,A
+41195964,Staten Island,Critical,Sandwiches,2014-10-15T00:00:00Z,10,A
+41697952,Queens,Not Critical,Filipino,2017-02-04T00:00:00Z,7,A
+50009998,Brooklyn,Critical,Pizza,2014-11-13T00:00:00Z,12,A
+50002067,Staten Island,Critical,Chinese,2015-04-07T00:00:00Z,12,A
+41632866,Manhattan,Critical,Delicatessen,2015-12-23T00:00:00Z,12,A
+40389701,Queens,Critical,Pizza,2015-06-02T00:00:00Z,11,A
+41523265,Manhattan,Critical,Pizza/Italian,2016-04-25T00:00:00Z,12,A
+41413288,Queens,Critical,Chinese,2016-02-09T00:00:00Z,9,A
+41213177,Brooklyn,Critical,Pizza,2014-04-15T00:00:00Z,9,A
+50007733,Bronx,Not Critical,Chinese,2014-04-23T00:00:00Z,9,A
+40926520,Manhattan,Critical,Japanese,2017-08-28T00:00:00Z,26,B
+40388787,Manhattan,Critical,Italian,2017-07-26T00:00:00Z,13,A
+50037025,Queens,Critical,Chinese,2015-12-05T00:00:00Z,20,B
+50043038,Brooklyn,Not Critical,American,2017-07-25T00:00:00Z,13,A
+41714334,Manhattan,Critical,American,2015-12-11T00:00:00Z,13,A
+41384226,Manhattan,Critical,Vegetarian,2015-08-21T00:00:00Z,9,A
+41701232,Queens,Not Critical,Spanish,2015-07-18T00:00:00Z,25,B
+41539580,Queens,Critical,Bakery,2016-09-01T00:00:00Z,12,A
+41387292,Queens,Critical,American,2015-02-12T00:00:00Z,5,A
+40912964,Staten Island,Critical,Italian,2017-03-22T00:00:00Z,13,A
+50005543,Manhattan,Critical,Mexican,2015-03-07T00:00:00Z,12,A
+50051165,Manhattan,Not Critical,American,2017-03-06T00:00:00Z,25,B
+41650577,Brooklyn,Critical,Indian,2014-11-10T00:00:00Z,17,B
+40661290,Brooklyn,Not Critical,Italian,2015-04-29T00:00:00Z,10,A
+41485121,Queens,Not Critical,Czech,2014-02-27T00:00:00Z,6,A
+41577295,Manhattan,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2014-08-22T00:00:00Z,7,A
+50046229,Bronx,Critical,Pizza,2016-04-09T00:00:00Z,12,A
+41295296,Queens,Critical,Korean,2017-03-29T00:00:00Z,11,A
+41383216,Manhattan,Critical,Middle Eastern,2015-10-16T00:00:00Z,12,A
+40957398,Manhattan,Not Critical,Thai,2014-04-29T00:00:00Z,9,A
+40906355,Manhattan,Not Critical,Barbecue,2016-08-24T00:00:00Z,13,A
+50000372,Bronx,Critical,Spanish,2016-03-08T00:00:00Z,11,A
+50043436,Manhattan,Not Critical,Sandwiches,2015-12-11T00:00:00Z,3,A
+41647664,Queens,Critical,Turkish,2015-10-14T00:00:00Z,10,A
+40874933,Manhattan,Critical,Italian,2016-02-10T00:00:00Z,13,A
+50051668,Brooklyn,Critical,Pizza,2016-11-09T00:00:00Z,12,A
+41701986,Brooklyn,Not Critical,Spanish,2013-11-07T00:00:00Z,13,A
+41334692,Bronx,Not Critical,Mexican,2015-03-05T00:00:00Z,11,A
+50005098,Manhattan,Not Critical,Donuts,2014-01-30T00:00:00Z,13,A
+50019199,Brooklyn,Critical,Japanese,2016-03-07T00:00:00Z,9,A
+41699397,Manhattan,Not Critical,"Juice, Smoothies, Fruit Salads",2014-06-13T00:00:00Z,12,A
+41502643,Queens,Critical,Chinese,2016-05-26T00:00:00Z,9,A
+41594766,Queens,Not Critical,Sandwiches,2014-07-29T00:00:00Z,12,A
+50037985,Manhattan,Critical,American,2016-11-09T00:00:00Z,9,A
+40369619,Manhattan,Not Critical,American,2016-10-17T00:00:00Z,13,A
+41536142,Queens,Critical,Indian,2016-08-17T00:00:00Z,10,A
+50019041,Brooklyn,Critical,Caribbean,2015-04-14T00:00:00Z,9,A
+41353598,Brooklyn,Critical,Caribbean,2015-04-08T00:00:00Z,12,A
+40379628,Manhattan,Critical,Japanese,2015-04-01T00:00:00Z,9,A
+41651810,Manhattan,Not Critical,Italian,2017-02-01T00:00:00Z,12,A
+50017261,Manhattan,Critical,American,2014-12-18T00:00:00Z,12,A
+50018202,Brooklyn,Critical,Chinese,2016-04-08T00:00:00Z,15,B
+41176390,Manhattan,Critical,Middle Eastern,2014-04-18T00:00:00Z,9,A
+50053568,Brooklyn,Critical,Sandwiches,2017-10-12T00:00:00Z,9,A
+41686601,Staten Island,Critical,American,2015-06-03T00:00:00Z,10,A
+50006083,Queens,Not Critical,American,2015-02-04T00:00:00Z,11,A
+41061893,Queens,Not Critical,Hamburgers,2017-08-15T00:00:00Z,9,A
+50055640,Manhattan,Critical,American,2016-12-23T00:00:00Z,7,A
+40402172,Manhattan,Not Critical,Pizza/Italian,2017-05-22T00:00:00Z,13,A
+41589254,Manhattan,Not Critical,American,2017-04-28T00:00:00Z,13,A
+50043327,Brooklyn,Not Critical,Chinese,2016-09-07T00:00:00Z,10,A
+41405616,Brooklyn,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-07-10T00:00:00Z,9,A
+50052331,Manhattan,Not Critical,American,2016-09-19T00:00:00Z,9,A
+40885478,Bronx,Not Critical,Caribbean,2015-08-03T00:00:00Z,13,A
+50001114,Manhattan,Critical,Bagels/Pretzels,2016-03-07T00:00:00Z,13,A
+40369608,Brooklyn,Not Critical,American,2015-06-27T00:00:00Z,13,A
+50056886,Bronx,Critical,Pizza/Italian,2016-12-19T00:00:00Z,12,A
+41453307,Manhattan,Critical,American,2015-04-01T00:00:00Z,9,A
+50010300,Queens,Critical,"Bottled beverages, including water, sodas, juices, etc.",2016-04-06T00:00:00Z,12,A
+50001761,Manhattan,Critical,Chinese,2016-01-05T00:00:00Z,11,A
+50038736,Queens,Not Critical,Mexican,2015-10-19T00:00:00Z,12,A
+50052345,Queens,Not Critical,Mexican,2016-12-07T00:00:00Z,7,A
+50017060,Manhattan,Not Critical,Chinese,2015-04-28T00:00:00Z,9,A
+41701176,Queens,Critical,Mexican,2016-05-24T00:00:00Z,13,A
+50051064,Manhattan,Critical,Cafe/coffee/Tea,2016-07-26T00:00:00Z,8,A
+41418153,Manhattan,Not Critical,American,2015-09-03T00:00:00Z,7,A
+50012363,Queens,Not Critical,Not Listed/Not Applicable,2016-06-15T00:00:00Z,4,A
+41155285,Brooklyn,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2014-12-24T00:00:00Z,7,A
+41309521,Brooklyn,Critical,Chinese,2017-03-07T00:00:00Z,8,A
+50033559,Manhattan,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-08-26T00:00:00Z,13,A
+41428018,Manhattan,Critical,Asian,2017-09-19T00:00:00Z,11,A
+50003622,Queens,Critical,Chinese,2016-11-25T00:00:00Z,18,B
+50047323,Bronx,Critical,Thai,2017-08-22T00:00:00Z,16,B
+50044891,Queens,Critical,Pizza,2017-01-04T00:00:00Z,8,A
+41529148,Manhattan,Critical,Italian,2014-11-10T00:00:00Z,7,A
+50068989,Brooklyn,Critical,Chicken,2017-10-04T00:00:00Z,12,A
+41577394,Bronx,Not Critical,American,2016-03-02T00:00:00Z,13,A
+41086770,Manhattan,Critical,American,2017-02-27T00:00:00Z,12,A
+41627996,Manhattan,Not Critical,Cafe/coffee/Tea,2015-01-05T00:00:00Z,7,A
+50038267,Brooklyn,Critical,Chinese,2015-09-23T00:00:00Z,22,B
+50055844,Queens,Not Critical,Japanese,2017-04-06T00:00:00Z,9,A
+50046456,Brooklyn,Critical,Chinese,2017-04-28T00:00:00Z,13,A
+50044483,Manhattan,Not Critical,French,2016-09-13T00:00:00Z,7,A
+41376398,Queens,Critical,Pizza,2015-04-14T00:00:00Z,37,C
+41070673,Queens,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2014-10-16T00:00:00Z,21,B
+40959121,Manhattan,Critical,Irish,2016-09-26T00:00:00Z,13,A
+50064112,Manhattan,Critical,Other,2017-08-29T00:00:00Z,5,A
+41585586,Manhattan,Critical,Asian,2015-04-09T00:00:00Z,34,C
+41196869,Brooklyn,Critical,Pizza,2015-09-15T00:00:00Z,11,A
+50018268,Staten Island,Not Critical,American,2015-03-25T00:00:00Z,8,A
+41088825,Queens,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-04-14T00:00:00Z,16,B
+50044479,Brooklyn,Not Critical,Indian,2017-07-29T00:00:00Z,9,A
+50047957,Queens,Not Critical,Spanish,2017-03-21T00:00:00Z,11,A
+41236336,Manhattan,Critical,Pizza,2016-05-09T00:00:00Z,12,A
+50009989,Manhattan,Not Critical,Salads,2015-02-20T00:00:00Z,7,A
+41612554,Bronx,Not Critical,Cafe/coffee/Tea,2017-02-01T00:00:00Z,13,A
+41628216,Brooklyn,Critical,American,2015-12-31T00:00:00Z,10,A
+40655946,Bronx,Not Critical,Soul Food,2017-09-13T00:00:00Z,13,A
+50058240,Manhattan,Critical,Bakery,2017-03-23T00:00:00Z,22,B
+41399837,Brooklyn,Critical,American,2015-10-05T00:00:00Z,10,A
+40891782,Manhattan,Critical,American,2017-08-03T00:00:00Z,13,A
+41498521,Manhattan,Critical,American,2015-03-03T00:00:00Z,5,A
+41551865,Queens,Not Critical,Asian,2015-09-17T00:00:00Z,13,A
+50009321,Manhattan,Critical,Spanish,2015-02-26T00:00:00Z,24,B
+50000290,Queens,Not Critical,English,2014-10-28T00:00:00Z,12,A
+41416726,Queens,Critical,American,2017-09-20T00:00:00Z,12,A
+41390168,Brooklyn,Not Critical,American,2015-05-04T00:00:00Z,13,A
+50018090,Queens,Not Critical,American,2017-04-04T00:00:00Z,7,A
+50005390,Manhattan,Critical,Italian,2017-04-24T00:00:00Z,12,A
+41387641,Queens,Critical,Korean,2016-12-06T00:00:00Z,11,A
+41241639,Manhattan,Critical,Hamburgers,2015-06-26T00:00:00Z,28,C
+50002628,Bronx,Not Critical,American,2015-04-22T00:00:00Z,5,A
+41382150,Manhattan,Critical,American,2014-04-17T00:00:00Z,20,B
+50034105,Queens,Critical,Pizza,2017-02-23T00:00:00Z,7,A
+41687898,Manhattan,Not Critical,Cafe/coffee/Tea,2014-09-12T00:00:00Z,2,A
+40834713,Manhattan,Critical,Chinese,2016-04-07T00:00:00Z,13,A
+41105041,Brooklyn,Critical,Chinese,2016-04-12T00:00:00Z,17,B
+50018882,Brooklyn,Not Critical,Mexican,2015-11-21T00:00:00Z,5,A
+50000130,Queens,Critical,Chinese,2017-01-21T00:00:00Z,11,A
+41374711,Manhattan,Critical,Vietnamese/Cambodian/Malaysia,2017-06-12T00:00:00Z,23,B
+41162227,Queens,Not Critical,Chinese,2016-08-25T00:00:00Z,23,B
+50044930,Manhattan,Not Critical,American,2017-03-30T00:00:00Z,13,A
+50033267,Manhattan,Critical,Chinese/Cuban,2016-08-30T00:00:00Z,27,B
+50018788,Manhattan,Not Critical,Hamburgers,2016-05-04T00:00:00Z,2,A
+40389881,Queens,Critical,American,2014-05-13T00:00:00Z,9,A
+50001394,Queens,Critical,Spanish,2017-03-29T00:00:00Z,13,A
+40395036,Queens,Not Critical,American,2016-09-01T00:00:00Z,4,A
+41193088,Manhattan,Critical,Mexican,2015-09-09T00:00:00Z,11,A
+50011908,Manhattan,Critical,Vegetarian,2016-06-27T00:00:00Z,14,B
+50033694,Manhattan,Critical,American,2017-06-29T00:00:00Z,10,A
+41467162,Queens,Critical,American,2015-11-05T00:00:00Z,10,A
+41395386,Queens,Critical,American,2017-06-13T00:00:00Z,9,A
+50035784,Manhattan,Not Critical,Chinese,2015-07-22T00:00:00Z,34,C
+50039403,Queens,Critical,Chinese,2016-11-22T00:00:00Z,11,A
+50005442,Queens,Critical,American,2015-03-25T00:00:00Z,9,A
+40827907,Queens,Not Critical,Sandwiches,2015-11-25T00:00:00Z,9,A
+41688222,Brooklyn,Not Applicable,Hamburgers,2015-01-30T00:00:00Z,0,A
+41715751,Manhattan,Critical,Bakery,2017-02-13T00:00:00Z,9,A
+50005105,Staten Island,Critical,American,2014-11-08T00:00:00Z,8,A
+41686787,Manhattan,Not Critical,Indian,2015-07-23T00:00:00Z,8,A
+50052004,Brooklyn,Not Critical,Other,2016-10-20T00:00:00Z,2,A
+50001900,Manhattan,Critical,Chinese,2016-05-20T00:00:00Z,10,A
+50008665,Bronx,Not Critical,Sandwiches,2016-02-09T00:00:00Z,5,A
+50006046,Brooklyn,Not Critical,Pizza,2015-05-14T00:00:00Z,7,A
+41553479,Manhattan,Critical,Chinese,2015-06-22T00:00:00Z,12,A
+50044926,Brooklyn,Not Critical,Indian,2016-09-14T00:00:00Z,2,A
+50044368,Brooklyn,Critical,Chinese,2017-07-10T00:00:00Z,13,A
+50004674,Manhattan,Critical,Korean,2016-12-19T00:00:00Z,12,A
+40402337,Queens,Not Critical,Bakery,2016-01-11T00:00:00Z,13,A
+50046091,Manhattan,Not Critical,"Bottled beverages, including water, sodas, juices, etc.",2017-10-05T00:00:00Z,11,A
+41708706,Queens,Not Critical,Chinese,2015-10-05T00:00:00Z,9,A
+40569838,Bronx,Not Critical,American,2016-08-18T00:00:00Z,8,A
+41459659,Manhattan,Critical,Asian,2014-10-28T00:00:00Z,34,C
+41686353,Queens,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-03-27T00:00:00Z,27,B
+41373017,Brooklyn,Critical,French,2017-08-24T00:00:00Z,7,A
+41173778,Manhattan,Not Critical,"Juice, Smoothies, Fruit Salads",2016-06-21T00:00:00Z,10,A
+50037346,Manhattan,Not Critical,French,2016-12-19T00:00:00Z,11,A
+41205634,Brooklyn,Not Critical,Jewish/Kosher,2017-03-22T00:00:00Z,13,A
+40394749,Manhattan,Not Critical,Jewish/Kosher,2017-06-23T00:00:00Z,7,A
+50038072,Queens,Not Critical,Spanish,2016-06-14T00:00:00Z,9,A
+41476416,Brooklyn,Not Critical,Italian,2017-10-13T00:00:00Z,11,A
+50062554,Manhattan,Critical,Spanish,2017-09-26T00:00:00Z,12,A
+41106672,Brooklyn,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-01-08T00:00:00Z,8,A
+50003299,Queens,Not Critical,Pizza,2014-07-19T00:00:00Z,8,A
+50063937,Queens,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-06-19T00:00:00Z,12,A
+41052309,Brooklyn,Critical,American,2016-04-19T00:00:00Z,25,B
+50033694,Manhattan,Not Critical,American,2016-07-01T00:00:00Z,12,A
+50055298,Queens,Critical,Spanish,2017-01-17T00:00:00Z,10,A
+41222128,Bronx,Not Critical,American,2014-07-16T00:00:00Z,13,A
+41551354,Queens,Critical,Bangladeshi,2015-06-17T00:00:00Z,7,A
+41050020,Brooklyn,Critical,American,2015-10-22T00:00:00Z,13,A
+41644418,Queens,Critical,Bagels/Pretzels,2016-08-31T00:00:00Z,8,A
+41693601,Queens,Not Applicable,Bakery,2014-12-11T00:00:00Z,0,A
+41312094,Manhattan,Not Critical,American,2014-10-31T00:00:00Z,11,A
+41540529,Manhattan,Critical,Cafe/coffee/Tea,2016-03-17T00:00:00Z,20,B
+41166704,Bronx,Not Critical,American,2015-08-05T00:00:00Z,13,A
+40391086,Staten Island,Critical,Pizza/Italian,2015-01-22T00:00:00Z,10,A
+41714279,Manhattan,Not Critical,Sandwiches,2014-06-04T00:00:00Z,14,B
+41374923,Queens,Not Critical,American,2014-09-16T00:00:00Z,9,A
+41287433,Manhattan,Not Critical,Italian,2017-07-11T00:00:00Z,12,A
+41614718,Manhattan,Not Critical,Pizza/Italian,2015-01-17T00:00:00Z,9,A
+41067289,Manhattan,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-08-03T00:00:00Z,10,A
+41662783,Brooklyn,Critical,Spanish,2016-03-11T00:00:00Z,10,A
+41346018,Manhattan,Critical,Indian,2014-09-30T00:00:00Z,19,B
+40722858,Queens,Critical,"Bottled beverages, including water, sodas, juices, etc.",2016-03-04T00:00:00Z,12,A
+40601159,Manhattan,Critical,Pizza/Italian,2016-03-02T00:00:00Z,12,A
+41674445,Bronx,Not Critical,Pizza,2016-04-05T00:00:00Z,7,A
+50009230,Brooklyn,Critical,American,2014-10-02T00:00:00Z,16,B
+50035412,Staten Island,Not Critical,Other,2017-08-03T00:00:00Z,12,A
+50054485,Queens,Critical,Korean,2016-11-19T00:00:00Z,12,A
+50001535,Brooklyn,Critical,Caribbean,2014-08-20T00:00:00Z,7,A
+50037340,Brooklyn,Critical,Japanese,2015-09-30T00:00:00Z,9,A
+50007074,Brooklyn,Critical,Cafe/coffee/Tea,2016-06-28T00:00:00Z,13,A
+50001966,Manhattan,Not Critical,American,2015-04-07T00:00:00Z,4,A
+41335700,Bronx,Critical,Donuts,2015-01-24T00:00:00Z,12,A
+41619912,Queens,Critical,American,2015-01-15T00:00:00Z,7,A
+40693544,Manhattan,Not Critical,American,2014-10-08T00:00:00Z,2,A
+41640818,Manhattan,Critical,American,2017-03-03T00:00:00Z,21,B
+41555711,Staten Island,Not Critical,Chinese,2015-02-25T00:00:00Z,13,A
+41459867,Manhattan,Critical,Japanese,2014-07-29T00:00:00Z,20,B
+40999727,Manhattan,Not Critical,American,2015-08-13T00:00:00Z,5,A
+41645673,Queens,Critical,Pizza,2015-12-01T00:00:00Z,10,A
+40715360,Manhattan,Not Critical,Cafe/coffee/Tea,2015-10-26T00:00:00Z,9,A
+41502613,Brooklyn,Critical,Mexican,2014-05-15T00:00:00Z,9,A
+41467140,Manhattan,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-04-29T00:00:00Z,8,A
+50009798,Brooklyn,Not Critical,Mediterranean,2014-11-07T00:00:00Z,7,A
+40599617,Manhattan,Not Critical,American,2016-11-03T00:00:00Z,23,B
+50001854,Manhattan,Critical,American,2016-05-24T00:00:00Z,10,A
+41472519,Manhattan,Critical,Sandwiches,2016-06-07T00:00:00Z,10,A
+50032918,Manhattan,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-09-02T00:00:00Z,9,A
+41100958,Manhattan,Not Critical,French,2014-12-08T00:00:00Z,6,A
+41638031,Bronx,Not Critical,Spanish,2015-08-22T00:00:00Z,27,B
+41609113,Brooklyn,Critical,American,2016-05-21T00:00:00Z,12,A
+41629291,Manhattan,Critical,American,2014-09-25T00:00:00Z,10,A
+50006762,Brooklyn,Critical,Polish,2016-03-29T00:00:00Z,9,A
+41564898,Manhattan,Not Critical,Hamburgers,2014-02-10T00:00:00Z,8,A
+50009794,Brooklyn,Critical,Caribbean,2015-08-13T00:00:00Z,10,A
+41090957,Manhattan,Not Critical,Italian,2017-10-02T00:00:00Z,10,A
+41627133,Bronx,Critical,Chinese,2017-07-12T00:00:00Z,12,A
+41632866,Manhattan,Not Critical,Delicatessen,2016-08-10T00:00:00Z,11,A
+41171220,Queens,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-01-27T00:00:00Z,11,A
+40391259,Queens,Not Critical,Caribbean,2014-10-30T00:00:00Z,10,A
+41688165,Brooklyn,Not Critical,Hamburgers,2017-01-25T00:00:00Z,2,A
+40892468,Brooklyn,Not Critical,Chinese,2014-05-07T00:00:00Z,7,A
+50018121,Bronx,Not Critical,Caribbean,2016-09-16T00:00:00Z,26,B
+41704669,Brooklyn,Not Critical,Chinese,2015-08-11T00:00:00Z,12,A
+41216192,Manhattan,Critical,Cafe/coffee/Tea,2016-10-07T00:00:00Z,12,A
+40762630,Queens,Not Critical,Hamburgers,2016-04-19T00:00:00Z,9,A
+50015204,Manhattan,Not Critical,American,2017-05-24T00:00:00Z,17,B
+41004618,Queens,Critical,Chinese,2015-11-27T00:00:00Z,13,A
+40603266,Manhattan,Critical,American,2016-05-20T00:00:00Z,10,A
+41716904,Manhattan,Not Critical,Pizza,2015-07-06T00:00:00Z,8,A
+40365226,Brooklyn,Critical,Donuts,2014-10-21T00:00:00Z,16,B
+41366039,Brooklyn,Critical,Chicken,2015-08-19T00:00:00Z,23,B
+50016838,Brooklyn,Not Critical,American,2014-12-09T00:00:00Z,11,A
+40731746,Bronx,Critical,Pizza/Italian,2014-09-22T00:00:00Z,9,A
+41602948,Queens,Not Critical,Chinese,2015-03-25T00:00:00Z,13,A
+41688363,Manhattan,Critical,Japanese,2015-11-27T00:00:00Z,9,A
+41202545,Queens,Not Critical,Bakery,2015-09-10T00:00:00Z,9,A
+50041083,Manhattan,Critical,Japanese,2016-10-19T00:00:00Z,11,A
+50039294,Brooklyn,Critical,Caribbean,2016-09-28T00:00:00Z,31,C
+40911185,Staten Island,Not Critical,Pizza,2016-03-31T00:00:00Z,9,A
+41308275,Queens,Critical,Indian,2017-01-17T00:00:00Z,12,A
+50038560,Manhattan,Critical,American,2015-09-29T00:00:00Z,13,A
+41712970,Queens,Not Critical,Spanish,2017-02-11T00:00:00Z,7,A
+50015094,Brooklyn,Critical,Other,2014-09-27T00:00:00Z,12,A
+41183134,Manhattan,Critical,French,2017-06-15T00:00:00Z,12,A
+50059015,Queens,Critical,Korean,2017-03-29T00:00:00Z,22,B
+40402106,Bronx,Not Critical,Hamburgers,2014-06-18T00:00:00Z,11,A
+50045565,Manhattan,Critical,Thai,2016-03-03T00:00:00Z,18,B
+50043211,Manhattan,Not Critical,American,2016-03-29T00:00:00Z,2,A
+50045592,Bronx,Not Critical,Bakery,2016-06-08T00:00:00Z,12,A
+41439621,Manhattan,Not Critical,American,2016-10-14T00:00:00Z,12,A
+50035346,Brooklyn,Not Critical,Pizza/Italian,2015-11-05T00:00:00Z,4,A
+40974031,Manhattan,Critical,Spanish,2014-04-09T00:00:00Z,12,A
+40928483,Manhattan,Critical,American,2014-06-09T00:00:00Z,12,A
+40382876,Brooklyn,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-09-23T00:00:00Z,9,A
+50038523,Brooklyn,Critical,"Ice Cream, Gelato, Yogurt, Ices",2016-12-28T00:00:00Z,5,A
+41368013,Brooklyn,Critical,Caribbean,2015-05-21T00:00:00Z,18,B
+41591126,Queens,Not Critical,Bangladeshi,2015-08-19T00:00:00Z,2,C
+50035830,Staten Island,Not Critical,Delicatessen,2015-05-20T00:00:00Z,9,A
+41265961,Bronx,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-10-27T00:00:00Z,19,B
+40392063,Manhattan,Critical,Other,2017-05-31T00:00:00Z,12,A
+40530791,Manhattan,Critical,American,2017-01-11T00:00:00Z,9,B
+40960423,Manhattan,Not Critical,Mexican,2014-10-28T00:00:00Z,13,A
+40697593,Brooklyn,Not Critical,Soul Food,2015-02-09T00:00:00Z,13,A
+41349911,Bronx,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2014-03-14T00:00:00Z,12,A
+40664052,Manhattan,Critical,American,2014-05-06T00:00:00Z,10,A
+50032659,Brooklyn,Critical,Chinese,2015-04-09T00:00:00Z,11,A
+50004065,Brooklyn,Not Critical,Mexican,2016-08-30T00:00:00Z,25,B
+41297910,Manhattan,Not Critical,Asian,2015-11-19T00:00:00Z,13,A
+40688834,Staten Island,Not Critical,Delicatessen,2015-01-21T00:00:00Z,7,A
+50002615,Manhattan,Not Critical,Chicken,2016-01-14T00:00:00Z,14,B
+41681319,Manhattan,Critical,American,2017-01-18T00:00:00Z,12,A
+41572685,Staten Island,Critical,Pizza/Italian,2014-10-28T00:00:00Z,26,B
+41432519,Queens,Not Applicable,American,2014-10-16T00:00:00Z,0,A
+50005395,Queens,Not Critical,Chinese,2014-03-05T00:00:00Z,13,A
+50005075,Manhattan,Not Critical,American,2015-11-20T00:00:00Z,12,A
+40366643,Manhattan,Not Critical,American,2014-12-16T00:00:00Z,12,A
+50051997,Manhattan,Critical,French,2017-02-02T00:00:00Z,12,A
+41510938,Queens,Critical,Egyptian,2014-06-07T00:00:00Z,12,A
+50052334,Staten Island,Critical,Asian,2016-09-27T00:00:00Z,13,A
+41362506,Brooklyn,Critical,Jewish/Kosher,2015-06-24T00:00:00Z,9,A
+40958032,Manhattan,Critical,Sandwiches,2017-10-06T00:00:00Z,6,A
+40903172,Manhattan,Not Critical,American,2015-11-18T00:00:00Z,9,A
+40751226,Manhattan,Critical,Vietnamese/Cambodian/Malaysia,2015-04-09T00:00:00Z,8,A
+41580082,Manhattan,Critical,Italian,2014-08-22T00:00:00Z,13,A
+50016928,Queens,Critical,Hamburgers,2015-12-22T00:00:00Z,12,A
+41674682,Manhattan,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-01-24T00:00:00Z,10,A
+50017902,Queens,Not Critical,Caribbean,2016-04-22T00:00:00Z,13,A
+40704155,Queens,Not Critical,Thai,2016-10-24T00:00:00Z,4,A
+41297316,Manhattan,Not Critical,Mexican,2017-05-26T00:00:00Z,9,A
+40400559,Manhattan,Not Critical,Irish,2016-10-21T00:00:00Z,9,A
+41246521,Brooklyn,Critical,Pizza,2015-10-09T00:00:00Z,10,A
+41039033,Manhattan,Not Critical,Turkish,2015-11-02T00:00:00Z,7,A
+50034776,Manhattan,Not Critical,Indian,2016-11-16T00:00:00Z,13,A
+50063482,Queens,Critical,Delicatessen,2017-06-22T00:00:00Z,12,A
+50044480,Manhattan,Not Critical,American,2017-06-07T00:00:00Z,12,A
+50033981,Brooklyn,Not Critical,Chinese,2016-02-04T00:00:00Z,13,A
+41624458,Queens,Critical,Asian,2015-07-22T00:00:00Z,22,B
+40372196,Bronx,Critical,Hamburgers,2016-05-18T00:00:00Z,9,A
+50012946,Queens,Critical,Chinese,2015-08-19T00:00:00Z,16,B
+50001107,Brooklyn,Critical,Chinese,2015-03-09T00:00:00Z,16,B
+41483220,Brooklyn,Not Critical,Middle Eastern,2014-07-02T00:00:00Z,60,C
+41475175,Queens,Not Critical,Cafe/coffee/Tea,2015-10-05T00:00:00Z,2,A
+41702488,Queens,Critical,Chinese,2016-06-30T00:00:00Z,26,B
+40931258,Manhattan,Not Critical,American,2017-06-12T00:00:00Z,13,A
+41100350,Manhattan,Critical,American,2017-08-14T00:00:00Z,9,A
+41567472,Manhattan,Not Critical,American,2015-05-29T00:00:00Z,2,A
+50007103,Manhattan,Not Critical,Italian,2016-03-02T00:00:00Z,7,A
+50017962,Manhattan,Not Critical,Spanish,2016-11-03T00:00:00Z,4,A
+41379217,Queens,Critical,Vietnamese/Cambodian/Malaysia,2015-09-10T00:00:00Z,12,A
+50008181,Manhattan,Not Critical,Vietnamese/Cambodian/Malaysia,2016-06-17T00:00:00Z,11,A
+40986939,Brooklyn,Not Critical,Japanese,2015-12-07T00:00:00Z,4,A
+40747940,Bronx,Not Critical,American,2013-12-27T00:00:00Z,6,A
+50005544,Manhattan,Critical,Donuts,2017-04-03T00:00:00Z,10,A
+40383033,Brooklyn,Not Critical,American,2015-10-23T00:00:00Z,2,A
+50005881,Manhattan,Critical,American,2015-12-14T00:00:00Z,44,C
+40964100,Queens,Not Critical,Mexican,2015-09-11T00:00:00Z,13,A
+40697593,Brooklyn,Critical,Soul Food,2017-01-19T00:00:00Z,13,A
+40510439,Manhattan,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-02-16T00:00:00Z,13,A
+40510335,Manhattan,Not Critical,American,2017-05-02T00:00:00Z,6,A
+41692734,Brooklyn,Not Critical,Caribbean,2015-11-04T00:00:00Z,15,B
+41384019,Manhattan,Not Critical,American,2015-10-06T00:00:00Z,11,A
+50007046,Manhattan,Not Critical,French,2017-08-03T00:00:00Z,10,A
+41703233,Bronx,Critical,American,2015-08-03T00:00:00Z,8,A
+41388576,Manhattan,Not Critical,Pizza,2016-07-21T00:00:00Z,5,A
+50064165,Bronx,Critical,Pizza,2017-06-05T00:00:00Z,10,A
+40837042,Bronx,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-02-03T00:00:00Z,12,A
+40668380,Manhattan,Not Critical,Steak,2014-12-16T00:00:00Z,12,A
+41482441,Manhattan,Critical,Bakery,2016-08-16T00:00:00Z,13,A
+50055047,Manhattan,Critical,Vegetarian,2017-10-04T00:00:00Z,5,A
+50000233,Manhattan,Not Critical,American,2015-12-23T00:00:00Z,11,A
+41426958,Manhattan,Not Critical,American,2014-11-19T00:00:00Z,2,A
+41494859,Manhattan,Not Critical,Sandwiches,2016-05-27T00:00:00Z,10,A
+41704736,Queens,Not Critical,Sandwiches,2015-03-02T00:00:00Z,3,A
+41067289,Manhattan,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-01-11T00:00:00Z,12,A
+50004139,Staten Island,Critical,Chinese,2016-08-25T00:00:00Z,12,A
+50036218,Manhattan,Not Critical,Sandwiches,2017-09-21T00:00:00Z,12,A
+41587161,Brooklyn,Critical,Chinese,2014-06-21T00:00:00Z,12,A
+50053323,Bronx,Critical,Spanish,2017-02-13T00:00:00Z,12,A
+41406311,Queens,Not Critical,Cafe/coffee/Tea,2017-06-30T00:00:00Z,4,A
+50044989,Brooklyn,Critical,American,2016-10-07T00:00:00Z,12,A
+50013941,Brooklyn,Critical,Bagels/Pretzels,2016-11-01T00:00:00Z,11,A
+41271954,Brooklyn,Critical,Caribbean,2017-08-07T00:00:00Z,10,A
+50000950,Queens,Critical,Thai,2014-11-19T00:00:00Z,12,A
+41186118,Queens,Critical,"Ice Cream, Gelato, Yogurt, Ices",2016-12-12T00:00:00Z,17,B
+50018904,Brooklyn,Not Critical,Tapas,2015-06-12T00:00:00Z,9,A
+50007119,Bronx,Not Critical,Delicatessen,2017-02-01T00:00:00Z,11,A
+40547434,Staten Island,Critical,Mexican,2015-01-22T00:00:00Z,12,A
+50000224,Bronx,Critical,Chinese,2014-02-06T00:00:00Z,12,A
+41657476,Brooklyn,Not Critical,Chinese,2015-06-24T00:00:00Z,11,A
+41587706,Brooklyn,Critical,American,2014-11-20T00:00:00Z,7,A
+41655252,Bronx,Not Critical,Chinese,2014-09-11T00:00:00Z,11,A
+41574705,Bronx,Not Critical,Hamburgers,2016-05-19T00:00:00Z,10,A
+50015840,Manhattan,Not Critical,Chinese,2016-03-24T00:00:00Z,10,A
+50018388,Queens,Critical,Pizza,2015-02-12T00:00:00Z,12,A
+41010148,Queens,Critical,Pizza/Italian,2016-07-07T00:00:00Z,10,A
+41208011,Queens,Not Critical,Donuts,2015-01-07T00:00:00Z,4,A
+41171181,Manhattan,Not Critical,American,2014-11-24T00:00:00Z,22,B
+41522848,Manhattan,Not Critical,Soul Food,2015-09-14T00:00:00Z,10,A
+41251791,Manhattan,Critical,Pizza,2015-05-19T00:00:00Z,8,A
+41592302,Brooklyn,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-04-22T00:00:00Z,12,A
+41224938,Brooklyn,Critical,Delicatessen,2015-11-25T00:00:00Z,12,A
+50013333,Bronx,Not Critical,Bakery,2016-05-04T00:00:00Z,7,A
+40757425,Queens,Not Critical,Jewish/Kosher,2015-01-28T00:00:00Z,12,A
+41514395,Manhattan,Not Critical,Bakery,2015-12-14T00:00:00Z,12,A
+50002789,Brooklyn,Not Critical,Chinese,2017-01-17T00:00:00Z,12,A
+50002381,Brooklyn,Not Critical,Japanese,2016-11-16T00:00:00Z,20,B
+41024941,Brooklyn,Not Critical,American,2014-09-15T00:00:00Z,10,A
+50002038,Brooklyn,Critical,Bangladeshi,2017-10-05T00:00:00Z,10,A
+50053730,Queens,Critical,Cafe/coffee/Tea,2016-12-07T00:00:00Z,14,B
+41168644,Brooklyn,Not Critical,Cafe/coffee/Tea,2014-09-17T00:00:00Z,10,A
+41240850,Brooklyn,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-05-30T00:00:00Z,12,A
+41568107,Manhattan,Critical,Italian,2016-02-16T00:00:00Z,12,A
+41435352,Queens,Not Critical,Peruvian,2016-04-13T00:00:00Z,11,A
+41716268,Bronx,Critical,Chicken,2016-02-04T00:00:00Z,11,A
+41202176,Manhattan,Not Critical,American,2016-11-07T00:00:00Z,7,A
+41528086,Manhattan,Not Critical,Japanese,2017-04-14T00:00:00Z,10,A
+40610139,Queens,Not Critical,American,2014-05-30T00:00:00Z,12,A
+50013366,Brooklyn,Critical,Delicatessen,2015-03-11T00:00:00Z,13,A
+50002740,Manhattan,Critical,Korean,2014-08-25T00:00:00Z,18,B
+40395872,Manhattan,Critical,Spanish,2014-03-17T00:00:00Z,10,A
+41302926,Brooklyn,Not Critical,American,2016-01-30T00:00:00Z,2,A
+41715445,Manhattan,Not Critical,Mexican,2014-07-03T00:00:00Z,13,A
+41707126,Queens,Not Critical,Korean,2017-01-18T00:00:00Z,12,A
+41696756,Manhattan,Critical,American,2016-05-06T00:00:00Z,10,A
+50040568,Bronx,Critical,Chicken,2015-09-22T00:00:00Z,9,A
+50032977,Queens,Critical,Asian,2015-12-09T00:00:00Z,11,A
+41163019,Brooklyn,Not Critical,American,2016-11-03T00:00:00Z,13,A
+50004680,Brooklyn,Not Critical,American,2017-01-06T00:00:00Z,18,B
+41453983,Manhattan,Not Critical,Mexican,2016-01-05T00:00:00Z,13,A
+41241730,Manhattan,Critical,Indian,2015-01-23T00:00:00Z,7,A
+50000915,Queens,Critical,Tex-Mex,2016-04-21T00:00:00Z,7,A
+50066323,Bronx,Critical,Chinese,2017-08-28T00:00:00Z,21,B
+41692007,Queens,Not Critical,American,2016-02-18T00:00:00Z,12,A
+50050262,Manhattan,Not Critical,Pizza,2017-09-26T00:00:00Z,4,A
+41444879,Manhattan,Critical,Chinese,2016-01-20T00:00:00Z,21,B
+50045869,Manhattan,Not Critical,American,2016-03-28T00:00:00Z,11,A
+41509061,Manhattan,Not Critical,American,2016-08-15T00:00:00Z,11,A
+40395055,Manhattan,Not Critical,Italian,2016-01-04T00:00:00Z,4,A
+41337363,Bronx,Critical,Bakery,2014-12-19T00:00:00Z,12,A
+40923811,Manhattan,Not Critical,American,2016-01-19T00:00:00Z,12,A
+41540355,Bronx,Critical,Pizza,2015-06-17T00:00:00Z,12,A
+41273144,Manhattan,Not Critical,Cafe/coffee/Tea,2016-08-04T00:00:00Z,12,A
+50045391,Brooklyn,Not Critical,Cafe/coffee/Tea,2016-12-01T00:00:00Z,11,A
+41681860,Queens,Critical,Irish,2014-10-01T00:00:00Z,11,A
+40384671,Manhattan,Not Critical,French,2014-12-17T00:00:00Z,12,A
+41620893,Bronx,Not Critical,Pizza,2017-09-29T00:00:00Z,9,A
+41449587,Manhattan,Critical,American,2015-06-24T00:00:00Z,13,A
+41030858,Manhattan,Not Critical,Pizza,2015-10-15T00:00:00Z,25,B
+40364518,Manhattan,Not Critical,American,2017-10-16T00:00:00Z,13,A
+41382650,Queens,Critical,Chinese,2016-08-23T00:00:00Z,23,B
+40539022,Manhattan,Not Critical,Sandwiches,2015-05-11T00:00:00Z,4,A
+41692734,Brooklyn,Not Critical,Caribbean,2015-05-26T00:00:00Z,13,A
+50043110,Manhattan,Not Critical,Thai,2016-03-09T00:00:00Z,11,A
+41460563,Brooklyn,Critical,Caribbean,2017-04-28T00:00:00Z,12,A
+50008252,Queens,Critical,Pizza/Italian,2016-05-03T00:00:00Z,13,A
+41599283,Queens,Critical,Chinese,2016-01-20T00:00:00Z,11,A
+41519681,Queens,Not Critical,Cafe/coffee/Tea,2015-03-02T00:00:00Z,8,A
+41692125,Manhattan,Critical,American,2014-12-15T00:00:00Z,12,A
+41472922,Manhattan,Critical,Brazilian,2014-06-02T00:00:00Z,10,A
+50003153,Brooklyn,Critical,American,2017-06-27T00:00:00Z,10,A
+41588814,Brooklyn,Not Critical,Bakery,2016-05-24T00:00:00Z,7,A
+41247143,Brooklyn,Not Critical,Pizza,2016-11-17T00:00:00Z,2,A
+50015399,Manhattan,Not Critical,Thai,2016-08-22T00:00:00Z,13,A
+50037722,Queens,Not Critical,Japanese,2016-02-29T00:00:00Z,13,A
+40965177,Queens,Critical,Bakery,2015-04-23T00:00:00Z,24,B
+41036247,Staten Island,Critical,Donuts,2015-01-30T00:00:00Z,12,A
+40942438,Manhattan,Not Critical,American,2016-05-12T00:00:00Z,7,A
+41207580,Queens,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-06-18T00:00:00Z,14,B
+41343370,Brooklyn,Not Critical,Mexican,2014-12-04T00:00:00Z,10,A
+50003019,Brooklyn,Critical,Soul Food,2015-03-07T00:00:00Z,12,A
+50010952,Brooklyn,Critical,Pizza,2016-02-25T00:00:00Z,12,A
+50035391,Queens,Not Critical,"Juice, Smoothies, Fruit Salads",2015-08-05T00:00:00Z,7,A
+40894025,Queens,Not Critical,Chinese,2015-03-02T00:00:00Z,6,A
+50004991,Brooklyn,Critical,Cafe/coffee/Tea,2014-11-12T00:00:00Z,13,A
+41107780,Queens,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-07-28T00:00:00Z,13,A
+41265582,Queens,Critical,Chinese,2016-03-29T00:00:00Z,5,A
+41339471,Manhattan,Not Critical,American,2017-06-28T00:00:00Z,12,A
+50006379,Staten Island,Not Critical,American,2016-06-16T00:00:00Z,11,A
+50033235,Brooklyn,Not Critical,Spanish,2015-04-01T00:00:00Z,18,B
+41637468,Manhattan,Critical,American,2016-12-22T00:00:00Z,12,A
+40609248,Manhattan,Not Critical,"Juice, Smoothies, Fruit Salads",2017-04-24T00:00:00Z,6,A
+40819820,Manhattan,Not Critical,Irish,2014-04-16T00:00:00Z,11,A
+41707875,Manhattan,Critical,Chinese,2015-02-12T00:00:00Z,13,A
+50049451,Queens,Critical,Chicken,2017-06-19T00:00:00Z,12,A
+41408277,Manhattan,Critical,Japanese,2015-08-18T00:00:00Z,16,B
+50001842,Manhattan,Critical,Asian,2017-01-10T00:00:00Z,31,C
+50005723,Manhattan,Critical,Italian,2017-04-05T00:00:00Z,18,B
+40550801,Bronx,Not Critical,"Ice Cream, Gelato, Yogurt, Ices",2015-05-20T00:00:00Z,12,A
+41350661,Bronx,Critical,Pizza/Italian,2014-12-08T00:00:00Z,12,A
+40701605,Queens,Not Critical,Greek,2014-06-19T00:00:00Z,9,A
+41154580,Queens,Not Critical,Thai,2015-10-06T00:00:00Z,17,B
+40424337,Manhattan,Critical,Bagels/Pretzels,2015-12-11T00:00:00Z,21,B
+41628667,Manhattan,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2014-11-05T00:00:00Z,7,A
+40908374,Queens,Critical,Chinese,2014-12-09T00:00:00Z,19,B
+41149249,Manhattan,Critical,American,2016-04-08T00:00:00Z,8,A
+50063627,Manhattan,Not Critical,"Juice, Smoothies, Fruit Salads",2017-07-03T00:00:00Z,10,A
+41085883,Manhattan,Not Critical,Bakery,2014-12-05T00:00:00Z,7,A
+41474967,Brooklyn,Not Critical,Mexican,2016-04-06T00:00:00Z,7,A
+40729164,Manhattan,Not Critical,American,2016-12-27T00:00:00Z,9,A
+41033693,Manhattan,Not Critical,"Bottled beverages, including water, sodas, juices, etc.",2015-10-29T00:00:00Z,10,A
+40368752,Manhattan,Not Critical,French,2013-08-13T00:00:00Z,3,A
+41561100,Manhattan,Not Critical,Spanish,2015-06-05T00:00:00Z,12,A
+50034838,Queens,Not Critical,Japanese,2015-05-14T00:00:00Z,4,A
+41591603,Brooklyn,Critical,Spanish,2017-08-10T00:00:00Z,56,C
+41350661,Bronx,Not Critical,Pizza/Italian,2014-12-08T00:00:00Z,12,A
+41085466,Manhattan,Not Critical,American,2014-12-18T00:00:00Z,22,B
+50045623,Brooklyn,Critical,Chinese,2016-12-06T00:00:00Z,12,A
+41519256,Queens,Not Critical,Jewish/Kosher,2017-03-29T00:00:00Z,13,A
+50053719,Manhattan,Not Critical,Chinese,2017-01-10T00:00:00Z,9,A
+50046893,Manhattan,Critical,Japanese,2016-07-05T00:00:00Z,10,A
+41702724,Brooklyn,Not Critical,French,2015-05-27T00:00:00Z,33,C
+41311904,Manhattan,Critical,Delicatessen,2016-04-18T00:00:00Z,16,B
+40609326,Manhattan,Not Critical,Soups & Sandwiches,2015-02-23T00:00:00Z,11,A
+41438394,Queens,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-10-13T00:00:00Z,12,A
+50017902,Queens,Not Critical,Caribbean,2016-10-27T00:00:00Z,8,A
+50001003,Brooklyn,Critical,Pizza/Italian,2016-10-20T00:00:00Z,11,A
+40918241,Brooklyn,Not Critical,American,2015-10-13T00:00:00Z,8,A
+41254605,Brooklyn,Critical,American,2016-05-31T00:00:00Z,8,A
+50000589,Bronx,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2014-02-10T00:00:00Z,11,A
+50001620,Brooklyn,Critical,Chinese,2015-03-26T00:00:00Z,12,A
+41628145,Brooklyn,Not Critical,Seafood,2016-02-19T00:00:00Z,13,A
+50057979,Queens,Critical,Bakery,2017-01-20T00:00:00Z,11,A
+41679879,Manhattan,Not Critical,American,2016-09-28T00:00:00Z,2,A
+40742158,Brooklyn,Critical,Pizza/Italian,2014-12-31T00:00:00Z,23,B
+50035029,Bronx,Critical,Mexican,2016-06-08T00:00:00Z,12,A
+50019058,Brooklyn,Critical,Asian,2016-08-01T00:00:00Z,10,A
+40604400,Manhattan,Critical,Pizza/Italian,2014-07-01T00:00:00Z,9,A
+50000255,Manhattan,Critical,Chinese,2015-02-25T00:00:00Z,15,B
+50001494,Manhattan,Critical,Donuts,2017-02-24T00:00:00Z,13,A
+50009759,Manhattan,Not Critical,Chicken,2017-05-09T00:00:00Z,12,A
+50066314,Queens,Not Critical,Bakery,2017-09-07T00:00:00Z,10,A
+50033770,Queens,Critical,Chinese/Japanese,2016-01-27T00:00:00Z,19,B
+41572590,Brooklyn,Critical,American,2017-08-23T00:00:00Z,10,A
+50053703,Bronx,Critical,Spanish,2017-08-14T00:00:00Z,24,B
+41722059,Queens,Critical,American,2016-04-29T00:00:00Z,5,A
+50054754,Queens,Critical,American,2016-08-30T00:00:00Z,12,A
+41660557,Brooklyn,Critical,Cafe/coffee/Tea,2016-06-20T00:00:00Z,10,A
+40680764,Bronx,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-04-13T00:00:00Z,27,B
+50004343,Queens,Critical,Chicken,2017-09-26T00:00:00Z,11,A
+40401834,Manhattan,Critical,American,2015-04-15T00:00:00Z,20,B
+50015048,Queens,Critical,American,2016-03-07T00:00:00Z,17,B
+41701897,Queens,Not Critical,Continental,2016-06-18T00:00:00Z,12,A
+50005405,Manhattan,Critical,American,2014-12-29T00:00:00Z,10,A
+50000462,Bronx,Not Critical,Bakery,2015-11-16T00:00:00Z,4,A
+41305361,Queens,Critical,Thai,2016-02-29T00:00:00Z,5,A
+41635743,Queens,Not Critical,American,2014-08-12T00:00:00Z,6,A
+40365841,Queens,Critical,Italian,2014-07-17T00:00:00Z,13,A
+50003580,Manhattan,Critical,Chinese,2016-11-14T00:00:00Z,26,B
+50016583,Brooklyn,Critical,Vegetarian,2016-06-23T00:00:00Z,31,C
+40385974,Staten Island,Not Critical,American,2017-01-19T00:00:00Z,13,A
+41215408,Queens,Not Critical,Pizza,2015-12-04T00:00:00Z,12,A
+41710646,Brooklyn,Not Critical,American,2014-03-05T00:00:00Z,4,A
+40977606,Queens,Critical,American,2017-08-29T00:00:00Z,10,A
+41328457,Manhattan,Not Critical,Bakery,2015-07-14T00:00:00Z,9,A
+40423571,Bronx,Critical,Italian,2016-06-03T00:00:00Z,5,A
+40951884,Manhattan,Critical,American,2015-08-26T00:00:00Z,12,A
+40928698,Manhattan,Critical,Greek,2015-06-12T00:00:00Z,11,A
+40972759,Brooklyn,Critical,Caribbean,2014-09-15T00:00:00Z,13,A
+40672603,Manhattan,Not Critical,Irish,2016-01-28T00:00:00Z,10,A
+41374276,Brooklyn,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-03-12T00:00:00Z,9,A
+50015892,Queens,Critical,American,2014-12-27T00:00:00Z,5,A
+41259230,Manhattan,Not Critical,Pakistani,2014-06-17T00:00:00Z,11,A
+41171296,Manhattan,Critical,Thai,2015-10-05T00:00:00Z,13,A
+41540996,Manhattan,Not Critical,Mediterranean,2014-07-05T00:00:00Z,13,A
+50042777,Bronx,Not Critical,African,2017-02-16T00:00:00Z,25,B
+41603610,Brooklyn,Not Critical,American,2015-04-10T00:00:00Z,13,A
+50004812,Bronx,Critical,Chinese,2014-09-08T00:00:00Z,7,A
+50000203,Queens,Critical,Spanish,2015-10-24T00:00:00Z,20,B
+41326189,Manhattan,Critical,American,2015-04-07T00:00:00Z,12,A
+41640776,Brooklyn,Critical,Spanish,2015-01-21T00:00:00Z,7,A
+41700337,Queens,Not Critical,Pakistani,2017-04-17T00:00:00Z,10,A
+41431607,Brooklyn,Critical,Middle Eastern,2015-07-10T00:00:00Z,13,A
+40577841,Brooklyn,Not Critical,Chicken,2016-04-12T00:00:00Z,23,B
+41502782,Brooklyn,Critical,Mexican,2017-09-27T00:00:00Z,11,A
+41665625,Manhattan,Critical,American,2015-06-04T00:00:00Z,9,A
+41711029,Staten Island,Critical,Pizza,2016-02-01T00:00:00Z,36,C
+41077507,Bronx,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-06-21T00:00:00Z,20,B
+40676502,Brooklyn,Critical,American,2015-06-10T00:00:00Z,12,A
+40736836,Manhattan,Critical,American,2015-10-01T00:00:00Z,13,A
+50009070,Queens,Critical,Bakery,2017-04-06T00:00:00Z,10,A
+50017184,Manhattan,Critical,Delicatessen,2016-08-25T00:00:00Z,11,A
+50017821,Bronx,Not Critical,Chinese,2015-07-01T00:00:00Z,12,A
+50005874,Brooklyn,Not Critical,Chicken,2017-03-30T00:00:00Z,9,A
+50042223,Queens,Critical,Cafe/coffee/Tea,2017-02-13T00:00:00Z,9,A
+50000546,Queens,Not Critical,Jewish/Kosher,2017-04-25T00:00:00Z,12,A
+41109700,Queens,Not Critical,Donuts,2015-10-01T00:00:00Z,8,A
+50004709,Brooklyn,Not Critical,American,2014-07-17T00:00:00Z,4,A
+41671229,Manhattan,Critical,American,2015-04-07T00:00:00Z,12,A
+41379821,Bronx,Critical,Hamburgers,2017-05-30T00:00:00Z,9,A
+40730585,Manhattan,Not Critical,French,2015-04-01T00:00:00Z,11,A
+50016118,Queens,Not Critical,Pizza,2016-04-23T00:00:00Z,12,A
+41682994,Manhattan,Critical,Chinese,2014-10-14T00:00:00Z,21,B
+40653502,Manhattan,Critical,American,2016-07-19T00:00:00Z,10,A
+41443150,Staten Island,Not Critical,Pizza/Italian,2013-12-03T00:00:00Z,9,A
+40560302,Manhattan,Not Critical,Italian,2017-05-09T00:00:00Z,10,A
+41601438,Manhattan,Critical,American,2015-09-18T00:00:00Z,10,A
+40546098,Manhattan,Critical,Brazilian,2016-02-24T00:00:00Z,12,A
+40639672,Bronx,Not Critical,Pizza,2015-10-21T00:00:00Z,17,B
+41440130,Brooklyn,Not Critical,Pizza,2015-05-05T00:00:00Z,11,A
+41637125,Manhattan,Critical,American,2015-07-14T00:00:00Z,12,A
+50000029,Brooklyn,Not Critical,Pizza/Italian,2016-06-17T00:00:00Z,11,A
+40399279,Manhattan,Critical,Italian,2015-10-19T00:00:00Z,12,A
+41216519,Manhattan,Not Critical,Bakery,2016-03-18T00:00:00Z,13,A
+50003474,Manhattan,Not Critical,Japanese,2015-03-13T00:00:00Z,17,B
+41286149,Manhattan,Not Critical,American,2015-05-18T00:00:00Z,9,A
+40705438,Bronx,Critical,Italian,2015-03-30T00:00:00Z,10,A
+50000259,Manhattan,Not Critical,Italian,2016-09-14T00:00:00Z,11,A
+41443460,Staten Island,Not Critical,Italian,2017-05-04T00:00:00Z,9,A
+40697593,Brooklyn,Critical,Soul Food,2016-06-16T00:00:00Z,11,A
+41416726,Queens,Critical,American,2015-12-03T00:00:00Z,9,A
+50041309,Brooklyn,Not Critical,Japanese,2015-11-09T00:00:00Z,11,A
+50014682,Queens,Critical,Steak,2017-05-24T00:00:00Z,10,A
+41677480,Manhattan,Critical,Indian,2015-06-08T00:00:00Z,13,A
+41707090,Manhattan,Not Critical,American,2014-07-30T00:00:00Z,10,A
+50035092,Bronx,Not Critical,Mexican,2015-05-11T00:00:00Z,9,A
+50056923,Queens,Critical,Spanish,2016-12-13T00:00:00Z,11,A
+50003055,Manhattan,Not Critical,Filipino,2016-07-13T00:00:00Z,22,B
+41608779,Manhattan,Critical,Cafe/coffee/Tea,2016-02-26T00:00:00Z,10,A
+41311297,Manhattan,Not Critical,Seafood,2016-06-06T00:00:00Z,5,A
+50016741,Brooklyn,Critical,Indian,2016-12-20T00:00:00Z,11,A
+41089834,Manhattan,Not Critical,American,2016-02-03T00:00:00Z,12,A
+41361564,Queens,Not Critical,Chinese,2016-11-15T00:00:00Z,13,A
+50039685,Queens,Critical,Caribbean,2017-04-26T00:00:00Z,12,A
+41693835,Bronx,Critical,Chicken,2015-10-13T00:00:00Z,12,A
+41098752,Brooklyn,Not Critical,Polish,2015-05-21T00:00:00Z,9,A
+41695136,Manhattan,Not Critical,American,2015-06-05T00:00:00Z,9,A
+50003503,Queens,Critical,American,2017-10-03T00:00:00Z,7,A
+41308759,Queens,Critical,Chinese,2015-12-30T00:00:00Z,26,B
+50050579,Brooklyn,Critical,Indian,2017-07-13T00:00:00Z,18,B
+50009773,Brooklyn,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-05-26T00:00:00Z,30,C
+50013618,Bronx,Critical,Pizza/Italian,2016-12-05T00:00:00Z,20,B
+41301641,Brooklyn,Critical,American,2015-03-13T00:00:00Z,16,B
+50016586,Manhattan,Not Critical,Mexican,2015-02-23T00:00:00Z,8,A
+50002814,Queens,Critical,Mediterranean,2016-03-23T00:00:00Z,8,A
+41688043,Manhattan,Critical,Italian,2015-01-23T00:00:00Z,11,A
+50041424,Bronx,Critical,Tex-Mex,2016-09-07T00:00:00Z,11,A
+50017552,Brooklyn,Critical,Cafe/coffee/Tea,2015-01-06T00:00:00Z,12,A
+40879743,Manhattan,Critical,Caribbean,2015-12-07T00:00:00Z,10,A
+41676211,Brooklyn,Not Critical,Turkish,2014-12-30T00:00:00Z,4,A
+41412063,Brooklyn,Critical,American,2017-09-06T00:00:00Z,12,A
+41102997,Manhattan,Critical,American,2016-05-18T00:00:00Z,9,A
+50015754,Brooklyn,Not Critical,American,2015-11-18T00:00:00Z,5,A
+41485121,Queens,Not Critical,Czech,2015-03-25T00:00:00Z,11,A
+50038023,Bronx,Critical,Mediterranean,2017-02-23T00:00:00Z,13,A
+41709840,Manhattan,Not Critical,American,2015-08-26T00:00:00Z,9,A
+41320212,Bronx,Critical,Pizza,2016-10-05T00:00:00Z,10,A
+41578404,Bronx,Not Critical,Chicken,2015-12-30T00:00:00Z,9,A
+50007655,Brooklyn,Critical,Sandwiches/Salads/Mixed Buffet,2015-03-18T00:00:00Z,8,A
+41637689,Queens,Not Critical,Hamburgers,2015-05-01T00:00:00Z,9,A
+50007736,Brooklyn,Not Critical,Eastern European,2015-01-28T00:00:00Z,10,A
+40561162,Manhattan,Critical,Italian,2015-08-10T00:00:00Z,63,C
+41127492,Bronx,Not Critical,Cafe/coffee/Tea,2017-07-17T00:00:00Z,7,A
+41614707,Manhattan,Not Critical,American,2015-04-02T00:00:00Z,51,C
+40366379,Manhattan,Critical,Irish,2015-09-10T00:00:00Z,7,A
+41671459,Brooklyn,Critical,Japanese,2014-05-21T00:00:00Z,7,A
+40382802,Manhattan,Critical,Irish,2017-05-30T00:00:00Z,12,A
+50063092,Manhattan,Not Critical,American,2017-09-25T00:00:00Z,7,A
+41577762,Queens,Critical,Indian,2014-10-08T00:00:00Z,10,A
+50013726,Staten Island,Not Critical,Pizza/Italian,2014-11-15T00:00:00Z,13,A
+41678772,Queens,Critical,Sandwiches,2016-07-13T00:00:00Z,12,A
+41713865,Brooklyn,Critical,Caribbean,2015-10-21T00:00:00Z,9,A
+41362531,Queens,Critical,American,2015-07-28T00:00:00Z,5,A
+40999540,Queens,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-02-28T00:00:00Z,12,A
+41328863,Queens,Not Critical,Polish,2015-12-15T00:00:00Z,10,A
+50032988,Manhattan,Not Critical,Mexican,2017-07-10T00:00:00Z,12,A
+50032688,Brooklyn,Critical,Middle Eastern,2016-11-21T00:00:00Z,9,A
+50005580,Queens,Critical,American,2016-02-23T00:00:00Z,7,A
+41534897,Manhattan,Critical,American,2014-09-02T00:00:00Z,13,A
+41626037,Manhattan,Not Critical,Tapas,2016-03-25T00:00:00Z,7,A
+41632521,Brooklyn,Critical,Italian,2016-04-20T00:00:00Z,13,A
+50051769,Queens,Critical,Chinese,2016-08-31T00:00:00Z,8,A
+50036241,Manhattan,Not Critical,Spanish,2017-10-03T00:00:00Z,12,A
+41197896,Manhattan,Not Critical,Italian,2015-09-17T00:00:00Z,19,B
+40391383,Queens,Critical,French,2016-06-07T00:00:00Z,12,A
+41664920,Brooklyn,Critical,Chinese,2016-09-20T00:00:00Z,22,B
+50056900,Brooklyn,Critical,American,2016-11-21T00:00:00Z,9,A
+41596018,Queens,Critical,Korean,2014-06-05T00:00:00Z,19,B
+40424400,Manhattan,Not Critical,Bakery,2015-05-14T00:00:00Z,12,A
+50044523,Bronx,Not Critical,American,2017-03-17T00:00:00Z,4,A
+41651087,Queens,Not Critical,Pizza,2015-05-06T00:00:00Z,13,A
+41640950,Manhattan,Critical,Mexican,2016-07-12T00:00:00Z,9,A
+50001494,Manhattan,Critical,Donuts,2016-02-05T00:00:00Z,7,A
+41311641,Queens,Critical,American,2017-07-03T00:00:00Z,9,A
+50000310,Queens,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-06-14T00:00:00Z,12,A
+41050020,Brooklyn,Critical,American,2016-10-25T00:00:00Z,26,B
+41244008,Manhattan,Not Critical,American,2015-11-05T00:00:00Z,11,A
+41704459,Manhattan,Not Critical,Donuts,2015-02-02T00:00:00Z,2,A
+50043746,Manhattan,Critical,American,2016-12-08T00:00:00Z,13,A
+50008585,Queens,Critical,Vietnamese/Cambodian/Malaysia,2014-10-22T00:00:00Z,12,A
+50039758,Brooklyn,Not Critical,Donuts,2017-06-06T00:00:00Z,3,A
+40388419,Manhattan,Critical,Pizza,2014-08-20T00:00:00Z,25,B
+40997119,Manhattan,Not Critical,American,2015-09-11T00:00:00Z,4,A
+41221138,Manhattan,Critical,American,2016-05-19T00:00:00Z,10,A
+41264944,Manhattan,Not Critical,Italian,2016-09-22T00:00:00Z,8,A
+50048590,Manhattan,Not Critical,American,2016-07-26T00:00:00Z,7,A
+40686822,Brooklyn,Not Critical,Caribbean,2015-11-02T00:00:00Z,20,B
+41722813,Manhattan,Not Critical,Mexican,2014-11-20T00:00:00Z,11,A
+40363920,Brooklyn,Not Critical,Chinese,2015-04-21T00:00:00Z,3,A
+50063528,Brooklyn,Critical,German,2017-09-26T00:00:00Z,13,A
+41322801,Queens,Not Critical,American,2015-05-21T00:00:00Z,21,B
+50001835,Manhattan,Critical,American,2016-03-22T00:00:00Z,13,A
+40391284,Manhattan,Critical,American,2017-02-01T00:00:00Z,10,A
+41577696,Brooklyn,Critical,American,2014-07-29T00:00:00Z,10,A
+41644201,Manhattan,Critical,Bakery,2015-11-19T00:00:00Z,12,A
+50064279,Brooklyn,Not Critical,Mediterranean,2017-09-27T00:00:00Z,8,A
+41519679,Bronx,Not Critical,Jewish/Kosher,2015-09-03T00:00:00Z,9,A
+41664706,Queens,Not Critical,Pizza,2016-11-17T00:00:00Z,13,A
+41214960,Brooklyn,Not Critical,American,2016-06-15T00:00:00Z,19,B
+41099430,Queens,Critical,Italian,2016-03-30T00:00:00Z,13,A
+50007382,Brooklyn,Not Critical,Eastern European,2015-02-02T00:00:00Z,9,A
+50038628,Brooklyn,Not Critical,Caribbean,2015-10-14T00:00:00Z,13,A
+50019025,Queens,Not Critical,Caribbean,2016-02-05T00:00:00Z,10,A
+41357129,Brooklyn,Critical,American,2015-03-05T00:00:00Z,10,A
+41472089,Queens,Critical,Tex-Mex,2016-06-11T00:00:00Z,8,A
+41688677,Queens,Critical,Korean,2015-09-18T00:00:00Z,12,A
+40530791,Manhattan,Critical,American,2015-07-06T00:00:00Z,23,B
+50055312,Queens,Critical,Asian,2017-02-07T00:00:00Z,12,A
+41453420,Queens,Not Critical,American,2015-06-19T00:00:00Z,25,B
+41130552,Brooklyn,Not Critical,Mediterranean,2014-05-29T00:00:00Z,5,A
+41350893,Queens,Not Critical,Chicken,2015-02-12T00:00:00Z,10,A
+40401454,Queens,Not Critical,American,2017-08-29T00:00:00Z,10,A
+41270442,Brooklyn,Not Critical,Tex-Mex,2017-07-25T00:00:00Z,2,A
+50049335,Brooklyn,Critical,Chinese,2016-06-02T00:00:00Z,8,A
+41486522,Manhattan,Critical,American,2015-03-06T00:00:00Z,18,B
+41395978,Queens,Critical,Middle Eastern,2015-04-02T00:00:00Z,12,A
+41640950,Manhattan,Not Critical,Mexican,2014-07-16T00:00:00Z,11,A
+41304636,Manhattan,Not Critical,Irish,2014-10-14T00:00:00Z,11,A
+41340437,Brooklyn,Critical,Eastern European,2015-01-29T00:00:00Z,10,A
+41264019,Manhattan,Not Critical,Spanish,2015-02-27T00:00:00Z,13,A
+41693205,Queens,Not Critical,American,2016-06-17T00:00:00Z,10,A
+50040389,Queens,Not Critical,Peruvian,2015-10-06T00:00:00Z,9,A
+41599169,Brooklyn,Not Critical,Pizza/Italian,2016-01-11T00:00:00Z,13,A
+50033283,Queens,Critical,Italian,2017-02-21T00:00:00Z,7,A
+41439621,Manhattan,Critical,American,2016-04-27T00:00:00Z,7,A
+40736383,Queens,Not Critical,Hamburgers,2014-12-29T00:00:00Z,6,A
+50016003,Brooklyn,Not Critical,Armenian,2017-08-30T00:00:00Z,9,A
+41676306,Manhattan,Critical,Mexican,2016-12-12T00:00:00Z,12,A
+41674682,Manhattan,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-01-24T00:00:00Z,10,A
+41487057,Queens,Not Critical,Hamburgers,2016-01-12T00:00:00Z,8,A
+50069204,Manhattan,Critical,Thai,2017-10-05T00:00:00Z,13,A
+41554295,Queens,Not Critical,Chinese,2014-08-21T00:00:00Z,4,A
+41500477,Brooklyn,Critical,Vegetarian,2014-12-09T00:00:00Z,7,A
+40373889,Manhattan,Critical,Italian,2016-06-15T00:00:00Z,8,A
+41702919,Queens,Not Critical,Japanese,2017-09-27T00:00:00Z,7,A
+50036199,Manhattan,Not Critical,American,2017-08-16T00:00:00Z,13,A
+41037850,Queens,Not Critical,Peruvian,2014-05-28T00:00:00Z,12,A
+41303553,Brooklyn,Not Critical,Caribbean,2016-07-28T00:00:00Z,13,A
+41636635,Queens,Not Critical,"Juice, Smoothies, Fruit Salads",2014-06-13T00:00:00Z,7,A
+50003072,Queens,Not Critical,Armenian,2015-11-05T00:00:00Z,11,A
+41695960,Brooklyn,Not Critical,Chinese,2016-04-12T00:00:00Z,9,A
+40750275,Manhattan,Critical,American,2015-04-18T00:00:00Z,8,A
+50001240,Brooklyn,Not Critical,Barbecue,2015-05-13T00:00:00Z,12,A
+50009600,Queens,Critical,Chinese,2016-10-26T00:00:00Z,12,A
+50002562,Queens,Not Critical,Spanish,2014-11-21T00:00:00Z,9,A
+41196536,Brooklyn,Not Critical,Cafe/coffee/Tea,2015-11-27T00:00:00Z,2,A
+50037728,Brooklyn,Not Critical,Chinese,2016-05-25T00:00:00Z,10,A
+41531279,Queens,Not Critical,Irish,2016-06-09T00:00:00Z,7,A
+41288500,Manhattan,Critical,Italian,2016-09-21T00:00:00Z,7,A
+41710589,Manhattan,Critical,Pizza,2016-11-03T00:00:00Z,8,A
+41297316,Manhattan,Not Critical,Mexican,2015-12-09T00:00:00Z,12,A
+40747050,Queens,Not Critical,Pizza,2017-03-13T00:00:00Z,10,A
+40929938,Queens,Critical,American,2016-12-20T00:00:00Z,10,A
+41645443,Staten Island,Not Critical,Spanish,2015-08-04T00:00:00Z,4,A
+41636259,Brooklyn,Critical,Chinese,2016-06-22T00:00:00Z,13,A
+50000248,Queens,Not Critical,American,2015-03-24T00:00:00Z,7,A
+41690815,Queens,Critical,Asian,2015-04-11T00:00:00Z,12,B
+50013468,Brooklyn,Not Critical,Caribbean,2014-10-27T00:00:00Z,12,A
+41493340,Bronx,Not Critical,Japanese,2014-12-09T00:00:00Z,8,A
+41711725,Queens,Not Critical,Pizza/Italian,2016-03-22T00:00:00Z,3,A
+50009628,Queens,Critical,Caribbean,2017-06-22T00:00:00Z,8,A
+50046725,Manhattan,Not Critical,Pizza,2016-03-30T00:00:00Z,4,A
+41370881,Brooklyn,Not Critical,Chinese,2017-03-09T00:00:00Z,11,A
+40943306,Brooklyn,Critical,Bakery,2015-10-29T00:00:00Z,13,A
+50005828,Brooklyn,Not Critical,Chinese,2016-09-26T00:00:00Z,10,A
+41313271,Queens,Not Critical,Indian,2015-09-02T00:00:00Z,11,A
+41477346,Queens,Not Critical,Caribbean,2015-08-20T00:00:00Z,12,A
+41436019,Brooklyn,Not Critical,Mexican,2016-03-03T00:00:00Z,6,A
+41471136,Staten Island,Critical,Japanese,2014-12-30T00:00:00Z,12,A
+50001886,Brooklyn,Not Critical,Chinese,2015-02-17T00:00:00Z,9,A
+41625323,Queens,Critical,American,2014-04-30T00:00:00Z,9,A
+50013883,Queens,Critical,American,2014-09-09T00:00:00Z,19,B
+41456522,Manhattan,Critical,Bakery,2014-09-16T00:00:00Z,8,A
+41717206,Manhattan,Critical,Italian,2014-12-27T00:00:00Z,13,A
+40736836,Manhattan,Critical,American,2013-12-23T00:00:00Z,10,A
+40925558,Manhattan,Not Critical,Sandwiches,2014-07-21T00:00:00Z,2,A
+50043396,Brooklyn,Not Critical,Chinese,2015-11-05T00:00:00Z,5,A
+41630478,Brooklyn,Critical,Jewish/Kosher,2015-09-25T00:00:00Z,11,A
+50005405,Manhattan,Not Critical,American,2014-12-29T00:00:00Z,10,A
+50008301,Manhattan,Critical,Italian,2016-06-14T00:00:00Z,9,A
+41172734,Manhattan,Not Critical,American,2015-05-19T00:00:00Z,12,A
+40388419,Manhattan,Not Critical,Pizza,2015-07-01T00:00:00Z,7,A
+41067497,Queens,Not Critical,Mexican,2014-11-19T00:00:00Z,11,A
+41076314,Manhattan,Critical,American,2015-04-09T00:00:00Z,26,B
+41156869,Manhattan,Not Critical,Ethiopian,2015-02-17T00:00:00Z,12,A
+41169084,Manhattan,Not Critical,Cafe/coffee/Tea,2015-06-26T00:00:00Z,9,A
+50017697,Brooklyn,Critical,Chinese,2015-01-29T00:00:00Z,9,A
+41158071,Brooklyn,Not Critical,American,2016-08-04T00:00:00Z,13,A
+50016448,Brooklyn,Not Applicable,American,2016-03-07T00:00:00Z,0,A
+50049290,Brooklyn,Critical,Jewish/Kosher,2016-05-17T00:00:00Z,8,A
+50038545,Queens,Critical,Mexican,2017-06-12T00:00:00Z,17,B
+41046514,Staten Island,Not Critical,American,2015-03-04T00:00:00Z,7,A
+41448965,Manhattan,Critical,American,2016-05-19T00:00:00Z,13,A
+50005516,Staten Island,Critical,"Ice Cream, Gelato, Yogurt, Ices",2016-06-28T00:00:00Z,36,C
+41601712,Manhattan,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-05-09T00:00:00Z,12,A
+41353384,Queens,Critical,Pizza,2014-11-19T00:00:00Z,8,A
+41707470,Queens,Critical,Italian,2016-11-16T00:00:00Z,13,A
+41236780,Queens,Not Critical,Caribbean,2016-04-06T00:00:00Z,13,A
+41557136,Brooklyn,Critical,Jewish/Kosher,2016-11-07T00:00:00Z,12,A
+41611521,Brooklyn,Critical,Pizza,2016-11-16T00:00:00Z,27,B
+50006522,Queens,Critical,American,2014-05-14T00:00:00Z,12,A
+41209159,Manhattan,Not Critical,Japanese,2014-12-05T00:00:00Z,11,A
+50040434,Brooklyn,Critical,Bakery,2016-05-24T00:00:00Z,7,A
+41650503,Brooklyn,Critical,American,2014-03-26T00:00:00Z,8,A
+50017245,Queens,Not Critical,Delicatessen,2015-02-11T00:00:00Z,4,A
+41643863,Manhattan,Critical,Spanish,2017-04-11T00:00:00Z,9,A
+41383631,Manhattan,Critical,Donuts,2014-10-14T00:00:00Z,12,A
+41467165,Manhattan,Critical,American,2015-12-22T00:00:00Z,13,A
+41688672,Queens,Not Critical,Chinese,2016-10-26T00:00:00Z,2,A
+41719377,Bronx,Critical,Chinese,2015-01-21T00:00:00Z,7,A
+50003283,Queens,Not Critical,Chinese,2017-05-18T00:00:00Z,10,A
+40991804,Bronx,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-06-03T00:00:00Z,13,A
+40808640,Queens,Critical,Korean,2014-12-10T00:00:00Z,8,A
+40945916,Brooklyn,Not Critical,Bakery,2014-12-10T00:00:00Z,13,A
+50041664,Manhattan,Critical,Indian,2017-03-17T00:00:00Z,9,A
+41534086,Brooklyn,Critical,Pizza/Italian,2016-03-01T00:00:00Z,9,A
+50044131,Brooklyn,Not Critical,Spanish,2017-03-07T00:00:00Z,6,A
+41566073,Manhattan,Not Critical,Donuts,2015-06-29T00:00:00Z,8,A
+40398532,Brooklyn,Not Critical,Jewish/Kosher,2015-06-16T00:00:00Z,15,B
+41623638,Bronx,Critical,Mexican,2016-10-18T00:00:00Z,31,C
+50010316,Manhattan,Not Critical,Chinese,2016-05-02T00:00:00Z,9,A
+41194832,Queens,Not Critical,American,2016-04-21T00:00:00Z,2,A
+41645410,Brooklyn,Critical,Bakery,2016-06-15T00:00:00Z,15,B
+50018025,Manhattan,Not Critical,Sandwiches,2015-01-29T00:00:00Z,9,A
+40570634,Bronx,Critical,American,2016-06-06T00:00:00Z,11,A
+50000782,Manhattan,Critical,Spanish,2014-06-28T00:00:00Z,17,B
+50017985,Brooklyn,Not Critical,American,2017-05-16T00:00:00Z,13,A
+41144476,Brooklyn,Critical,American,2015-09-18T00:00:00Z,21,B
+41569582,Brooklyn,Not Critical,Mexican,2014-07-29T00:00:00Z,12,A
+41142418,Manhattan,Critical,French,2016-11-10T00:00:00Z,9,A
+50000233,Manhattan,Not Critical,American,2015-07-29T00:00:00Z,11,A
+50014906,Manhattan,Critical,Pizza,2017-03-23T00:00:00Z,11,A
+40537290,Brooklyn,Critical,American,2017-07-13T00:00:00Z,12,A
+41370362,Manhattan,Critical,American,2017-03-07T00:00:00Z,7,A
+50012225,Bronx,Not Critical,American,2014-12-08T00:00:00Z,10,A
+40394366,Manhattan,Critical,Chinese,2014-04-17T00:00:00Z,5,A
+40519425,Queens,Not Critical,Bakery,2017-06-26T00:00:00Z,12,A
+50033917,Queens,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-01-19T00:00:00Z,12,A
+50003492,Brooklyn,Critical,Chinese,2016-12-14T00:00:00Z,5,A
+41372259,Bronx,Critical,Italian,2016-07-28T00:00:00Z,12,A
+41265805,Queens,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-04-27T00:00:00Z,13,A
+41424929,Manhattan,Not Critical,Indian,2015-01-20T00:00:00Z,12,A
+41291746,Bronx,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-08-31T00:00:00Z,9,A
+40398410,Manhattan,Not Critical,American,2015-05-05T00:00:00Z,7,A
+50041177,Brooklyn,Not Critical,Cafe/coffee/Tea,2016-01-21T00:00:00Z,6,A
+50045291,Brooklyn,Critical,Pizza,2017-10-12T00:00:00Z,10,A
+40942342,Manhattan,Critical,American,2015-09-15T00:00:00Z,11,A
+41699603,Queens,Not Critical,Spanish,2014-02-28T00:00:00Z,13,A
+41319405,Queens,Critical,Pizza,2016-11-07T00:00:00Z,13,A
+41615445,Manhattan,Critical,Bakery,2015-08-17T00:00:00Z,9,A
+50057252,Queens,Critical,Chinese,2017-01-26T00:00:00Z,12,A
+40395020,Queens,Not Critical,American,2015-01-24T00:00:00Z,9,A
+50040127,Queens,Not Critical,Chinese,2016-06-22T00:00:00Z,12,A
+41128070,Manhattan,Not Critical,Australian,2015-11-06T00:00:00Z,12,A
+41363184,Manhattan,Critical,American,2017-05-30T00:00:00Z,8,A
+50009366,Manhattan,Not Critical,Chinese,2014-07-14T00:00:00Z,26,B
+40545546,Manhattan,Critical,American,2015-08-24T00:00:00Z,13,A
+41705968,Brooklyn,Critical,Mediterranean,2016-06-13T00:00:00Z,8,A
+41313479,Manhattan,Not Critical,Donuts,2016-03-21T00:00:00Z,12,A
+50044107,Manhattan,Critical,Japanese,2016-08-29T00:00:00Z,12,A
+41634367,Queens,Critical,Italian,2015-09-04T00:00:00Z,9,A
+50038000,Manhattan,Critical,Chinese,2016-06-14T00:00:00Z,13,A
+50008181,Manhattan,Critical,Vietnamese/Cambodian/Malaysia,2015-06-01T00:00:00Z,12,A
+50000252,Brooklyn,Not Critical,Jewish/Kosher,2016-06-07T00:00:00Z,11,A
+41658460,Manhattan,Critical,Mexican,2016-04-18T00:00:00Z,9,A
+40937824,Manhattan,Not Critical,Delicatessen,2017-09-20T00:00:00Z,12,A
+41630950,Brooklyn,Critical,Pizza,2015-02-11T00:00:00Z,22,B
+41406532,Queens,Critical,Bakery,2017-06-22T00:00:00Z,10,A
+50032688,Brooklyn,Not Critical,Middle Eastern,2016-11-21T00:00:00Z,9,A
+50045118,Brooklyn,Not Critical,Thai,2016-07-13T00:00:00Z,13,A
+40362098,Manhattan,Not Critical,American,2016-02-17T00:00:00Z,10,A
+41347101,Brooklyn,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-04-25T00:00:00Z,4,A
+41458695,Queens,Not Critical,Korean,2016-09-09T00:00:00Z,2,A
+41462617,Staten Island,Critical,American,2014-08-18T00:00:00Z,13,A
+50066538,Queens,Not Critical,American,2017-08-03T00:00:00Z,10,A
+50036526,Queens,Not Critical,Sandwiches,2016-09-27T00:00:00Z,22,B
+50045379,Bronx,Critical,Spanish,2016-10-14T00:00:00Z,17,B
+50067405,Brooklyn,Critical,Bakery,2017-09-05T00:00:00Z,51,C
+41442391,Brooklyn,Not Critical,French,2017-02-01T00:00:00Z,2,A
+50004168,Queens,Critical,Hamburgers,2016-06-24T00:00:00Z,7,A
+50002506,Manhattan,Not Critical,Asian,2017-10-05T00:00:00Z,10,A
+41668701,Manhattan,Critical,American,2016-05-12T00:00:00Z,13,A
+41694156,Bronx,Critical,Spanish,2015-08-21T00:00:00Z,25,B
+41290178,Queens,Critical,American,2014-04-18T00:00:00Z,12,A
+50000456,Manhattan,Critical,Asian,2016-08-01T00:00:00Z,11,A
+50002889,Brooklyn,Critical,American,2015-12-22T00:00:00Z,12,A
+41531104,Manhattan,Not Critical,American,2015-11-20T00:00:00Z,12,A
+50036141,Brooklyn,Not Critical,Bakery,2015-07-09T00:00:00Z,13,A
+41015916,Queens,Not Critical,Sandwiches,2015-11-27T00:00:00Z,2,A
+41309709,Manhattan,Critical,American,2016-12-08T00:00:00Z,8,A
+41651300,Staten Island,Critical,Mexican,2014-04-23T00:00:00Z,13,A
+41167352,Brooklyn,Not Critical,Bagels/Pretzels,2014-03-13T00:00:00Z,6,A
+50007447,Brooklyn,Not Critical,American,2016-05-12T00:00:00Z,9,A
+50000969,Queens,Critical,Chinese,2017-04-27T00:00:00Z,10,A
+50040759,Brooklyn,Not Critical,Chinese,2015-10-19T00:00:00Z,11,A
+50041799,Manhattan,Not Critical,American,2016-02-02T00:00:00Z,8,A
+50043058,Brooklyn,Not Critical,Thai,2017-04-04T00:00:00Z,9,A
+50001919,Manhattan,Not Critical,Seafood,2015-12-11T00:00:00Z,9,A
+41631209,Brooklyn,Not Critical,American,2017-07-07T00:00:00Z,12,A
+50011013,Manhattan,Critical,"Ice Cream, Gelato, Yogurt, Ices",2016-10-17T00:00:00Z,9,A
+40840790,Brooklyn,Not Critical,Pizza,2016-08-08T00:00:00Z,12,A
+41069770,Staten Island,Not Critical,Bakery,2014-06-26T00:00:00Z,12,A
+40602863,Manhattan,Critical,Cafe/coffee/Tea,2016-04-23T00:00:00Z,12,A
+40368801,Queens,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-05-03T00:00:00Z,9,A
+41714411,Brooklyn,Not Critical,Mexican,2017-04-06T00:00:00Z,12,A
+40957903,Queens,Not Critical,Cafe/coffee/Tea,2016-04-06T00:00:00Z,3,A
+50055394,Queens,Not Critical,Korean,2017-01-12T00:00:00Z,22,B
+41570413,Manhattan,Critical,Indian,2014-06-17T00:00:00Z,20,B
+41024211,Brooklyn,Not Critical,Italian,2015-07-27T00:00:00Z,8,A
+40785023,Manhattan,Critical,Middle Eastern,2016-06-13T00:00:00Z,18,B
+41700508,Queens,Not Critical,Delicatessen,2017-04-10T00:00:00Z,11,A
+40368271,Manhattan,Not Critical,American,2016-08-16T00:00:00Z,20,B
+40871170,Queens,Critical,Korean,2014-07-24T00:00:00Z,25,B
+41679355,Bronx,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-09-12T00:00:00Z,29,C
+41669606,Manhattan,Not Critical,Mediterranean,2017-02-02T00:00:00Z,7,A
+41562204,Manhattan,Critical,American,2014-08-05T00:00:00Z,12,A
+41396559,Brooklyn,Critical,American,2016-10-21T00:00:00Z,25,B
+41403890,Brooklyn,Not Critical,American,2017-08-16T00:00:00Z,12,A
+40641437,Manhattan,Critical,Italian,2014-04-29T00:00:00Z,12,A
+50043510,Manhattan,Not Critical,Chinese,2015-12-17T00:00:00Z,27,B
+50036444,Manhattan,Critical,Pizza,2015-07-29T00:00:00Z,27,B
+50039368,Manhattan,Critical,American,2017-01-04T00:00:00Z,7,A
+41317244,Manhattan,Critical,American,2017-02-08T00:00:00Z,14,B
+50005654,Bronx,Critical,American,2016-07-05T00:00:00Z,12,A
+50010978,Brooklyn,Critical,Chinese,2015-02-10T00:00:00Z,19,B
+41464140,Staten Island,Not Critical,Sandwiches/Salads/Mixed Buffet,2016-01-05T00:00:00Z,10,A
+50060058,Queens,Critical,Chicken,2017-08-10T00:00:00Z,12,A
+40400556,Staten Island,Critical,American,2014-11-06T00:00:00Z,28,C
+50042301,Queens,Critical,Caribbean,2016-09-23T00:00:00Z,13,A
+50040782,Manhattan,Not Critical,American,2017-01-04T00:00:00Z,7,A
+50016781,Queens,Critical,Chinese,2017-03-16T00:00:00Z,12,A
+50035589,Queens,Critical,Chinese,2017-08-17T00:00:00Z,8,A
+41653183,Queens,Critical,Chinese,2017-04-19T00:00:00Z,12,A
+40366938,Bronx,Not Critical,Cafe/coffee/Tea,2015-11-19T00:00:00Z,34,C
+41654984,Bronx,Critical,Chinese,2015-10-28T00:00:00Z,10,A
+50007421,Brooklyn,Critical,American,2015-05-16T00:00:00Z,12,A
+40511577,Brooklyn,Critical,Pizza/Italian,2014-02-12T00:00:00Z,30,C
+41076314,Manhattan,Critical,American,2016-07-27T00:00:00Z,31,C
+50039685,Queens,Not Applicable,Caribbean,2016-08-23T00:00:00Z,22,B
+50005885,Manhattan,Critical,Mexican,2015-10-27T00:00:00Z,13,A
+41631195,Queens,Not Critical,Sandwiches/Salads/Mixed Buffet,2014-09-08T00:00:00Z,11,A
+41499185,Manhattan,Not Critical,American,2014-07-01T00:00:00Z,10,A
+50049610,Queens,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-04-06T00:00:00Z,26,B
+50018812,Manhattan,Not Critical,Seafood,2015-04-23T00:00:00Z,2,A
+41627123,Brooklyn,Critical,American,2014-11-19T00:00:00Z,27,B
+40670353,Manhattan,Not Critical,American,2015-04-20T00:00:00Z,15,B
+41630632,Manhattan,Critical,Chinese,2015-03-17T00:00:00Z,29,C
+50006048,Bronx,Critical,Sandwiches,2015-11-17T00:00:00Z,10,A
+40537963,Brooklyn,Critical,Chinese,2016-03-22T00:00:00Z,18,B
+41063464,Brooklyn,Critical,"Juice, Smoothies, Fruit Salads",2017-05-10T00:00:00Z,12,A
+40692411,Manhattan,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2014-03-25T00:00:00Z,12,A
+41291373,Brooklyn,Not Critical,American,2015-06-18T00:00:00Z,13,A
+41171220,Queens,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-08-18T00:00:00Z,13,A
+41411067,Queens,Not Critical,American,2017-09-07T00:00:00Z,13,A
+50003695,Brooklyn,Critical,Cafe/coffee/Tea,2016-05-25T00:00:00Z,8,A
+41387014,Brooklyn,Critical,Chinese,2016-02-18T00:00:00Z,13,A
+40880365,Queens,Not Critical,Irish,2014-10-11T00:00:00Z,9,A
+50004906,Manhattan,Critical,Cafe/coffee/Tea,2016-09-20T00:00:00Z,10,A
+40364889,Brooklyn,Not Critical,American,2017-01-23T00:00:00Z,13,A
+40389115,Queens,Critical,Italian,2016-06-02T00:00:00Z,13,A
+41167181,Queens,Not Critical,American,2015-04-08T00:00:00Z,11,A
+50047933,Manhattan,Not Critical,Chinese,2016-07-25T00:00:00Z,28,C
+40939600,Manhattan,Not Critical,American,2015-12-28T00:00:00Z,7,A
+41210712,Brooklyn,Not Critical,Cafe/coffee/Tea,2015-07-20T00:00:00Z,7,A
+40397243,Manhattan,Critical,Italian,2016-01-15T00:00:00Z,12,A
+41076583,Brooklyn,Not Critical,English,2015-10-15T00:00:00Z,10,A
+50065103,Queens,Not Critical,Pizza,2017-09-07T00:00:00Z,25,B
+50067619,Brooklyn,Not Critical,Bakery,2017-08-28T00:00:00Z,6,A
+41356077,Manhattan,Critical,Italian,2014-07-22T00:00:00Z,15,B
+41084481,Manhattan,Not Critical,Chinese,2017-03-20T00:00:00Z,8,A
+41713485,Brooklyn,Not Critical,Chinese,2013-11-21T00:00:00Z,9,A
+41364122,Staten Island,Critical,Hamburgers,2016-07-07T00:00:00Z,13,A
+41422055,Manhattan,Not Critical,American,2017-04-17T00:00:00Z,7,A
+40750324,Manhattan,Not Critical,Bakery,2017-09-01T00:00:00Z,2,A
+40864834,Brooklyn,Critical,American,2016-02-02T00:00:00Z,45,C
+40368271,Manhattan,Not Critical,American,2015-05-19T00:00:00Z,19,B
+41633655,Queens,Not Critical,Indian,2016-02-08T00:00:00Z,19,B
+41512890,Queens,Critical,Chinese,2014-10-07T00:00:00Z,9,A
+41288811,Queens,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2014-08-22T00:00:00Z,9,A
+41211257,Bronx,Critical,Spanish,2017-08-15T00:00:00Z,15,B
+50000887,Brooklyn,Critical,American,2015-01-29T00:00:00Z,7,A
+41272100,Manhattan,Critical,Chinese,2014-11-25T00:00:00Z,12,A
+41103052,Queens,Not Critical,American,2015-05-16T00:00:00Z,7,A
+50018785,Manhattan,Critical,Asian,2015-07-27T00:00:00Z,14,B
+50043407,Brooklyn,Critical,Mexican,2016-11-01T00:00:00Z,12,A
+50014830,Queens,Not Critical,American,2014-11-13T00:00:00Z,11,A
+40373597,Brooklyn,Critical,Pizza/Italian,2014-05-12T00:00:00Z,17,B
+50002780,Manhattan,Not Critical,Chinese,2016-08-23T00:00:00Z,13,A
+50000518,Queens,Not Critical,Asian,2016-12-22T00:00:00Z,20,B
+41453387,Queens,Not Critical,American,2016-04-05T00:00:00Z,13,A
+40709458,Queens,Not Critical,Bakery,2016-09-29T00:00:00Z,3,A
+50001945,Manhattan,Critical,Japanese,2015-02-06T00:00:00Z,24,B
+50013086,Brooklyn,Critical,Spanish,2017-01-09T00:00:00Z,12,A
+50018556,Queens,Critical,Chinese,2016-04-11T00:00:00Z,26,B
+41649614,Brooklyn,Not Critical,French,2017-05-16T00:00:00Z,9,A
+50016088,Queens,Critical,Chinese,2016-11-22T00:00:00Z,16,B
+40400559,Manhattan,Not Critical,Irish,2013-12-10T00:00:00Z,11,A
+40948509,Brooklyn,Not Critical,Caribbean,2017-06-29T00:00:00Z,11,A
+50003730,Queens,Not Critical,Chinese,2017-05-03T00:00:00Z,8,A
+41475207,Queens,Critical,Pizza/Italian,2014-10-14T00:00:00Z,13,A
+41606108,Brooklyn,Critical,American,2014-09-16T00:00:00Z,10,A
+41351226,Manhattan,Not Critical,American,2016-03-09T00:00:00Z,11,A
+41578677,Manhattan,Not Critical,Indian,2014-08-19T00:00:00Z,13,A
+50053361,Queens,Not Critical,Pizza,2016-12-12T00:00:00Z,7,A
+41682041,Manhattan,Not Critical,Pizza,2016-05-17T00:00:00Z,8,A
+41561140,Manhattan,Not Critical,Italian,2014-10-22T00:00:00Z,11,A
+40736005,Brooklyn,Critical,American,2016-05-31T00:00:00Z,5,A
+50000689,Brooklyn,Critical,Cafe/coffee/Tea,2016-06-01T00:00:00Z,9,A
+41450629,Brooklyn,Not Critical,Hamburgers,2017-01-30T00:00:00Z,2,A
+41678381,Manhattan,Critical,Indian,2016-08-17T00:00:00Z,83,C
+41236269,Queens,Not Critical,Jewish/Kosher,2015-05-01T00:00:00Z,11,A
+41634226,Queens,Not Critical,Middle Eastern,2016-04-07T00:00:00Z,12,A
+50014197,Manhattan,Not Critical,Italian,2016-06-22T00:00:00Z,11,A
+40534870,Manhattan,Critical,Indian,2015-04-30T00:00:00Z,7,A
+50040127,Queens,Critical,Chinese,2017-10-16T00:00:00Z,9,A
+41003679,Brooklyn,Not Critical,Thai,2015-06-12T00:00:00Z,9,A
+41642539,Queens,Critical,Spanish,2014-12-05T00:00:00Z,9,A
+50013993,Bronx,Critical,Chicken,2014-10-08T00:00:00Z,16,B
+41697130,Queens,Critical,Chinese,2013-11-09T00:00:00Z,17,B
+41530258,Manhattan,Not Critical,Italian,2014-08-06T00:00:00Z,4,A
+41637125,Manhattan,Critical,American,2015-07-14T00:00:00Z,12,A
+50002320,Queens,Critical,"Bottled beverages, including water, sodas, juices, etc.",2016-06-18T00:00:00Z,10,A
+50052974,Brooklyn,Critical,Caribbean,2017-10-12T00:00:00Z,8,A
+41583463,Manhattan,Not Critical,American,2016-05-17T00:00:00Z,7,A
+41244032,Bronx,Critical,Mexican,2017-05-25T00:00:00Z,11,A
+50012424,Queens,Not Critical,American,2017-02-25T00:00:00Z,3,A
+50000229,Brooklyn,Critical,Barbecue,2017-05-16T00:00:00Z,17,B
+50066323,Bronx,Critical,Chinese,2017-08-28T00:00:00Z,21,B
+50013473,Bronx,Critical,Seafood,2016-06-24T00:00:00Z,13,A
+40366586,Queens,Critical,Jewish/Kosher,2015-11-09T00:00:00Z,14,B
+41623768,Queens,Critical,Pizza,2016-01-12T00:00:00Z,12,A
+40834713,Manhattan,Critical,Chinese,2015-04-06T00:00:00Z,13,A
+40610000,Brooklyn,Critical,Chinese,2017-01-11T00:00:00Z,24,B
+50000727,Brooklyn,Not Critical,Chinese,2015-10-26T00:00:00Z,9,A
+40763382,Manhattan,Not Critical,German,2015-10-29T00:00:00Z,11,A
+41357256,Manhattan,Critical,Pizza,2017-04-26T00:00:00Z,12,A
+41693538,Staten Island,Not Critical,Chinese,2015-01-22T00:00:00Z,9,A
+41138026,Brooklyn,Not Critical,Sandwiches,2015-08-21T00:00:00Z,12,A
+50064388,Manhattan,Critical,Italian,2017-06-05T00:00:00Z,10,A
+40931855,Brooklyn,Critical,American,2017-03-22T00:00:00Z,12,A
+50001541,Bronx,Critical,Pizza,2016-06-22T00:00:00Z,20,B
+41164840,Manhattan,Critical,Pizza,2017-06-23T00:00:00Z,11,A
+41321253,Queens,Critical,Thai,2014-04-09T00:00:00Z,11,A
+50001754,Bronx,Critical,Spanish,2015-03-20T00:00:00Z,26,B
+41543275,Manhattan,Not Critical,Mexican,2015-08-24T00:00:00Z,35,C
+50039201,Brooklyn,Critical,Chinese,2016-06-20T00:00:00Z,32,C
+40392927,Brooklyn,Not Critical,Russian,2017-06-09T00:00:00Z,11,A
+41440886,Manhattan,Critical,Sandwiches,2015-05-15T00:00:00Z,10,A
+41376950,Manhattan,Critical,Asian,2016-06-14T00:00:00Z,29,C
+50055291,Queens,Critical,Caribbean,2017-05-22T00:00:00Z,12,A
+50039282,Brooklyn,Not Critical,American,2016-06-06T00:00:00Z,12,A
+40620726,Manhattan,Critical,Italian,2015-01-05T00:00:00Z,11,A
+41630891,Staten Island,Critical,American,2016-08-10T00:00:00Z,20,B
+50003221,Queens,Not Critical,Delicatessen,2015-06-03T00:00:00Z,13,A
+41579102,Manhattan,Critical,American,2016-05-02T00:00:00Z,10,A
+41222699,Brooklyn,Not Critical,American,2017-09-26T00:00:00Z,12,A
+41449583,Manhattan,Critical,American,2016-08-17T00:00:00Z,13,A
+50013726,Staten Island,Critical,Pizza/Italian,2015-04-29T00:00:00Z,12,A
+50008244,Queens,Critical,Chinese,2015-06-23T00:00:00Z,23,B
+50001961,Queens,Not Critical,Spanish,2014-09-04T00:00:00Z,9,A
+50005889,Brooklyn,Critical,Vegetarian,2014-03-03T00:00:00Z,7,A
+40526489,Manhattan,Critical,American,2016-03-24T00:00:00Z,9,A
+40930657,Brooklyn,Critical,Italian,2016-10-13T00:00:00Z,17,B
+50010587,Staten Island,Not Critical,Pizza,2015-12-03T00:00:00Z,27,B
+50040875,Queens,Not Critical,American,2016-06-23T00:00:00Z,13,A
+41440886,Manhattan,Critical,Sandwiches,2015-01-29T00:00:00Z,10,A
+40391824,Staten Island,Not Critical,American,2014-08-28T00:00:00Z,12,A
+50006097,Manhattan,Not Critical,Indian,2014-04-21T00:00:00Z,4,A
+50012106,Brooklyn,Critical,Japanese,2016-09-13T00:00:00Z,10,A
+40379897,Manhattan,Not Critical,Hamburgers,2016-08-02T00:00:00Z,12,A
+50039742,Brooklyn,Critical,Asian,2017-08-30T00:00:00Z,12,A
+41241377,Manhattan,Not Critical,Mediterranean,2016-06-20T00:00:00Z,11,A
+41702488,Queens,Critical,Chinese,2014-06-24T00:00:00Z,10,A
+41310636,Queens,Critical,Bakery,2015-03-19T00:00:00Z,10,A
+40816162,Manhattan,Not Critical,Japanese,2016-12-06T00:00:00Z,8,A
+41495273,Queens,Critical,Chinese,2015-05-02T00:00:00Z,12,A
+40390409,Manhattan,Critical,Hamburgers,2015-06-26T00:00:00Z,18,B
+41452373,Brooklyn,Not Critical,Soul Food,2015-03-09T00:00:00Z,12,A
+41664920,Brooklyn,Not Critical,Chinese,2015-07-21T00:00:00Z,12,A
+40904248,Brooklyn,Critical,American,2015-12-15T00:00:00Z,14,B
+41379907,Brooklyn,Not Critical,Bakery,2015-12-02T00:00:00Z,2,A
+41382794,Bronx,Critical,American,2014-11-10T00:00:00Z,9,A
+40367278,Queens,Not Critical,Pizza/Italian,2016-03-29T00:00:00Z,12,A
+41493707,Manhattan,Critical,Japanese,2017-04-25T00:00:00Z,7,A
+41224664,Manhattan,Critical,American,2015-08-06T00:00:00Z,7,A
+50003556,Brooklyn,Critical,Chinese,2016-07-11T00:00:00Z,12,A
+50007215,Queens,Critical,Pizza,2015-07-16T00:00:00Z,7,A
+40385974,Staten Island,Critical,American,2017-01-19T00:00:00Z,13,A
+40391562,Brooklyn,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-06-20T00:00:00Z,13,A
+41217791,Bronx,Not Critical,Chinese,2015-02-04T00:00:00Z,7,A
+41083469,Queens,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-02-23T00:00:00Z,18,B
+50009441,Brooklyn,Not Critical,American,2015-01-14T00:00:00Z,7,A
+40550155,Manhattan,Critical,Delicatessen,2015-01-13T00:00:00Z,13,A
+40862491,Queens,Critical,American,2017-09-26T00:00:00Z,13,A
+50001664,Brooklyn,Critical,French,2017-01-21T00:00:00Z,12,A
+40393118,Manhattan,Critical,Chinese/Cuban,2015-04-23T00:00:00Z,12,A
+40725911,Manhattan,Not Critical,French,2016-04-22T00:00:00Z,10,A
+41520990,Queens,Not Critical,Cafe/coffee/Tea,2014-02-26T00:00:00Z,5,A
+50057638,Brooklyn,Not Critical,Chinese,2017-03-20T00:00:00Z,12,A
+41459557,Brooklyn,Critical,Indian,2016-06-27T00:00:00Z,6,A
+41693899,Brooklyn,Not Critical,Spanish,2016-02-08T00:00:00Z,10,A
+41189848,Manhattan,Critical,Pizza,2016-06-16T00:00:00Z,10,A
+50001262,Manhattan,Critical,American,2015-03-10T00:00:00Z,6,A
+40365239,Manhattan,Critical,Irish,2015-09-18T00:00:00Z,11,A
+40580639,Manhattan,Critical,Japanese,2016-05-04T00:00:00Z,20,B
+50032677,Brooklyn,Critical,Mexican,2015-04-02T00:00:00Z,24,B
+41563655,Bronx,Critical,Mexican,2014-09-18T00:00:00Z,10,A
+40368801,Queens,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2016-03-12T00:00:00Z,10,A
+41230012,Manhattan,Not Critical,American,2017-06-30T00:00:00Z,9,A
+40534810,Manhattan,Not Critical,American,2016-04-25T00:00:00Z,16,B
+41706076,Brooklyn,Not Critical,Pizza,2014-10-28T00:00:00Z,7,A
+41715835,Brooklyn,Critical,Barbecue,2014-12-08T00:00:00Z,12,A
+41143475,Bronx,Critical,Mexican,2016-12-08T00:00:00Z,12,A
+41671546,Manhattan,Critical,Cafe/coffee/Tea,2017-07-07T00:00:00Z,10,A
+41704440,Queens,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-05-01T00:00:00Z,6,A
+50018443,Manhattan,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-08-20T00:00:00Z,14,B
+41030982,Manhattan,Not Critical,Asian,2015-12-10T00:00:00Z,10,A
+50008320,Queens,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2014-11-21T00:00:00Z,9,A
+41371649,Brooklyn,Critical,Caribbean,2016-07-14T00:00:00Z,12,A
+50012829,Brooklyn,Not Critical,Cafe/coffee/Tea,2014-10-29T00:00:00Z,13,A
+40383511,Manhattan,Critical,American,2017-07-24T00:00:00Z,9,A
+50000855,Brooklyn,Not Critical,American,2014-04-02T00:00:00Z,13,A
+50016449,Queens,Not Critical,Chinese,2017-01-03T00:00:00Z,13,A
+50015859,Queens,Critical,Chinese,2015-07-01T00:00:00Z,7,A
+50005232,Queens,Critical,Korean,2015-04-23T00:00:00Z,27,B
+50000192,Brooklyn,Not Critical,French,2016-05-03T00:00:00Z,10,A
+50014461,Brooklyn,Critical,Chinese,2014-09-17T00:00:00Z,18,B
+41454419,Queens,Not Critical,Korean,2015-05-20T00:00:00Z,7,A
+50048221,Manhattan,Not Critical,Donuts,2017-05-24T00:00:00Z,8,A
+50000348,Queens,Critical,Pizza,2016-04-26T00:00:00Z,11,A
+40892468,Brooklyn,Critical,Chinese,2015-10-01T00:00:00Z,7,A
+41267944,Bronx,Critical,Chinese,2014-12-13T00:00:00Z,10,A
+50006597,Queens,Not Critical,American,2016-06-01T00:00:00Z,7,A
+50006206,Manhattan,Critical,Jewish/Kosher,2017-06-28T00:00:00Z,12,A
+41121169,Bronx,Not Critical,Caribbean,2016-09-27T00:00:00Z,13,A
+41408773,Queens,Critical,Donuts,2016-03-28T00:00:00Z,7,A
+41131167,Queens,Not Critical,Pizza/Italian,2015-03-20T00:00:00Z,11,A
+50012455,Manhattan,Critical,Chicken,2017-07-19T00:00:00Z,9,A
+50033580,Queens,Not Critical,Caribbean,2015-05-04T00:00:00Z,11,A
+50038280,Bronx,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-07-19T00:00:00Z,11,A
+41234821,Manhattan,Not Critical,Japanese,2017-03-21T00:00:00Z,11,A
+50009776,Brooklyn,Not Critical,American,2016-02-11T00:00:00Z,9,A
+40400473,Manhattan,Critical,Pizza,2016-08-12T00:00:00Z,12,A
+40545034,Queens,Not Critical,American,2014-10-24T00:00:00Z,20,B
+41302926,Brooklyn,Not Critical,American,2015-01-03T00:00:00Z,4,A
+40372417,Manhattan,Not Critical,Italian,2017-04-13T00:00:00Z,2,A
+50048648,Queens,Critical,Chinese,2016-08-22T00:00:00Z,12,A
+40539661,Brooklyn,Not Critical,Caribbean,2015-07-20T00:00:00Z,11,A
+41003342,Queens,Critical,Tex-Mex,2015-02-06T00:00:00Z,11,A
+41369789,Brooklyn,Not Critical,Chinese,2017-01-11T00:00:00Z,9,A
+41272136,Brooklyn,Critical,Caribbean,2017-04-25T00:00:00Z,20,B
+41627217,Manhattan,Not Critical,Indian,2017-04-24T00:00:00Z,9,A
+50003373,Queens,Critical,American,2014-11-19T00:00:00Z,12,A
+41668582,Manhattan,Not Critical,American,2014-10-24T00:00:00Z,2,A
+50062836,Queens,Not Critical,Asian,2017-05-09T00:00:00Z,10,A
+41239887,Brooklyn,Not Critical,Mexican,2014-11-28T00:00:00Z,10,A
+41217980,Manhattan,Not Critical,American,2015-10-28T00:00:00Z,4,A
+50000188,Bronx,Not Critical,Chinese,2015-04-13T00:00:00Z,10,A
+41043971,Bronx,Not Critical,Donuts,2017-08-03T00:00:00Z,12,A
+50051582,Manhattan,Critical,Delicatessen,2017-08-21T00:00:00Z,10,A
+41462864,Queens,Not Critical,French,2015-04-14T00:00:00Z,9,A
+41653501,Queens,Critical,Asian,2014-04-12T00:00:00Z,13,A
+41100740,Manhattan,Not Critical,French,2015-05-14T00:00:00Z,12,A
+40393725,Manhattan,Critical,American,2016-04-06T00:00:00Z,10,A
+41617354,Bronx,Not Critical,Donuts,2017-06-23T00:00:00Z,9,A
+50052435,Brooklyn,Critical,Sandwiches,2016-08-22T00:00:00Z,11,A
+50009465,Manhattan,Critical,American,2014-09-02T00:00:00Z,25,B
+41694144,Manhattan,Not Critical,Korean,2013-10-29T00:00:00Z,12,A
+50058908,Brooklyn,Not Critical,Cafe/coffee/Tea,2017-04-20T00:00:00Z,12,A
+40401895,Manhattan,Critical,American,2015-03-06T00:00:00Z,12,A
+50034907,Brooklyn,Not Critical,Cafe/coffee/Tea,2016-03-15T00:00:00Z,3,A
+50033699,Manhattan,Critical,Caribbean,2016-01-29T00:00:00Z,12,A
+41476227,Manhattan,Critical,Indian,2015-11-02T00:00:00Z,13,A
+50039833,Manhattan,Critical,Cafe/coffee/Tea,2015-10-14T00:00:00Z,7,A
+41286006,Brooklyn,Not Critical,Peruvian,2015-12-17T00:00:00Z,11,A
+41654129,Brooklyn,Not Critical,Chinese,2016-10-25T00:00:00Z,4,A
+50015197,Manhattan,Critical,Chinese,2016-06-23T00:00:00Z,18,B
+41197896,Manhattan,Not Critical,Italian,2017-07-27T00:00:00Z,9,A
+41633665,Manhattan,Not Critical,Cafe/coffee/Tea,2014-07-16T00:00:00Z,12,A
+50008660,Queens,Not Critical,Chinese,2014-06-25T00:00:00Z,11,A
+50034815,Brooklyn,Critical,Asian,2015-08-25T00:00:00Z,10,A
+40383284,Queens,Not Critical,Italian,2014-12-02T00:00:00Z,4,A
+41569216,Manhattan,Not Critical,Cafe/coffee/Tea,2016-10-11T00:00:00Z,11,A
+50001000,Manhattan,Critical,French,2015-05-04T00:00:00Z,32,C
+41304269,Brooklyn,Critical,Chinese,2015-05-07T00:00:00Z,13,A
+40736836,Manhattan,Not Critical,American,2015-05-27T00:00:00Z,10,A
+41157609,Manhattan,Critical,Pizza,2014-08-12T00:00:00Z,12,A
+50033802,Manhattan,Not Critical,American,2017-09-19T00:00:00Z,4,A
+40677036,Manhattan,Not Critical,Italian,2017-07-06T00:00:00Z,9,A
+41477087,Brooklyn,Not Critical,French,2016-06-23T00:00:00Z,12,A
+40544958,Manhattan,Critical,Mexican,2014-11-25T00:00:00Z,12,A
+50010420,Bronx,Not Critical,Chinese,2017-09-28T00:00:00Z,6,A
+50002920,Brooklyn,Critical,American,2016-04-11T00:00:00Z,10,A
+50068201,Queens,Critical,Chinese,2017-09-26T00:00:00Z,13,A
+50047353,Manhattan,Critical,Chinese,2016-06-30T00:00:00Z,23,B
+50042763,Queens,Critical,"Juice, Smoothies, Fruit Salads",2015-12-18T00:00:00Z,10,A
+41595841,Bronx,Not Critical,Seafood,2017-08-16T00:00:00Z,13,A
+50002579,Manhattan,Not Critical,"Juice, Smoothies, Fruit Salads",2016-09-19T00:00:00Z,12,A
+41458079,Brooklyn,Critical,Pizza,2015-07-10T00:00:00Z,5,A
+50039428,Brooklyn,Critical,Sandwiches,2017-10-16T00:00:00Z,8,A
+50004978,Manhattan,Not Critical,Ethiopian,2015-03-31T00:00:00Z,6,A
+50048064,Bronx,Not Critical,Caribbean,2016-12-15T00:00:00Z,16,B
+41605848,Bronx,Critical,Chinese,2017-05-17T00:00:00Z,7,A
+41362350,Queens,Not Critical,American,2014-01-29T00:00:00Z,2,A
+50011217,Queens,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2014-08-12T00:00:00Z,10,A
+50044225,Queens,Not Critical,Asian,2017-03-29T00:00:00Z,8,A
+41625337,Brooklyn,Critical,Caribbean,2014-09-22T00:00:00Z,12,A
+41270009,Manhattan,Critical,American,2016-12-22T00:00:00Z,11,A
+41050702,Bronx,Critical,Delicatessen,2017-08-09T00:00:00Z,18,B
+41637061,Manhattan,Not Critical,Italian,2015-11-23T00:00:00Z,6,A
+41416234,Bronx,Critical,Chinese,2016-03-17T00:00:00Z,10,A
+50032894,Brooklyn,Critical,American,2016-05-18T00:00:00Z,13,A
+40946043,Queens,Not Critical,Chinese,2017-03-02T00:00:00Z,10,A
+41247560,Brooklyn,Not Critical,American,2016-06-22T00:00:00Z,12,A
+50048575,Queens,Not Critical,Chinese,2016-04-14T00:00:00Z,13,A
+40511292,Manhattan,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-06-06T00:00:00Z,13,A
+50002635,Manhattan,Not Critical,Cafe/coffee/Tea,2015-10-30T00:00:00Z,7,A
+40917497,Brooklyn,Not Critical,American,2015-06-04T00:00:00Z,13,A
+41584936,Manhattan,Not Critical,Pizza/Italian,2017-04-25T00:00:00Z,10,A
+40377124,Bronx,Critical,Seafood,2016-06-08T00:00:00Z,18,B
+40638566,Queens,Not Critical,Pizza/Italian,2015-06-11T00:00:00Z,13,A
+41266854,Brooklyn,Not Critical,American,2017-07-20T00:00:00Z,11,A
+41173778,Manhattan,Critical,"Juice, Smoothies, Fruit Salads",2016-06-21T00:00:00Z,10,A
+50006337,Manhattan,Not Critical,American,2017-07-28T00:00:00Z,12,A
+41305402,Manhattan,Not Critical,Italian,2017-05-31T00:00:00Z,2,A
+50059485,Queens,Critical,Spanish,2017-05-01T00:00:00Z,11,A
+50008025,Queens,Not Critical,American,2014-08-07T00:00:00Z,12,A
+50019176,Manhattan,Not Critical,American,2017-01-10T00:00:00Z,12,A
+41578339,Brooklyn,Critical,Bakery,2015-08-22T00:00:00Z,12,A
+41375794,Brooklyn,Critical,Jewish/Kosher,2016-03-16T00:00:00Z,13,A
+41003717,Staten Island,Not Critical,Italian,2015-02-12T00:00:00Z,13,A
+41128245,Bronx,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2015-11-05T00:00:00Z,26,B
+40586000,Manhattan,Critical,Bakery,2014-07-17T00:00:00Z,13,A
+40561290,Brooklyn,Critical,Pizza,2017-10-12T00:00:00Z,7,A
+41621139,Manhattan,Critical,Italian,2016-04-29T00:00:00Z,10,A
+41434872,Brooklyn,Not Critical,Pizza,2015-09-10T00:00:00Z,12,A
+50051014,Brooklyn,Not Critical,Spanish,2016-06-27T00:00:00Z,27,B
+41549333,Queens,Critical,Caribbean,2015-08-20T00:00:00Z,12,A
+50006537,Brooklyn,Critical,Cafe/coffee/Tea,2016-04-15T00:00:00Z,11,A
+41329499,Brooklyn,Not Critical,Soul Food,2017-08-24T00:00:00Z,21,B
+50000422,Brooklyn,Not Critical,Italian,2017-05-17T00:00:00Z,12,A
+50044622,Manhattan,Not Applicable,Hamburgers,2017-03-16T00:00:00Z,0,A
+41647578,Brooklyn,Critical,American,2014-04-04T00:00:00Z,14,B
+50008451,Queens,Critical,Spanish,2015-04-30T00:00:00Z,10,A
+41430102,Brooklyn,Critical,Mexican,2016-06-22T00:00:00Z,10,A
+41326368,Manhattan,Critical,American,2016-02-25T00:00:00Z,8,A
+50001109,Manhattan,Critical,French,2014-12-22T00:00:00Z,9,A
+41630103,Brooklyn,Critical,Cafe/coffee/Tea,2017-07-06T00:00:00Z,12,A
+41700243,Brooklyn,Critical,Cafe/coffee/Tea,2015-01-08T00:00:00Z,5,A
+50014605,Staten Island,Critical,Spanish,2016-09-22T00:00:00Z,8,A
+41680956,Brooklyn,Not Critical,Chinese,2016-03-08T00:00:00Z,9,A
+41700785,Brooklyn,Not Critical,Japanese,2015-08-27T00:00:00Z,10,A
+40989787,Queens,Critical,Korean,2014-10-09T00:00:00Z,23,B
+50036858,Brooklyn,Critical,"Juice, Smoothies, Fruit Salads",2016-08-01T00:00:00Z,18,B
+41237575,Queens,Not Critical,"Ice Cream, Gelato, Yogurt, Ices",2015-09-08T00:00:00Z,12,A
+40970790,Queens,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2013-12-26T00:00:00Z,27,B
+50040569,Brooklyn,Critical,Cafe/coffee/Tea,2016-09-15T00:00:00Z,12,A
+41410057,Queens,Not Critical,American,2014-01-08T00:00:00Z,12,A
+50042418,Bronx,Critical,Mexican,2016-06-29T00:00:00Z,12,A
+41106672,Brooklyn,Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2017-04-17T00:00:00Z,18,B
+50018652,Manhattan,Critical,American,2015-12-29T00:00:00Z,9,A
+40763382,Manhattan,Critical,German,2014-03-04T00:00:00Z,7,A
+40361998,Queens,Not Critical,Delicatessen,2015-03-04T00:00:00Z,2,A
+41632521,Brooklyn,Not Critical,Italian,2014-10-08T00:00:00Z,9,A
+40645474,Manhattan,Critical,American,2017-05-10T00:00:00Z,10,A
+50001689,Queens,Not Critical,Caribbean,2015-06-19T00:00:00Z,9,A
+41695440,Brooklyn,Not Critical,Chinese,2014-05-12T00:00:00Z,21,B
+41611705,Queens,Critical,American,2015-01-14T00:00:00Z,16,B
+41711813,Manhattan,Critical,American,2015-10-07T00:00:00Z,10,A
+41667113,Brooklyn,Not Critical,"Ice Cream, Gelato, Yogurt, Ices",2015-06-04T00:00:00Z,13,A
+40559606,Manhattan,Not Critical,Vietnamese/Cambodian/Malaysia,2015-08-06T00:00:00Z,2,A
+41468950,Manhattan,Critical,Donuts,2015-02-09T00:00:00Z,7,A
+40370759,Manhattan,Not Critical,Spanish,2017-02-15T00:00:00Z,24,B
+40901832,Manhattan,Critical,Bagels/Pretzels,2016-05-05T00:00:00Z,7,A
+41193088,Manhattan,Not Critical,Mexican,2017-01-18T00:00:00Z,3,A
+40550801,Bronx,Critical,"Ice Cream, Gelato, Yogurt, Ices",2016-02-02T00:00:00Z,18,B
+41243472,Manhattan,Critical,Polish,2017-01-04T00:00:00Z,12,A
+41564382,Manhattan,Critical,Hamburgers,2016-07-29T00:00:00Z,12,A
+40369608,Brooklyn,Not Critical,American,2016-03-02T00:00:00Z,9,A
+40547085,Brooklyn,Critical,Mediterranean,2015-04-23T00:00:00Z,10,A
+41139411,Manhattan,Critical,Mexican,2017-01-18T00:00:00Z,12,A
+40936347,Brooklyn,Not Critical,American,2015-12-21T00:00:00Z,13,A
+41640950,Manhattan,Not Critical,Mexican,2016-07-12T00:00:00Z,9,A
+41701232,Queens,Not Critical,Spanish,2016-07-07T00:00:00Z,7,A
+40830563,Manhattan,Critical,American,2015-04-09T00:00:00Z,22,B
+41629513,Manhattan,Not Critical,American,2013-08-30T00:00:00Z,13,A
+50032861,Manhattan,Not Critical,Cafe/coffee/Tea,2016-05-10T00:00:00Z,7,A
+50002613,Queens,Not Critical,Asian,2017-05-09T00:00:00Z,12,A
+41503007,Manhattan,Critical,Cafe/coffee/Tea,2014-12-24T00:00:00Z,9,A
+50043231,Brooklyn,Not Critical,Spanish,2015-12-22T00:00:00Z,10,A
+41188476,Manhattan,Critical,Mexican,2016-02-16T00:00:00Z,12,A
+50007874,Bronx,Critical,American,2017-03-30T00:00:00Z,10,A
+41429907,Brooklyn,Not Critical,American,2017-01-04T00:00:00Z,13,A
+41617076,Manhattan,Not Critical,Korean,2015-10-20T00:00:00Z,7,A
+41022628,Queens,Critical,Vietnamese/Cambodian/Malaysia,2016-10-03T00:00:00Z,12,A
+41618266,Queens,Critical,Chinese,2014-10-16T00:00:00Z,47,C
+41132351,Manhattan,Not Critical,"Bottled beverages, including water, sodas, juices, etc.",2016-02-17T00:00:00Z,2,A
+41546956,Brooklyn,Critical,Chinese,2015-06-04T00:00:00Z,13,A
+50011121,Brooklyn,Critical,Indian,2016-06-16T00:00:00Z,14,B
+41330645,Manhattan,Critical,Cafe/coffee/Tea,2016-04-14T00:00:00Z,7,A
+40855120,Manhattan,Not Critical,Italian,2014-10-22T00:00:00Z,13,A
+41574945,Brooklyn,Not Critical,Caribbean,2013-11-15T00:00:00Z,12,A
+41563549,Queens,Not Critical,Delicatessen,2016-09-28T00:00:00Z,7,A
+41559345,Brooklyn,Not Critical,"Juice, Smoothies, Fruit Salads",2015-07-20T00:00:00Z,11,A
+41374209,Manhattan,Not Critical,Chicken,2015-09-11T00:00:00Z,10,A
+41189470,Brooklyn,Not Critical,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",2014-08-25T00:00:00Z,10,A
+40685858,Manhattan,Not Critical,Steak,2016-05-19T00:00:00Z,10,A
+50040568,Bronx,Critical,Chicken,2016-10-05T00:00:00Z,12,A
+41470208,Manhattan,Not Critical,American,2015-02-17T00:00:00Z,10,A
+40698823,Brooklyn,Not Critical,American,2014-08-11T00:00:00Z,10,A
+41653059,Manhattan,Not Critical,Caribbean,2014-12-17T00:00:00Z,9,A
+41069604,Manhattan,Critical,American,2014-08-07T00:00:00Z,13,A
+50018528,Brooklyn,Critical,Soul Food,2015-02-26T00:00:00Z,13,A
+50041701,Manhattan,Not Critical,Japanese,2016-07-12T00:00:00Z,8,A
+50007212,Brooklyn,Critical,Jewish/Kosher,2017-01-17T00:00:00Z,11,A
+41691331,Queens,Not Critical,Asian,2014-11-12T00:00:00Z,7,A
+40901214,Staten Island,Critical,American,2014-08-21T00:00:00Z,36,C
+41332853,Bronx,Critical,American,2014-07-25T00:00:00Z,9,A
+50047882,Queens,Not Critical,Donuts,2016-04-27T00:00:00Z,12,A
+41339607,Brooklyn,Critical,Jewish/Kosher,2016-01-21T00:00:00Z,11,A
+40424247,Queens,Not Critical,Delicatessen,2017-04-04T00:00:00Z,10,A
+41652004,Queens,Not Critical,Spanish,2015-05-20T00:00:00Z,11,A
+41647571,Manhattan,Not Critical,Chinese,2015-03-03T00:00:00Z,13,A
+50016843,Manhattan,Critical,Spanish,2016-01-08T00:00:00Z,26,B
+40717234,Bronx,Not Critical,Italian,2015-04-24T00:00:00Z,12,A
+50044852,Manhattan,Critical,German,2017-06-30T00:00:00Z,12,A
+41717909,Brooklyn,Not Critical,Chicken,2017-03-13T00:00:00Z,10,A
+50047124,Manhattan,Critical,Vegetarian,2016-07-26T00:00:00Z,12,A
+50011937,Manhattan,Critical,American,2014-11-28T00:00:00Z,10,A
+50041313,Manhattan,Critical,Delicatessen,2017-03-16T00:00:00Z,5,A
+41182682,Staten Island,Critical,Japanese,2016-04-14T00:00:00Z,10,A
+40401487,Queens,Critical,Jewish/Kosher,2015-02-10T00:00:00Z,11,A
+40948868,Queens,Not Critical,Italian,2015-06-01T00:00:00Z,8,A
+50042224,Queens,Not Critical,Thai,2015-11-05T00:00:00Z,13,A
+41318348,Manhattan,Not Critical,Spanish,2015-08-03T00:00:00Z,8,A
+50002693,Manhattan,Not Critical,American,2015-04-01T00:00:00Z,7,A
+50044856,Brooklyn,Critical,American,2016-10-25T00:00:00Z,15,B
+50064086,Manhattan,Critical,Italian,2017-07-05T00:00:00Z,17,B
