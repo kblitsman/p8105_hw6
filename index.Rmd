@@ -2,10 +2,10 @@
 title: Analyzing Sanitation Grades in New York City
 ---
 ### Data
-We chose to analyze the New York Restaurant Inspection Result data set, which includes the sanitiation ratings, scores, and infractions for the various restaurants around the city. The data was cleaned and manipulated to be accessible for analysis.
+We chose to analyze the New York Restaurant Inspection Result data set, which includes the sanitation ratings, scores, and infractions for the various restaurants around the city. The data was cleaned and manipulated to be accessible for analysis.
 
 ### Analysis
 We initially examined various sanitation rating aspects of restaurants in New York City using [plotly](p8105_hw6_kb2908.html). We included a box-plot which displays the score medians for the 10 most popular categories of restaurants. Additionally, a donut graph displays the proportion of the top 10 restaurant categories that constitute the restaurants in the B-rating. Finally, a bar-chart displays the number of critical and non-critical infractions by boro.
 
 ###Shiny Dashboard
-We then constructed an interative Shiny dashboard to allow the user to control certain aspects of the [data analysis](https://kblitsman.shinyapps.io/p8105_hw6_problem2/).Specifically, the user is allowed the desired grade and date range of the restaurant inspection. The three included graphs update appropriately when such changes are made. 
+We then constructed an interactive Shiny dashboard to allow the user to control certain aspects of the [data analysis](https://kblitsman.shinyapps.io/p8105_hw6_problem2/). Specifically, the user is allowed the desired grade and date range of the restaurant inspection. The three included graphs update appropriately when such changes are made. 
