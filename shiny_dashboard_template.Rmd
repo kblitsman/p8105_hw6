@@ -29,6 +29,11 @@ nyc_inspections =
   mutate(boro = str_to_title(boro)) %>%
   filter(inspection_date > "1900-01-01" ) %>% 
   select(-action, -phone)
+
+cuisine_list = nyc_inspections %>% 
+  count(cuisine_description, sort = TRUE) %>% 
+  top_n(10) %>% 
+  select(cuisine_description)
 ```
 
 Column {.sidebar}
@@ -55,16 +60,16 @@ Row
 ### Chart A
 
 ```{r}
-cuisine_list = nyc_inspections %>% 
-  count(cuisine_description, sort = TRUE) %>% 
-  top_n(10) %>% 
-  select(cuisine_description)
+renderPlotly({
+
 
 inner_join(nyc_inspections, cuisine_list,
              by = "cuisine_description") %>% 
   mutate(cuisine_description = fct_reorder(cuisine_description, score)) %>% 
+  filter(inspection_date %in% input$inspection_range[1]:input$inspection_range[2]) %>%
   plot_ly(y = ~score, color = ~cuisine_description, type = "box",
           colors = "Set2")
+})
 ```
 
 Row {.tabset .tabset-fade}
