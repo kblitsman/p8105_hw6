@@ -3,6 +3,8 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
+    - text: "Project Repository"
+      href: https://github.com/kblitsman/p8105_hw6_kb2908 
     - text: "About Katie"
       href: https://kblitsman.github.io/
     - text: "About Corey"
