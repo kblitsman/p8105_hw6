@@ -1,13 +1,12 @@
 ---
-title: "Homework 6"
-author: "Katie Blitsman (kb2908)"
+title: "Problem 1"
+author: "Katie Blitsman (kb2908) & Corey Brennan (cb3262)"
 date: "November 17, 2017"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
     vertical_layout: fill
 ---
-#Problem 1
 
 ```{r problem1_setup, include=FALSE}
 library(tidyverse)
@@ -27,8 +26,8 @@ nyc_inspections =
   clean_names() %>%
   mutate(cuisine_description = ifelse(cuisine_description == "CafÃ©/Coffee/Tea", "Cafe/coffee/Tea", cuisine_description)) %>%
   filter(grade %in% c("A", "B", "C"), boro != "Missing") %>% 
-  mutate(boro = str_to_title(boro),
-         cuisine_description) %>% 
+  mutate(boro = str_to_title(boro)) %>%
+  filter(inspection_date > "2000-01-01 UTC") %>%
   select(-action, -phone)
 
 ```
@@ -38,7 +37,7 @@ Column {data-width=400}
 
 ### Boxplots of Inspection Score by Cuisine
 
-```{r}
+```{r boxplot}
 cuisine_list = nyc_inspections %>% 
   count(cuisine_description, sort = TRUE) %>% 
   top_n(10) %>% 
@@ -56,7 +55,7 @@ Column {data-width=500}
 
 ### Donut Chart of B-Grades by Cuisine
 
-```{r}
+```{r donut_chart}
 inner_join(nyc_inspections, cuisine_list,
              by = "cuisine_description") %>%
   select(cuisine_description, grade) %>%
@@ -68,7 +67,7 @@ inner_join(nyc_inspections, cuisine_list,
 
 ### Bar Graph of Inspection Grades by Borough
 
-```{r}
+```{r bar_graph}
 grade_bar = nyc_inspections %>%
   ggplot(aes(x = grade, fill = critical_flag)) +
   geom_bar() +
