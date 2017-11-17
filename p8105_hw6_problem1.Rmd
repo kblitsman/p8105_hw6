@@ -16,9 +16,11 @@ library(flexdashboard)
 library(forcats)
 library(janitor)
 
+# Reading in the data
 nyc_inspections = read_csv("./DOHMH_New_York_City_Restaurant_Inspection_Results.csv.gz", 
                            col_types = cols(building = col_character()),
                            na = c("NA", "N/A"))
+# Cleaning the data for analysis
 nyc_inspections =
   nyc_inspections %>%
   clean_names() %>%
@@ -33,11 +35,14 @@ nyc_inspections =
 ### Boxplots of Inspection Score by Cuisine
 
 ```{r boxplot}
+
+# Identifying top 10 cuisine types
 cuisine_list = nyc_inspections %>% 
   count(cuisine_description, sort = TRUE) %>% 
   top_n(10) %>% 
   select(cuisine_description)
 
+# Merging the data back in and creating boxplot
 inner_join(nyc_inspections, cuisine_list,
              by = "cuisine_description") %>% 
   mutate(cuisine_description = fct_reorder(cuisine_description, score)) %>% 
@@ -48,6 +53,8 @@ inner_join(nyc_inspections, cuisine_list,
 ### Donut Chart of B-Grades by Cuisine
 
 ```{r donut_chart}
+
+# Merging the cuisine data back in and creating a donut chart
 inner_join(nyc_inspections, cuisine_list,
              by = "cuisine_description") %>%
   select(cuisine_description, grade) %>%
@@ -60,6 +67,8 @@ inner_join(nyc_inspections, cuisine_list,
 ### Bar Graph of Inspection Grades by Borough
 
 ```{r bar_graph}
+
+# Creating ggplot of the critical flags that restaurants have received
 grade_bar = nyc_inspections %>%
   ggplot(aes(x = grade, fill = critical_flag)) +
   geom_bar() +
@@ -67,5 +76,6 @@ grade_bar = nyc_inspections %>%
   xlab("Grade") + ylab("Number of Restaurants") +
   labs(x = "", fill = "Infraction Type")
 
+# Converting ggplot to plotly format
 ggplotly(grade_bar)
 ```
