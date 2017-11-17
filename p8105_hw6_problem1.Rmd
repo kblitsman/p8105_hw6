@@ -30,9 +30,6 @@ nyc_inspections =
 
 ```
 
-Column {data-width=400}
------------------------------------------------------------------------
-
 ### Boxplots of Inspection Score by Cuisine
 
 ```{r boxplot}
@@ -47,9 +44,6 @@ inner_join(nyc_inspections, cuisine_list,
   plot_ly(y = ~score, color = ~cuisine_description, type = "box",
           colors = "Set2")
 ```
-
-Column {data-width=500}
------------------------------------------------------------------------
 
 ### Donut Chart of B-Grades by Cuisine
 
@@ -70,7 +64,8 @@ grade_bar = nyc_inspections %>%
   ggplot(aes(x = grade, fill = critical_flag)) +
   geom_bar() +
   facet_grid(. ~ boro) +
-  xlab("Grade") + ylab("Number of Restaurants")
+  xlab("Grade") + ylab("Number of Restaurants") +
+  labs(x = "", fill = "Infraction Type")
 
 ggplotly(grade_bar)
 ```
