@@ -70,7 +70,7 @@ grade_bar = nyc_inspections %>%
   ggplot(aes(x = grade, fill = critical_flag)) +
   geom_bar() +
   facet_grid(. ~ boro) +
-  xlab("Grade") + ylab("Number of Restaurants")
+  xlab("\nGrade") + ylab("Number of Restaurants\n")
 
 ggplotly(grade_bar)
 ```
