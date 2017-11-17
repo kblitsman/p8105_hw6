@@ -1,0 +1,98 @@
+---
+title: "Untitled"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: row
+  runtime: shiny
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(plotly)
+library(readr)
+library(stringr)
+library(ggplot2)
+library(flexdashboard)
+library(forcats)
+library(janitor)
+library(shiny)
+
+nyc_inspections = read_csv("./DOHMH_New_York_City_Restaurant_Inspection_Results.csv.gz", 
+                           col_types = cols(building = col_character()),
+                           na = c("NA", "N/A"))
+nyc_inspections =
+  nyc_inspections %>%
+  clean_names() %>%
+  mutate(cuisine_description = ifelse(cuisine_description == "CafÃ©/Coffee/Tea", "Cafe/coffee/Tea", cuisine_description)) %>%
+  filter(grade %in% c("A", "B", "C"), boro != "Missing") %>% 
+  mutate(boro = str_to_title(boro)) %>%
+  filter(inspection_date > "1900-01-01" ) %>% 
+  select(-action, -phone)
+```
+
+Column {.sidebar}
+-----------------------------------------------------------------------
+
+```{r, echo=FALSE}
+grade = nyc_inspections %>% distinct(grade) %>% pull()
+first_date = min(nyc_inspections$inspection_date)
+last_date = max(nyc_inspections$inspection_date)
+
+#selectInput widget
+selectInput("grade_choice", label = h3("Select grade"),
+            choices = grade, selected = "A")
+
+# sliderInput widget
+sliderInput("inspection_range", label = h3("Choose inspection date range"), min = first_date, max = last_date, value = c(as.POSIXct("2012-05-01"), as.POSIXct("2017-10-17")))
+
+```
+
+
+Row
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+cuisine_list = nyc_inspections %>% 
+  count(cuisine_description, sort = TRUE) %>% 
+  top_n(10) %>% 
+  select(cuisine_description)
+
+inner_join(nyc_inspections, cuisine_list,
+             by = "cuisine_description") %>% 
+  mutate(cuisine_description = fct_reorder(cuisine_description, score)) %>% 
+  plot_ly(y = ~score, color = ~cuisine_description, type = "box",
+          colors = "Set2")
+```
+
+Row {.tabset .tabset-fade}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+renderPlotly({
+inner_join(nyc_inspections, cuisine_list,
+             by = "cuisine_description") %>%
+  select(cuisine_description, grade) %>%
+  count(cuisine_description, grade) %>%
+  filter(grade == input$grade_choice) %>%
+  plot_ly(labels = ~cuisine_description, values = ~n, type = "pie", hole = 0.6,
+          colors = "Set2")
+})
+```
+
+### Chart C
+
+```{r}
+grade_bar = nyc_inspections %>%
+  ggplot(aes(x = grade, fill = critical_flag)) +
+  geom_bar() +
+  facet_grid(. ~ boro) +
+  xlab("Grade") + ylab("Number of Restaurants")
+
+ggplotly(grade_bar)
+```
+
