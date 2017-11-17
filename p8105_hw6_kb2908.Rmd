@@ -17,12 +17,15 @@ library(stringr)
 library(ggplot2)
 library(flexdashboard)
 library(forcats)
+library(janitor)
 
 nyc_inspections = read_csv("./DOHMH_New_York_City_Restaurant_Inspection_Results.csv.gz", 
                            col_types = cols(building = col_character()),
                            na = c("NA", "N/A"))
 nyc_inspections =
   nyc_inspections %>%
+  clean_names() %>%
+  mutate(cuisine_description = ifelse(cuisine_description == "CafÃ©/Coffee/Tea", "Cafe/coffee/Tea", cuisine_description)) %>%
   filter(grade %in% c("A", "B", "C"), boro != "Missing") %>% 
   mutate(boro = str_to_title(boro),
          cuisine_description) %>% 
@@ -51,10 +54,16 @@ inner_join(nyc_inspections, cuisine_list,
 Column {data-width=500}
 -----------------------------------------------------------------------
 
-### Chart B
+### Donut Chart of B-Grades by Cuisine
 
 ```{r}
-
+inner_join(nyc_inspections, cuisine_list,
+             by = "cuisine_description") %>%
+  select(cuisine_description, grade) %>%
+  count(cuisine_description, grade) %>%
+  filter(grade == "B") %>%
+  plot_ly(labels = ~cuisine_description, values = ~n, type = "pie", hole = 0.6,
+          colors = "Set2")
 ```
 
 ### Bar Graph of Inspection Grades by Borough
