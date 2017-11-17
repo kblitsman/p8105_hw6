@@ -24,11 +24,11 @@ nyc_inspections = read_csv("./DOHMH_New_York_City_Restaurant_Inspection_Results.
 nyc_inspections =
   nyc_inspections %>%
   clean_names() %>%
+  select(camis, boro, critical_flag, cuisine_description, inspection_date, score, grade, zipcode) %>% 
   mutate(cuisine_description = ifelse(cuisine_description == "CafÃ©/Coffee/Tea", "Cafe/coffee/Tea", cuisine_description)) %>%
   filter(grade %in% c("A", "B", "C"), boro != "Missing") %>% 
   mutate(boro = str_to_title(boro)) %>%
-  filter(inspection_date > "1900-01-01" ) %>% 
-  select(-action, -phone)
+  filter(inspection_date > "1900-01-01" )
 
 cuisine_list = nyc_inspections %>% 
   count(cuisine_description, sort = TRUE) %>% 
@@ -93,12 +93,17 @@ renderPlotly({
 ### Chart C
 
 ```{r}
-grade_bar = nyc_inspections %>%
+renderPlotly({
+  
+  grade_bar = nyc_inspections %>%
+  filter(inspection_date %in% input$inspection_range[1]:input$inspection_range[2],          grade == input$grade_choice) %>% 
   ggplot(aes(x = grade, fill = critical_flag)) +
   geom_bar() +
   facet_grid(. ~ boro) +
   xlab("Grade") + ylab("Number of Restaurants")
 
 ggplotly(grade_bar)
+})
+
 ```
 
