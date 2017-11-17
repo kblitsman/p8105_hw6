@@ -3,10 +3,12 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About"
-      href: about.html
+    - text: "About Katie"
+      href: https://kblitsman.github.io/
+    - text: "About Corey"
+      href: https://corey-brennan.github.io/
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:<corey.brennan@columbia.edu;kb2908@cumc.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/kblitsman/
     - icon: fa-github fa-lg
