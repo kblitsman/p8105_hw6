@@ -1,9 +1,11 @@
 ---
 title: Analyzing Sanitation Grades in New York City
 ---
+### Data
+We chose to analyze the New York Restaurant Inspection Result data set, which includes the sanitiation ratings, scores, and infractions for the various restaurants around the city. 
 
 ### Analysis
-We initially examined various sanitation aspects of restaurants in New York City using [plotly](p8105_hw6_kb2908.html)
+We initially examined various sanitation rating aspects of restaurants in New York City using [plotly](p8105_hw6_kb2908.html).
 
 ###Shiny Dashboard
 We then constructed an interative Shiny dashboard to allow the user to control certain aspects of the [data analysis](https://kblitsman.shinyapps.io/p8105_hw6_problem2/).
