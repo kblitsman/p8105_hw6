@@ -9,8 +9,7 @@ We chose to analyze the DOHMN New York City Restaurant Inspection Results datase
 Our initial analysis examined various sanitation rating aspects of restaurants in New York City using [plotly](./Problem1/p8105_hw6_problem1.html). We included a boxplot which displays the score medians for the ten most popular categories of restaurants. Based on the total number of restaurants with a B-Rating in these top ten categories, a donut graph was created to display the proportion of restaurants that each category contributed. Finally, a bar-chart was used to display how many infractions and what types of infractions restaurants received delineated by inspection grade and borough.
 
 ### Shiny Dashboard
-We then constructed an interactive Shiny dashboard to allow the user to control certain aspects of the [data analysis](https://kblitsman.shinyapps.io/p8105_hw6_problem2/). Specifically, the user is allowed to select the desired grade and date range of the restaurant inspection. The three included graphs update appropriately when such changes are made. 
-
+We then constructed an interactive Shiny dashboard to allow the user to control certain aspects of the [data analysis](https://kblitsman.shinyapps.io/p8105_hw6_problem2/). Specifically, the user is allowed to select a desired restaurant inspection grade and date range. When the user selects a parameter to narrow the restaurant inspections dataset, the three graphs included will update accordingly. 
 
 ### More Details on Analysis  
 For additional details on our analysis and how the plots were designed, please visit our GitHub repo [here](https://github.com/kblitsman/p8105_hw6_kb2908).
